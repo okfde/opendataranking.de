@@ -1,0 +1,61 @@
+- title: Gesamt
+  slug: gesamt
+  color: '#43388c'
+- title: Rechts&shy;anspruch auf Open Data
+  slug: rechtsanspruch
+  color: '#ffa6d0'
+  description: Ein Rechtsanspruch darauf, dass die bei staatlichen Einrichtungen vorhandenen Daten so umfassend wie möglich verfügbar und nutzbar gemacht werden, ist unabdingbar.
+  methodology:
+    Aus den Open-Data-Gesetzen in Deutschland ergibt sich bislang kein Anspruch
+    auf die Bereitstellung von Open Data, teilweise wird dieser sogar explizit
+    ausgeschlossen. Ein subjektiv-öffentliches Recht auf Bereitstellung von
+    Daten kann jedoch als Umsetzungsmotor dienen, um die notwendige IT- und
+    Dateninfrastruktur für eine automatisierte Bereitstellung von Open Data zu
+    schaffen – daher wird dieser Kategorie ein hoher Wert zuteil. Einige
+    Bundesländer haben bereits Ansprüche auf die Veröffentlichung von
+    Informationen in Transparenzgesetzen verankert, die aber hinter einem
+    allgemeingültigen Anspruch auf Open Data zurückbleiben.
+- title: Rechts&shy;rahmen
+  slug: rechtsrahmen
+  color: '#ffb700'
+  description: Das Thema Open Data sollte sich in klaren Definitionen im Rechtsrahmen niederschlagen - hier gilt es möglichst wenig Raum für Ausnahmen sowie Unterlaufen und Aufweichung zu bieten.
+  methodology:
+    Bundesländer regeln die Veröffentlichung von Open Data unterschiedlich – teilweise finden E-Government-Gesetze, eigene Open-Data-Gesetze, Verordnungen oder Abschnitte in Transparenzgesetzen Anwendung.
+    Dabei wird der Umfang von Ausnahmen und Bereitstellungspflichten sowie die angewendeten Definitionen für die bereitzustellenden Informationen bewertet. Als Grundlage dienen die
+    gängigen Kriterien der [Sunlight Foundation](https://www.govdata.de/documents/10156/18448/GovData_Open-Data-Kriterien_der_Sunlight_Foundation.pdf/dca8fea0-8e04-4de0-8531-2bc3e8d4abc0) und der [Open Definition](https://opendefinition.org/).
+- title: Daten&shy;portal
+  slug: datenportal
+  color: '#007264'
+  description: Bei der Bewertung von Open-Data-Portalen haben wir vor allem die Möglichkeit des automatisierten Bereitstellens und Abrufens von Daten bewertet.
+  methodology:
+    Ein Portal allein bedeutet nicht, dass qualitativ hochwertige Daten automatisiert bereitgestellt werden.
+    Dennoch kann anhand des Vorhandenseins eines Portals und der Ausgestaltung der Portalfunktionen Hinweise über die Auseinandersetzung mit dem Thema Open Data im
+    jeweiligen Bundesland gewonnen werden. Angelehnt an den [Open Data Maturity Bericht](https://data.europa.eu/de/publications/open-data-maturity) der Europäischen Union
+    wird vor allem die Möglichkeit des automatisierten Bereitstellens und Abrufens von Daten bewertet.
+- title: Daten&shy;realität
+  slug: datenrealitaet
+  color: '#e30807'
+  description:
+    Die bloße Anzahl an verfügbaren Datensätzen in einem Bundesland hat nur eine geringe Aussagekraft.
+    Stattdessen werden hier die Ergebnisse bei govdata ins Verhältnis zu Aktualität, Freiheit und Qualität gesetzt.
+  methodology:
+    Die bloße Anzahl an offenen Datensätzen in einem Bundesland hat nur eine geringe Aussagekraft. Stattdessen wird in dieser Kategorie danach bewertet, wie aktuell, wie frei nutzbar und
+    wie verlinkt die Daten der jeweiligen Bundesländer sind. Als Grundlage dienen dabei die Distributionen der Daten aus dem Jahr 2023 (Stichtag für die Betrachtung ist Datenbestand vom 15. April 2024 bei govdata), die über SPARQL beim Portal Govdata abgerufen werden können.
+    Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf govdata, so dass man sich selbst ein Bild machen kann.
+- title: Ausstattung
+  slug: ausstattung
+  color: '#9be6f2'
+  description:
+    Damit Daten von der Verwaltung bereitgestellt und im besten Falle selbst genutzt werden, müssen die Rahmenbedinugen stimmen.
+    In dieser Kategorie geht es um Unterstützung und institutionalisierte Open-Data-Kultur in den Bundesländern.
+  methodology:
+    Wie Open Data in die Anwendung kommen, hängt von vielen Faktoren ab. Dazu gehören auch die Rahmenbedingungen –
+    gibt es Unterstützungsangebote für Behörden, gesetzlich verpflichtend Open-Data-Beauftragte bei Behörden und einen Austausch mit Ehrenamtlichen oder weiteren Datennutzenden?
+- title: Parlaments&shy;dokumentation
+  slug: parlamentsdokumentation
+  color: '#6979d1'
+  description: Daten aus den (Landes-)Parlamenten machen die politische Willensbildung im jeweiligen Land sichtbar - deshalb werden auch hier die Aktualität, Maschinenlesbarkeit und der einfache Zugang bewertet.
+  methodology:
+    Ein Unterthema ist die Dokumentation der einzelnen Landesparlamente, die die politische Willensbildung sichtbar machen.
+    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität und automatisiertes Abrufen/Bereitstellen steht. Die zugrundeliegende
+    Erhebung lässt sich [hier](https://www.datawrapper.de/_/9CgBo/) finden; eine inhaltliche Einordnung zum Stand der Parlamentsdokumentationen gibt es in diesem Artikel bei [netzpolitik](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/).

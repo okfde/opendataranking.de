@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus-visible,
+:-moz-focusring {
+  @apply outline-blue-800 outline-8 outline-offset-2 ring;
+}
+
+.break-out {
+  margin-inline: calc((100vw - 100%) / -2);
+}
