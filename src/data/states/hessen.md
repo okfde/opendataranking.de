@@ -139,16 +139,16 @@ criteria:
 stats:
   lastUpdate: 2024-03-15
   items:
-    - text: Datensätze bei govdata gesamt
+    - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze aktualisiert in 2023 gesamt
+    - text: Datensätze 2023 aktualisiert gesamt
       value: 0
-    - text: Datensätze aktualisiert in 2023 in Format CSV/XML/JSON
+    - text: Datensätze 2023 aktualisiert in Formaten CSV/XML/JSON
       value: 0
-    - text: Datensätze in 2023 im Linked-Data-Format bereitgestellt
+    - text: Datensätze 2023 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze aktualisiert in 2023 mit Zero-Lizenz
+    - text: Datensätze 2023 aktualisiert mit Zero-Lizenz
       value: 0
-    - text: Datensätze aktualisiert in 2023 mit BY-Lizenz
+    - text: Datensätze 2023 aktualisiert mit BY-Lizenz
       value: 0
 ---

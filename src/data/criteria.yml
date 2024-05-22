@@ -65,39 +65,48 @@
   maxPoints: 1
   category: rechtsrahmen
 - title: Daten im Auftrag von Dritten
-  description: Die Definition der bereitzustellenden Informationen beinhaltet auch Daten, die im Auftrag von Dritten erhoben worden sind.
+  description:
+    Die Definition der bereitzustellenden Informationen beinhaltet auch Daten, die im Auftrag von Dritten erhoben worden sind.
   maxPoints: 1
   category: rechtsrahmen
 - title: Offenheit
-  description: Die Informationen müssen in einem offenen Format / in einem offenen Standard veröffentlicht werden.
+  description:
+    Die Informationen müssen in einem offenen Format / in einem offenen Standard veröffentlicht werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Maschinenlesbarkeit
-  description: Die Informationen müssen in einem maschinenlesbaren Format veröffentlicht werden.
+  description:
+    Die Informationen müssen in einem maschinenlesbaren Format veröffentlicht werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Aktualität
-  description: Die Informationen sollen unverzüglich aktuell gehalten werden, nachvollziehbar durch Metadaten.
+  description:
+    Die Informationen sollen unverzüglich aktuell gehalten werden, nachvollziehbar durch Metadaten.
   maxPoints: 1
   category: rechtsrahmen
 - title: Dauerhaftigkeit
-  description: Die Informationen sollen dauerhaft bereitgestellt werden.
+  description:
+    Die Informationen sollen dauerhaft bereitgestellt werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Lizenz
-  description: Die Informationen sind gemeinfrei oder werden unter freier Lizenz zur Verfügung gestellt.
+  description:
+    Die Informationen sind gemeinfrei oder werden unter freier Lizenz zur Verfügung gestellt.
   maxPoints: 1
   category: rechtsrahmen
 - title: Schnittstellen
-  description: Die Informationen sind über eine offene, dokumentierte Schnittstelle / API zugänglich.
+  description:
+    Die Informationen sind über eine offene, dokumentierte Schnittstelle / API zugänglich.
   maxPoints: 1
   category: rechtsrahmen
 - title: Diskriminierungsfreiheit
-  description: Der Zugang zu den Informationen erfolgt ohne Login oder Registrierungszwang.
+  description:
+    Der Zugang zu den Informationen erfolgt ohne Login oder Registrierungszwang.
   maxPoints: 1
   category: rechtsrahmen
 - title: Kostenfreiheit
-  description: Es fallen keine Nutzungskosten für den Zugriff an - sowohl die private als auch die kommerzielle Nutzung ist kostenfrei.
+  description:
+    Es fallen keine Nutzungskosten für den Zugriff an - sowohl die private als auch die kommerzielle Nutzung ist kostenfrei.
   maxPoints: 1
   category: rechtsrahmen
 - title: Portal für Open Data
@@ -115,7 +124,8 @@
   maxPoints: 3
   category: datenportal
 - title: API mit Dokumentation
-  description: Es gibt eine diskriminierungsfreie API mit umfassender Dokumentation. Abzüge für Registrierungszwang oder fehlende Dokumentation.
+  description:
+    Es gibt eine diskriminierungsfreie API mit umfassender Dokumentation. Abzüge für Registrierungszwang oder fehlende Dokumentation.
   maxPoints: 3
   category: datenportal
 - title: SPARQL-Abfragen
@@ -127,15 +137,15 @@
 - title: Aktualität der Daten
   description:
     Zur Verfügung gestellte Daten sollen möglichst aktuell gehalten und regelmäßig bereitgestellt werden.
-    Volle Punktzahl, wenn im Vergleich zur Gesamtheit mindestens ein Drittel der Datensätze aktualisiert oder neu erstellt wurden, zwei Punkte, wenn zumindest 25% erreicht werden.
+    Volle Punktzahl, wenn im Vergleich zur Gesamtheit mindestens ein Drittel der Datensätze aktualisiert oder neu erstellt wurden, zwei Punkte, wenn zumindest 25% erreicht werden. 
     Stichtag für die Erhebung war der 15. März 2024.
   maxPoints: 5
   category: datenrealitaet
 - title: Linked Data
   description:
     Die Qualität von Daten beeinflusst maßgeblich, wie sinnvoll sie weiterverwendet werden können und wie hoch der Aufwand für ihre Nutzung ist.
-    Informationen, die als Linked Open Data bereitgestellt werden, bieten eine Vielzahl an Anknüpfungs- und Integrationsmöglichkeiten.
-    Volle Punktzahl, wenn im Vergleichsjahr 2023 ein Drittel der neu erstellten Datensätze in einem Linked-Data-Format bei govdata verfügbar sind.
+    Informationen, die als Linked Open Data bereitgestellt werden, bieten eine Vielzahl an Anknüpfungs- und Integrationsmöglichkeiten. 
+    Volle Punktzahl, wenn im Vergleichsjahr 2023 ein Drittel der neu erstellten Datensätze in einem Linked-Data-Format bei GovData verfügbar sind. 
     Zwei Punkte, wenn zumindest überhaupt Linked Data bereitgestellt wurden. Stichtag für die Erhebung war der 15. März 2024.
   maxPoints: 5
   category: datenrealitaet
@@ -144,7 +154,7 @@
     Adäquate, freie Nutzungsbedingungen sind für die Wiederverwendung der Daten unabdingbar.
     Neben privater Nutzung sollte auch die kommerzielle Nutzung von Daten uneingeschränkt möglich sein, am besten über eine
     Creative-Commons [Zero-Lizenz](https://creativecommons.org/licenses/by/4.0/legalcode.de) oder [BY-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de).
-    bei govdata. Volle Punktzahl wenn im Vergleichsjahr 2023 mindestens zwei Drittel der neu erstellten oder aktualisierten Daten in einer dieser Lizenzen zur
+    bei GovData. Volle Punktzahl wenn im Vergleichsjahr 2023 mindestens zwei Drittel der neu erstellten oder aktualisierten Daten in einer dieser Lizenzen zur
     Verfügung gestellt wurden. Zwei Punkte, wenn zumindest die Hälfte der Daten unter Zero oder BY-Lizenzen fallen. Stichtag für die Erhebung war der 15. März 2024.
   maxPoints: 5
   category: datenrealitaet
@@ -196,7 +206,7 @@
   category: parlamentsdokumentation
 - title: Maschinenlesbarkeit von Plenarprotokollen
   description:
-    Protokolle sind das  Dokument, in dem sich die politische Willensbildung im Parlament zeigt. Sie sollten maschinenlesbar veröffentlicht werden,
+    Protokolle sind das Dokument, in dem sich die politische Willensbildung im Parlament zeigt. Sie sollten maschinenlesbar veröffentlicht werden,
     um auch einfacher durchsuch- und analysierbar zu sein.
   maxPoints: 2
   category: parlamentsdokumentation

@@ -17,7 +17,7 @@ import favicon from './assets/img/favicon.png';
 
 const title = 'Open Data in Deutschland – Das Open Data Ranking';
 const description =
-  'Wir haben den Stand von Open Data in Bund und Ländern verglichen, um eine Diskussionsgrundlage jenseits des reinen Zählens von Datensätzen zu schaffen.';
+  'Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen steht das Thema Open Data schon seit mehr als einer Dekade im Raum - wir haben den Stand von Open Data in Bund und Ländern verglichen, um eine Diskussionsgrundlage jenseits des reinen Zählens von verfügbaren Datensätzen zu schaffen.';
 
 useHead({
   title,

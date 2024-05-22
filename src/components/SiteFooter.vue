@@ -14,8 +14,8 @@
             Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen
             steht das Thema Open Data schon seit mehr als einer Dekade im Raum -
             wir haben den Stand von Open Data in Bund und Ländern verglichen, um
-            eine Diskussionsgrundlage jenseits des reinen Zählens von
-            verfügbaren Datensätzen zu schaffen.
+            eine Diskussionsgrundlage zum Umsetzungsstand jenseits des reinen
+            Zählens von verfügbaren Datensätzen zu schaffen.
           </p>
         </div>
 
