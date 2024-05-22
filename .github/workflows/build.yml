@@ -33,4 +33,5 @@ jobs:
         with:
           publish_dir: dist
           publish_branch: release
+          cname: opendataranking.de
           github_token: ${{ secrets.GITHUB_TOKEN }}
