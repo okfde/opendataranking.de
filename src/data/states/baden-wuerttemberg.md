@@ -10,7 +10,7 @@ criteria:
     points: 0
     citations:
       - text: 'EGovG BW (2021 [2015])'
-        link: https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=EGovG+BW&psml=bsbawueprod.psml&max=true&aiz=true%22%20%5Ct%20%22_blank
+        link: https://www.landesrecht-bw.de/perma?a=EGovG_BW
     text: E-Government-Gesetz ohne Open Data
   - title: Evaluation
     points: 0
@@ -56,7 +56,7 @@ criteria:
     points: 1
     citations:
       - text: '§10 Abs. 1 EGovG BW'
-        link: https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWpP10
+        link: https://www.landesrecht-bw.de/perma?d=jlr-EGovGBWpP10
     text: Falls öffentlich verfügbar dann auch maschinenlesbar, besonders falls es ein Weiterverwendungsinteresse gibt (DNG)
   - title: Aktualität
     points: 0
@@ -82,7 +82,7 @@ criteria:
     points: 1
     citations:
       - text: '§10 Abs. 2 EGovG BW'
-        link: https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWpP10
+        link: https://www.landesrecht-bw.de/perma?d=jlr-EGovGBWpP10
     text: Nutzen kostenfrei, möglicherweise Kosten zur Bereitstellung
   - title: Portal für Open Data
     points: 6
