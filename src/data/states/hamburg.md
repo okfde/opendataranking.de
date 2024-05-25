@@ -85,14 +85,17 @@ criteria:
       - text: '§10 Abs. 4, HODaG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P10
   - title: Portal für Open Data
-    points: 0
+    points: 3
     citations:
       - text: 'Transparenzportal Hamburg'
         link: https://transparenz.hamburg.de/
   - title: Portal-Schnittstellen
     points: 0
   - title: API mit Dokumentation
-    points: 0
+    points: 3
+    citations:
+     - text: 'API mit Beschreibung'
+       link: https://transparenz.hamburg.de/api-796358
   - title: SPARQL-Abfragen
     points: 0
   - title: Aktualität der Daten
