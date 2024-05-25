@@ -114,7 +114,7 @@ criteria:
   - title: API mit Dokumentation
     points: 0
     citations:
-      - text: 'Dokumentation fehlt'
+      - text: 'API aber keine Dokumentation'
         link: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
   - title: SPARQL-Abfragen
     points: 0
@@ -152,11 +152,11 @@ criteria:
       - text: Kompetenzzentrum Open Data (CCOD) im Bundesverwaltungsamt
         link: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html
   - title: Open-Data-Labore
-    points: 2
+    points: 1
     citations:
       - text: 'Datenlabore der Bundesministerien'
         link: https://netzpolitik.org/2023/transparenz-die-verborgene-digitalpolitik-deutscher-ministerien/
-    text: Datenlabore wurden in der aktuellen Legislaturperiode eingerichtet, konkrete Umsetzungen sind noch unklar.
+    text: In den Bundesministerien wurden Datenlabore in der aktuellen Legislaturperiode eingerichtet, konkrete Umsetzungen sind noch unklar.
   - title: Unterstützungsangebote für Kommunen
     points: 1
     citations:
