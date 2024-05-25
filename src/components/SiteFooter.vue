@@ -13,9 +13,9 @@
           <p>
             Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen
             steht das Thema Open Data schon seit mehr als einer Dekade im Raum -
-            wir haben den Stand von Open Data in Bund und Ländern verglichen, um
-            eine Diskussionsgrundlage zum Umsetzungsstand jenseits des reinen
-            Zählens von verfügbaren Datensätzen zu schaffen.
+            wir haben den Stand von Open Data in Bund und Ländern für das Jahr 2023 verglichen,
+            um eine Diskussionsgrundlage zum Umsetzungsstand jenseits des reinen
+            Zählens der verfügbaren Datensätze zu schaffen.
           </p>
         </div>
 
