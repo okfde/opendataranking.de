@@ -11,7 +11,7 @@ criteria:
     points: 2
     citations:
       - text: 'EGovG (2021[2013] Einführung §12a Open Data 2018)'
-        link: https://www.gesetze-im-internet.de/egovg
+        link: https://www.gesetze-im-internet.de/egovg/
       - text: 'DNG (2021)(Umsetzung PSI-Richtlinie der EU )'
         link: https://www.gesetze-im-internet.de/dng/
     text: E-Government-Gesetz mit Open-Data-Paragraph; Datennutzungsgesetz als Umsetzung der PSI-Richtlinie der Europäischen Union
@@ -166,14 +166,14 @@ criteria:
     points: 1
     citations:
       - text: 'CCOD'
-        link: https://www.bva.bund.de/SharedDocs/Kurzmeldungen/DE/Behoerden/Beratung/OpenData/Aktuelles/2023/081123_KickOff_ODF.html?nn=44066
+        link: https://www.bva.bund.de/SharedDocs/Kurzmeldungen/DE/Behoerden/Beratung/OpenData/Aktuelles/2023/081123_KickOff_ODF.html
     text: Beteiligungsformate bei Messen/Barcamps
   - title: API/Schnittstelle
     points: 1
     citations:
       - text: 'API-Dokumentation'
         link: https://dip.bundestag.de/%C3%BCber-dip/hilfe/api#content
-    text: Einschränkung - es gibt einen API-Key, der manuell erneuert werden muss
+    text: Einschränkung - es gibt einen öffentlichen API-Key, der manuell jährlich erneuert werden muss 
   - title: Maschinenlesbarkeit von Plenarprotokollen
     points: 2
     citations:
