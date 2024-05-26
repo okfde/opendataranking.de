@@ -6,15 +6,15 @@ criteria:
     points: 0
     citations:
       - text: '§2 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP2
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP2
     text: Es gibt keinen Rechtsanspruch. Behörden sind zur Bereitstellung von in einem Katalog aufgeführten Daten verpflichtet, ein Anspruch besteht nicht
   - title: Gesetzeslage
     points: 2
     citations:
       - text: 'OpenDataV (2020)'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP2
+        link: https://gesetze.berlin.de/perma?a=OpenDataBerV_BE
       - text: 'EGovG Bln (2021[2016])'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-EGovGBErahmen
+        link: https://gesetze.berlin.de/perma?d=jlr-EGovGBErahmen
     text: E-Government-Gesetz mit Open-Data-Verordnung
   - title: Evaluation
     points: 1
@@ -25,43 +25,43 @@ criteria:
     points: 3
     citations:
       - text: '§2 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP2
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP2
     text: Behörden der Berliner Verwaltung
   - title: Anstalten, Körperschaften, Unternehmen
     points: 2
     citations:
       - text: '§2 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP2
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP2
     text: Anstalten und Eigenbetriebe der Berliner Verwaltung
   - title: Forschungsdaten
     points: 1
     citations:
       - text: '§4 Abs. 1, Satz 7 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP4
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP4
     text: Nicht explizit für alle Forschungsdaten aber "Ergebnisse von Messungen, Beobachtungen und sonstigen Erhebungen von Umwelteinwirkungen"
   - title: Ausnahmen
     points: 2
     citations:
       - text: '§1 Abs. 2, 3 EGovG Bln'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-EGovGBEpP1
+        link: https://gesetze.berlin.de/perma?d=jlr-EGovGBEpP1
     text: Ausnahmen bei Justiz und Steuerverwaltung
   - title: Pauschale Ausschlusskriterien
     points: 1
     citations:
       - text: '§5 Abs. 1 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP5
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP5
     text: Personenbezogene Daten, öffentliche Belange, behördlicher Entscheidungsprozess, Gemeinwohl, Bodenpreis, Betriebs- und Geschäftsgeheimnisse, Gutachten
   - title: Datenkatalog
     points: 2
     citations:
       - text: '§4 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP4
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP4
     text: Genaue Definition inklusive langer Auflistung von Datenbereichen in der OpenDataV
   - title: Rohdaten
     points: 1
     citations:
       - text: '§13 EGovG Bln'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-EGovGBEV4P13
+        link: https://gesetze.berlin.de/perma?d=jlr-EGovGBEV4P13
     text: Informationen, die im in Erfüllung des öffentlichen Auftrags erstellt hat und maschinenlesbar darstellbar
   - title: Daten im Auftrag von Dritten
     points: 0
@@ -71,17 +71,17 @@ criteria:
     points: 1
     citations:
       - text: '§3 Abs. 2 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP3
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP3
   - title: Maschinenlesbarkeit
     points: 1
     citations:
       - text: '§4 Abs. 6 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP4
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP4
   - title: Aktualität
     points: 1
     citations:
       - text: '§6 Abs. 5 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP6
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP6
   - title: Dauerhaftigkeit
     points: 0
     citations:
@@ -90,13 +90,13 @@ criteria:
     points: 1
     citations:
       - text: '§9 Abs. 1 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP9
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP9
     text: Keine Lizenz genannt, aber "frei zugänglich"
   - title: Schnittstellen
     points: 1
     citations:
       - text: '§6 Abs. 1 OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP6
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP6
   - title: Diskriminierungsfreiheit
     points: 0
     citations:
@@ -105,7 +105,7 @@ criteria:
     points: 1
     citations:
       - text: '§ 9 Abs. 1  OpenDataV'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP9
+        link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP9
   - title: Portal für Open Data
     points: 6
     citations:
@@ -145,7 +145,7 @@ criteria:
     points: 2
     citations:
       - text: '§13 Abs. 1 EGovG Bln'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-EGovGBErahmen/part/X https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP6
+        link: https://gesetze.berlin.de/perma?d=jlr-EGovGBEpP13
   - title: Open-Data-Beratungsstelle
     points: 1
     citations:
