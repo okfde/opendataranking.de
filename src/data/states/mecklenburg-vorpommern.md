@@ -8,7 +8,7 @@ criteria:
     points: 0
     citations:
       - text: 'EGovG M-V (2020[2016])'
-        link: https://www.landesrecht-mv.de/bsmv/document/jlr-EGovGMVV3P2%22%20/t%20%22_blank
+        link: https://www.landesrecht-mv.de/bsmv/document/jlr-EGovGMVrahmen
     text: E-Government-Gesetz ohne Open Data
   - title: Evaluation
     points: 0
