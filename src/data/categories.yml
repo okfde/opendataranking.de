@@ -62,5 +62,5 @@
     Daten aus den (Landes-)Parlamenten machen die politische Willensbildung im jeweiligen Land sichtbar - deshalb werden auch hier die Aktualität, Maschinenlesbarkeit und der einfache Zugang bewertet.
   methodology:
     Ein Unterthema ist die Dokumentation der einzelnen Landesparlamente, die die politische Willensbildung sichtbar machen.
-    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität und automatisiertes Abrufen/Bereitstellen steht. Die zugrundeliegende
-    Erhebung lässt sich [hier](https://www.datawrapper.de/_/9CgBo/) finden; eine inhaltliche Einordnung zum Stand der Parlamentsdokumentationen gibt es in diesem Artikel bei [netzpolitik](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/).
+    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität und automatisiertes Abrufen und Bereitstellen steht. Dieser 
+    Erhebung liegen [Daten mit Stand Februar 2024](https://www.datawrapper.de/_/9CgBo/) zugrunde, die inhaltlich in einem [Artikel bei netzpolitik.org zum Stand der Parlamentsdokumentationen](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/) eingeordnet wurden.
