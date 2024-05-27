@@ -8,7 +8,7 @@ criteria:
     points: 0
     citations:
       - text: NDIG (2019)
-        link: https://voris.wolterskluwer-online.de/browse/source/csh-da-filter%21a52e918e-8a02-41f8-8b62-1c4b6a92ff6a--WKDE_LTR_0000003520%23b51f5d8c18d33b88a2feda7ffeddbabb
+        link: https://voris.wolterskluwer-online.de/browse/document/a8cf0d53-edeb-3d90-8bf4-a42dbb4e8799
     text: Gesetz über digitale Verwaltung ohne Open Data
   - title: Evaluation
     points: 0
