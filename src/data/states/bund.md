@@ -184,7 +184,7 @@ criteria:
     citations:
       - text: 'Vorläufige Plenarprotokolle'
         link: https://www.bundestag.de/protokolle
-    text: Veröffentlichung am selben oder nächsten Tag
+    text: Die Veröffentlichung erfolgt am selben oder nächsten Tag.
 stats:
   lastUpdate: 2024-03-15
   items:
