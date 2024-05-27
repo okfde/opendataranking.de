@@ -27,7 +27,7 @@ criteria:
     citations:
       - text: '§3 Abs. 1 LTranspG'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=34925&anw_nr=2&aufgehoben=N&det_id=552085
-    text: Behörden des Landes und der Gemeinden, inklusive Privater, die öffentliche Aufgaben erfüllen. Bei Umweltinformationen weiter gefasst
+    text: Behörden des Landes und der Gemeinden, inklusive Privater, die öffentliche Aufgaben erfüllen. Bei Umweltinformationen weiter gefasst.
   - title: Anstalten, Körperschaften, Unternehmen
     points: 1
     citations:
@@ -54,7 +54,7 @@ criteria:
     citations:
       - text: '§7 LTranspG'
         link: https://landesrecht.rlp.de/bsrp/document/jlr-TranspGRPpP7
-    text: Lange Aufzähltung für Lange Aufzählung, inklusive Geodaten, Umweltinformationen und Unternehmensdaten
+    text: Lange Aufzählung inklusive Geodaten, Umweltinformationen und Unternehmensdaten
   - title: Rohdaten
     points: 0
   - title: Daten im Auftrag von Dritten
@@ -70,7 +70,7 @@ criteria:
     citations:
       - text: '§11 LTranspG'
         link: https://landesrecht.rlp.de/bsrp/document/jlr-EGovGRPpP11
-    text: Ja, wenn ein Verarbeitungsinteresse und Weiterverwendungsinteresse nach IWG vorliegt
+    text: Ja, wenn ein Verarbeitungsinteresse und Weiterverwendungsinteresse nach Informationsweiterverwendungsgesetz vorliegt.
   - title: Aktualität
     points: 0
     citations:
@@ -158,7 +158,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 71 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 71 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:
