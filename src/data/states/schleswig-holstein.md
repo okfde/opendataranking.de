@@ -7,7 +7,7 @@ criteria:
     citations:
       - text: '§2 Abs. 2 ODaG'
         link: https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-OpenDataGSHpP2
-    text: Ein Anspruch auf Bereitstellung unbearbeiteter Daten wird durch das Gesetz nicht begründet
+    text: Ein Anspruch auf Bereitstellung unbearbeiteter Daten wird durch das Gesetz nicht begründet.
   - title: Gesetzeslage
     points: 2
     citations:
@@ -36,7 +36,7 @@ criteria:
     citations:
       - text: '§2 Abs. 3, Satz 8 ODaG'
         link: https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-OpenDataGSHpP2
-    text: soweit die Bereitstellung nicht die Forschungsfreiheit beeinträchtigt
+    text: soweit die Bereitstellung nicht die Forschungsfreiheit beeinträchtigt würde
   - title: Ausnahmen
     points: 1
     citations:
@@ -180,7 +180,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 13 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 13 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:
