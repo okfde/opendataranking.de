@@ -10,58 +10,58 @@
 - title: Gesetzeslage
   description:
     Es gibt eine gesetzliche Regelung für Open Data oder ein Transparenzgesetz mit umfassenden Informationsanspruch, der auch Open Data beinhaltet. Ein Punkt, wenn zumindest einzelne Aspekte offener Daten erwähnt werden.
-    Null Punkte, falls keine Verrechtlichung von Open Data vorliegt.
+    Null Punkte gibt es, falls keine Verrechtlichung von Open Data vorliegt.
   maxPoints: 2
   category: rechtsrahmen
 - title: Evaluation
   description:
-    Es gibt mindestens alle zwei Jahre Evaluationen über die Open-Data-Fortschritte, bzw. die Umsetzung eines Open-Data-Gesetzes im Land. Einen Punkt Abzug, falls die Evaluationen einen größeren
+    Es gibt mindestens alle zwei Jahre Evaluationen über die Open-Data-Fortschritte, bzw. die Umsetzung eines Open-Data-Gesetzes im Land. Einen Punkt Abzug gibt es, falls die Evaluationen einen größeren
     zeitlichen Abstand haben.
   maxPoints: 2
   category: rechtsrahmen
 - title: Behördendefinition
   description:
-    Die Definition der bereitstellenden Behörden soll möglichst breit gewählt sein. Drei Punkte, wenn alle Behörden des Landes
+    Die Definition der bereitstellenden Behörden soll möglichst breit gewählt sein. Drei Punkte gibt es, wenn alle Behörden des Landes
     inkl. Kommunen und Gemeinden (Bezirke oder äquivalent auf Stadtstaatebene) einbezogen werden.
   maxPoints: 3
   category: rechtsrahmen
 - title: Anstalten, Körperschaften, Unternehmen
   description:
     Sind Anstalten, Körperschaften, Stiftungen sowie Unternehmen der öffentlichen Hand explizit verpflichtet Daten zu veröffentlichen?
-    Abzüge, falls Institutionen fehlen oder nur bestimmte Anstalten enthalten sind.
+    Abzüge gibt es, falls Institutionen fehlen oder nur bestimmte Anstalten enthalten sind.
   maxPoints: 3
   category: rechtsrahmen
 - title: Forschungsdaten
   description:
     Auch Daten aus Forschung und Wissenschaft, die an öffentlichen Instituten erhoben werden, sollten veröffentlicht werden.
-    Zwei Punkte, wenn Forschungsdaten erwähnt sind, bzw. nicht explizit ausgenommen sind.
+    Zwei Punkte gibt es, wenn Forschungsdaten erwähnt sind oder nicht explizit ausgenommen sind.
     Abzüge für Einschränkungen.
   maxPoints: 2
   category: rechtsrahmen
 - title: Ausnahmen
   description:
     Es sollte keine dezidierten Ausnahmen bei den bereitstellenden Behörden geben.
-    Einen Punkt Abzug für maximal drei Ausnahmen, zwei Punkte Abzug für mehr Ausnahmen.
+    Einen Punkt Abzug gibt es für maximal drei Ausnahmen, zwei Punkte Abzug für mehr Ausnahmen.
   maxPoints: 3
   category: rechtsrahmen
 - title: Pauschale Ausschlusskriterien
   description:
     Pauschale Ausschlusskriterien, die gegen eine Veröffentlichung von Daten sprechen, sollten
-    möglichst begrenzt auftreten. Einen Punkt Abzug, wenn nur personenbezogene Daten & Urheberrecht
-    pauschal ausgeschlossen werden, zwei Punkte, wenn es darüber hinaus weitere Kriterien gibt.
+    möglichst begrenzt auftreten. Einen Punkt Abzug gibt es, wenn nur personenbezogene Daten & Urheberrecht
+    pauschal ausgeschlossen werden. Zwei Punkte Abzug gibt es, wenn es darüber hinaus weitere Kriterien gibt.
   maxPoints: 3
   category: rechtsrahmen
 - title: Datenkatalog
   description:
     Ein Katalog mit den in maschinenlesbaren Formaten zu veröffentlichenden Informationen zeigt besonders relevante Themenfelder auf und
     bietet Orientierung für unbedingt bereitzustellende Daten für staatliche Behörden.
-    Einen Punkt Abzug für Einschränkungen, bzw. wenn es sich nur auf Informationen bezieht, die unter das Transparenzgesetz fallen.
+    Einen Punkt Abzug für Einschränkungen oder wenn es sich nur auf Informationen bezieht, die unter das Transparenzgesetz fallen.
   maxPoints: 2
   category: rechtsrahmen
 - title: Rohdaten
   description:
     Die Definition der bereitzustellenden Informationen beinhaltet alle Informationen aus der Erfüllung öffentlich-rechtlicher Aufgaben
-    bzw. Rohdaten aus der Verwaltungstätigkeit.
+    oder Rohdaten aus der Verwaltungstätigkeit.
   maxPoints: 1
   category: rechtsrahmen
 - title: Daten im Auftrag von Dritten
@@ -71,7 +71,7 @@
   category: rechtsrahmen
 - title: Offenheit
   description:
-    Die Informationen müssen in einem offenen Format / in einem offenen Standard veröffentlicht werden.
+    Die Informationen müssen in einem offenen Format oder in einem offenen Standard veröffentlicht werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Maschinenlesbarkeit
@@ -81,7 +81,7 @@
   category: rechtsrahmen
 - title: Aktualität
   description:
-    Die Informationen sollen unverzüglich aktuell gehalten werden, nachvollziehbar durch Metadaten.
+    Die Informationen sollen unverzüglich aktuell gehalten werden und nachvollziehbar sein durch Metadaten.
   maxPoints: 1
   category: rechtsrahmen
 - title: Dauerhaftigkeit
@@ -91,12 +91,12 @@
   category: rechtsrahmen
 - title: Lizenz
   description:
-    Die Informationen sind gemeinfrei oder werden unter freier Lizenz zur Verfügung gestellt.
+    Die Informationen sind gemeinfrei oder werden unter freien Lizenzen zur Verfügung gestellt.
   maxPoints: 1
   category: rechtsrahmen
 - title: Schnittstellen
   description:
-    Die Informationen sind über eine offene, dokumentierte Schnittstelle / API zugänglich.
+    Die Informationen sind über eine offene, dokumentierte Schnittstelle (API) zugänglich.
   maxPoints: 1
   category: rechtsrahmen
 - title: Diskriminierungsfreiheit
@@ -111,7 +111,7 @@
   category: rechtsrahmen
 - title: Portal für Open Data
   description:
-    Es gibt ein Open-Data-Portal für das Bundesland. Abzüge, wenn es nur ein Transparenzportal gibt, bei vornehmlich Dokumente bzw. nicht maschinenlesbare Informationen
+    Es gibt ein Open-Data-Portal für das Bundesland. Abzüge, wenn es nur ein Transparenzportal gibt, bei vornehmlich Dokumente oder nicht maschinenlesbare Informationen
     veröffentlicht werden.
   maxPoints: 6
   category: datenportal
@@ -119,13 +119,13 @@
   description:
     Das Portal verfügt über Schnittstellen für zuliefernde Stellen im Land.
     Die Seitenbetreibenden bewerben die Schnittstellen explizit und bieten umfassende Informationen
-    über Wege der Bereitstellung auf der Seite des Portals. Abzüge wenn es Schnittstellen gibt, aber
+    über Wege der Bereitstellung auf der Seite des Portals. Abzüge gibt es, wenn es Schnittstellen gibt, aber
     keine explizite Hilfestellung.
   maxPoints: 3
   category: datenportal
 - title: API mit Dokumentation
   description:
-    Es gibt eine diskriminierungsfreie API mit umfassender Dokumentation. Abzüge für Registrierungszwang oder fehlende Dokumentation.
+    Es gibt eine diskriminierungsfreie Schnittstelle (API) mit umfassender Dokumentation. Abzüge für Registrierungszwang oder fehlende Dokumentation.
   maxPoints: 3
   category: datenportal
 - title: SPARQL-Abfragen
@@ -137,7 +137,7 @@
 - title: Aktualität der Daten
   description:
     Zur Verfügung gestellte Daten sollen möglichst aktuell gehalten und regelmäßig bereitgestellt werden.
-    Volle Punktzahl, wenn im Vergleich zur Gesamtheit mindestens ein Drittel der Datensätze aktualisiert oder neu erstellt wurden, zwei Punkte, wenn zumindest 25% erreicht werden. 
+    Volle Punktzahl, wenn im Vergleich zur Gesamtheit mindestens ein Drittel der Datensätze aktualisiert oder neu erstellt wurden. Zwei Punkte gibt es, wenn zumindest 25% erreicht werden. 
     Stichtag für die Erhebung war der 15. März 2024.
   maxPoints: 5
   category: datenrealitaet
@@ -153,16 +153,16 @@
   description:
     Adäquate, freie Nutzungsbedingungen sind für die Wiederverwendung der Daten unabdingbar.
     Neben privater Nutzung sollte auch die kommerzielle Nutzung von Daten uneingeschränkt möglich sein, am besten über eine
-    Creative-Commons [Zero-Lizenz](https://creativecommons.org/licenses/by/4.0/legalcode.de) oder [BY-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de).
-    bei GovData. Volle Punktzahl wenn im Vergleichsjahr 2023 mindestens zwei Drittel der neu erstellten oder aktualisierten Daten in einer dieser Lizenzen zur
-    Verfügung gestellt wurden. Zwei Punkte, wenn zumindest die Hälfte der Daten unter Zero oder BY-Lizenzen fallen. Stichtag für die Erhebung war der 15. März 2024.
+    Creative-Commons [BY-Lizenz](https://creativecommons.org/licenses/by/4.0/legalcode.de) oder [Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de).
+    bei GovData. Volle Punktzahl gibt es, wenn im Vergleichsjahr 2023 mindestens zwei Drittel der neu erstellten oder aktualisierten Daten in einer dieser Lizenzen zur
+    Verfügung gestellt wurden. Zwei Punkte gibt es, wenn zumindest die Hälfte der Daten unter Zero oder BY-Lizenzen fallen. Stichtag für die Erhebung war der 15. März 2024.
   maxPoints: 5
   category: datenrealitaet
 - title: Open-Data-Beauftragte
   description:
     Open-Data-Beauftragte können ein wichtiger Faktor für die Verbreitung und Förderung von Open Data in einer Behörde sein.
     Sie sind die ersten Ansprechpartner:innen sowohl für die Seite der Datennutzenden als auch der Datenbereitstellenden
-    und können zu einem nachhaltigen Datenmanagement beitragen. Dafür ist es wichtig, dass ihnen auch genügend Ressourcen bereitstehen -
+    und können zu einem nachhaltigen Datenmanagement beitragen. Dafür ist es wichtig, dass ihnen auch genügend Ressourcen bereitstehen.
     Beauftragte mit einer Stunde zur Verfügung pro Woche können dieser Aufgabe nicht gerecht werden. Volle Punktzahl, wenn es eine gesetzliche
     Verpflichtung zur Benennung von Beauftragten gibt, ein Punkt Abzug, wenn nicht alle verpflichteten Behörden Beauftragte abstellen müssen.
   maxPoints: 2
@@ -172,12 +172,12 @@
     Eine zentrale Beratungs- oder Informationsstelle für Open Data kann gerade für Abteilungen, die bislang wenig
     mit Open Data in Berührung gekommen sind, ein wichtiger Anlaufpunkt sein. Dafür ist es unabdingbar, dass genügend Personalressourcen bereitstehen und
     möglichst niedrige Barrieren für die Zusammenarbeit mit Fachabteilungen herrschen.
-    Einen Punkt Abzug, falls es keine gesetzliche Grundlage für existierende Open-Data-Informationsstellen gibt.
+    Einen Punkt Abzug gibt es, falls es keine gesetzliche Grundlage für existierende Open-Data-Informationsstellen gibt.
   maxPoints: 2
   category: ausstattung
 - title: Open-Data-Labore
   description:
-    Neben Beauftragten und einer Beratungsstelle sollte es innerhalb der Verwaltung oder angeflanscht an bestehende Strukturen Raum für Datenprojekte und Weiterentwicklungen geben.
+    Neben Beauftragten und einer Beratungsstelle sollte es innerhalb der Verwaltung oder in enger Verbindung zu bestehenden Strukturen Raum für Datenprojekte und Weiterentwicklungen geben.
     Um einen nachhaltigen Strukturwandel zu unterstützen, könnte sich so eine Stelle für automatisierte Datenbereitstellungen einsetzen und Möglichkeiten aufzeigen,
     wie die Verwaltung selbst die eigenen Daten besser nutzen kann. Diese Aufgabe kann auch z.B. zusätzlich zum gesetzlichen Auftrag von einer Open-Data-Informationsstelle
     ausgeführt werden.
@@ -186,8 +186,7 @@
 - title: Unterstützungsangebote für Kommunen
   description:
     In Kommunen und nachgeordneten Behörden liegt häufig ein großer Teil des öffentlichen Datenschatzes. Doch bislang sind oft genau diese
-    Institutionen von Bereitstellungspflichten ausgenommen. Diese Kategorie bewertet deshalb Unterstützungsangebote, die sich konkret an Kommunen,
-    bzw. nicht unmittelbar durch ein Gesetz zur Datenbereitstellung verpflichtete Behörden gerichtet sind. Mögliche Unterstützung reicht dabei von technischem Support
+    Institutionen von Bereitstellungspflichten ausgenommen. Diese Kategorie bewertet deshalb Unterstützungsangebote, die sich konkret an Kommunen oder an Behörden, die nicht unmittelbar durch ein Gesetz zur Datenbereitstellung verpflichtet sind, richten. Mögliche Unterstützung reicht dabei von technischem Support
     bis zu Möglichkeiten, eigene Open-Data-Präsenzen auf dem Datenportal einzurichten. Zwei Punkte, wenn diese Angebote nachvollziehbar sind.
   maxPoints: 2
   category: ausstattung
@@ -195,13 +194,13 @@
   description:
     Der Austausch zwischen der Daten bereitstellenden und nutzenden Seite gehört zum Open Data Ökosystem. In dieser Kategorie wird berücksichtigt,
     ob es Formate gibt, bei denen aktiv der Dialog angeboten wird, z.B. über Veranstaltungen zum Open Data Day, Newsletter oder die Möglichkeit,
-    Anwendungsfälle zu präsentieren. Zwei Punkte, wenn es neben Web-Aktivitäten auch gemeinsame Events mit der Community gibt.
+    Anwendungsfälle zu präsentieren. Zwei Punkte gibt es, wenn es neben Web-Aktivitäten auch gemeinsame Events mit der Community gibt.
   maxPoints: 2
   category: ausstattung
 - title: API/Schnittstelle
   description:
     Für den automatisierten Datenabruf und Anwendungen, die auf Parlamentsdaten basieren, braucht es offene Programmierschnittstellen.
-    In vielen anderen Bereichen ist dies bereits der Standard, deshalb sollte es auch für Parlamentsdaten gelten. Einen Punkt Abzug für Barrieren wie API-Keys.
+    In vielen anderen Bereichen ist dies bereits der Standard, deshalb sollte es auch für Parlamentsdaten gelten. Einen Punkt Abzug gibt es für Barrieren wie API-Keys.
   maxPoints: 2
   category: parlamentsdokumentation
 - title: Maschinenlesbarkeit von Plenarprotokollen
