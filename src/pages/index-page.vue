@@ -18,13 +18,13 @@
     </p>
 
     <p class="mt-4">
-      Sie können
+      Die Kriterien für die Erstellung des Rankings können
       <router-link
         to="/methodik/"
         class="underline underline-offset-4 hover:decoration-transparent text-blue hover:text-gray-900"
         >hier</router-link
       >
-      mehr über unsere Kriterien zur Erstellung des Rankings erfahren.
+      eingesehen werden.
     </p>
   </div>
 
