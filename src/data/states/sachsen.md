@@ -23,7 +23,7 @@ criteria:
     citations:
       - text: '§21 SächsEGovG'
         link: https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz#p21
-    text: Alle zwei Jahre aber für EGovG insgesamt
+    text: Die Evaluation erfolgt alle zwei Jahre aber für das E-Government-Gesetz insgesamt.
   - title: Behördendefinition
     points: 1
     citations:
@@ -58,7 +58,7 @@ criteria:
     citations:
       - text: '§8 Abs. 1 SächsEgovG'
         link: https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz#p8
-    text: Rohdaten aus der "Erfüllung ihrer Aufgaben" die inhaltlich strukturiert vorliegen
+    text: Rohdaten aus der "Erfüllung ihrer Aufgaben", die inhaltlich strukturiert vorliegen
   - title: Daten im Auftrag von Dritten
     points: 1
     citations:
@@ -71,7 +71,7 @@ criteria:
     citations:
       - text: '§8 Abs. 7 SächsEgovG'
         link: https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz#p8
-    text: Ja, wenn ein Verarbeitungsinteresse und Weiterverwendungsinteresse nach IWG vorliegt
+    text: Ja, wenn ein Verarbeitungsinteresse und Weiterverwendungsinteresse nach Informationsweiterverwendungsgesetz (seit Juli 2021 in Datennutzungsgesetz umbenannt) vorliegt.
   - title: Aktualität
     points: 0
   - title: Dauerhaftigkeit
@@ -148,7 +148,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 12 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 12 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:

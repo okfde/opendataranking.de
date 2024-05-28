@@ -21,13 +21,13 @@ criteria:
     citations:
       - text: '§10 Open Data-Verordnung NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=47710&anw_nr=2&aufgehoben=N&det_id=546899
-    text: Es gibt eine Evaluation über die "Erfahrungen mit §16a des EGovG" bis zum 1. Januar 2025, weitere Evaluationen unklar
+    text: Es gibt eine Evaluation über die "Erfahrungen mit §16a des EGovG" bis zum 1. Januar 2025, weitere Evaluationen unklar.
   - title: Behördendefinition
     points: 1
     citations:
       - text: '§16a Abs. 1 EGovG NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=34925&anw_nr=2&aufgehoben=N&det_id=552085
-    text: Behörden des Landes. Kommunen sind nicht verpflichtet
+    text: Behörden des Landes. Kommunen sind nicht verpflichtet.
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
     text: nicht explizit
@@ -59,7 +59,7 @@ criteria:
     citations:
       - text: '§16a Abs. 1 EGovG NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=34925&anw_nr=2&aufgehoben=N&det_id=552085
-    text: elektronische Daten, die [Behörden] zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen
+    text: Elektronische Daten, die [Behörden] zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen.
   - title: Offenheit
     points: 1
     citations:
@@ -87,19 +87,19 @@ criteria:
     citations:
       - text: '§5 Open Data-Verordnung NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=47710&anw_nr=2&aufgehoben=N&det_id=546894
-    text: Freie Lizenzen verpflichtend wenn Daten bereitgestellt werden müssen nach §16a EGovG NRW
+    text: Freie Lizenzen sind verpflichtend, wenn Daten bereitgestellt werden müssen nach §16a EGovG NRW.
   - title: Schnittstellen
     points: 1
     citations:
       - text: '§4 Abs. 1 Open Data-Verordnung NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=47710&anw_nr=2&aufgehoben=N&det_id=546893
-    text: die Daten sollen in offenen Datei- oder Schnittstellenformaten und vorranging über offene Schnittstellen bereitgestellt werden
+    text: Die Daten sollen in offenen Datei- oder Schnittstellenformaten und vorranging über offene Schnittstellen bereitgestellt werden.
   - title: Diskriminierungsfreiheit
     points: 1
     citations:
       - text: '§3 Abs. 2, Satz 3 Open Data-Verordnung NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=47710&anw_nr=2&aufgehoben=N&det_id=546892
-    text: Diskriminierungsfreiheit des Zugangs, so dass jede Person zu jeder Zeit auf die Daten zugreifen kann, ohne sich identifizieren oder eine Rechtfertigung für ihr Handeln abgeben zu müssen
+    text: Diskriminierungsfreiheit des Zugangs, so dass jede Person zu jeder Zeit auf die Daten zugreifen kann, ohne sich identifizieren oder eine Rechtfertigung für ihr Handeln abgeben zu müssen.
   - title: Kostenfreiheit
     points: 1
     citations:
@@ -185,7 +185,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung innerhalb einer Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 6 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 6 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:

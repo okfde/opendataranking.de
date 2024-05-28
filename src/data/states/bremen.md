@@ -151,7 +151,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 28 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 28 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:

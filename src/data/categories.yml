@@ -24,17 +24,17 @@
   methodology:
     Bundesländer regeln die Veröffentlichung von Open Data unterschiedlich – teilweise finden E-Government-Gesetze, eigene Open-Data-Gesetze, Verordnungen oder Abschnitte in Transparenzgesetzen Anwendung.
     Dabei wird der Umfang von Ausnahmen und Bereitstellungspflichten sowie die angewendeten Definitionen für die bereitzustellenden Informationen bewertet. Als Grundlage dienen die
-    gängigen Kriterien der [Sunlight Foundation](https://www.govdata.de/documents/10156/18448/GovData_Open-Data-Kriterien_der_Sunlight_Foundation.pdf/dca8fea0-8e04-4de0-8531-2bc3e8d4abc0) und der [Open Definition](https://opendefinition.org/).
+    gängigen [10 Kriterien der Sunlight Foundation](https://www.govdata.de/documents/10156/18448/GovData_Open-Data-Kriterien_der_Sunlight_Foundation.pdf/dca8fea0-8e04-4de0-8531-2bc3e8d4abc0) und die [Open Definition der Open Knowledge Foundation](https://opendefinition.org/od/2.1/de/).
 - title: Daten&shy;portal
   slug: datenportal
   color: '#007264'
   description:
-    Bei der Bewertung von Open-Data-Portalen haben wir vor allem die Möglichkeiten des automatisierten Bereitstellens und Abrufens von Daten bewertet.
+    Bei der Bewertung von Open-Data-Portalen haben wir vor allem die Möglichkeit des automatisierten Bereitstellens und Abrufens von Daten bewertet.
   methodology:
     Ein Portal allein bedeutet nicht, dass qualitativ hochwertige Daten automatisiert bereitgestellt werden.
     Dennoch können anhand des Vorhandenseins eines Portals und der Ausgestaltung der Portalfunktionen Hinweise über die Auseinandersetzung mit dem Thema Open Data im
-    jeweiligen Bundesland gewonnen werden. Angelehnt an den [Open Data Maturity Bericht](https://data.europa.eu/de/publications/open-data-maturity) der Europäischen Union
-    werden vor allem die Möglichkeiten des automatisierten Bereitstellens und Abrufens von Daten bewertet.
+    jeweiligen Bundesland gewonnen werden. Angelehnt an den [Open Data Maturity Bericht der Europäischen Union](https://data.europa.eu/de/publications/open-data-maturity) 
+    wird vor allem die Möglichkeit des automatisierten Bereitstellens und Abrufens von Daten bewertet.
 - title: Daten&shy;realität
   slug: datenrealitaet
   color: '#e30807'
@@ -45,13 +45,13 @@
     Die bloße Anzahl an offenen Datensätzen in einem Bundesland hat nur eine geringe Aussagekraft. Stattdessen wird in dieser Kategorie danach bewertet, wie aktuell, wie frei nutzbar und
     wie verlinkt die Daten der jeweiligen Bundesländer sind. Als Grundlage dienen dabei die Distributionen der Daten aus dem Jahr 2023 (Stichtag für die Betrachtung ist Datenbestand vom 15. März 2024 bei GovData),
     die über SPARQL beim Portal GovData abgerufen werden können.
-    Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf GovData, so dass man sich selbst ein Bild machen kann.
+    Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf GovData, so dass die Abfrage der Daten gut nachvollzogen werden kann.
 - title: Ausstattung
   slug: ausstattung
   color: '#9be6f2'
   description:
     Damit Daten von der Verwaltung bereitgestellt und im besten Falle selbst genutzt werden, braucht es angepasste Arbeitsweisen und Strukturen, die dies befördern. 
-    In dieser Kategorie geht es um Unterstützung und institutionalisierte Open-Data-Kultur in den Bundesländern.
+    In dieser Kategorie geht es um die Unterstützung und die institutionalisierte Open-Data-Kultur in den Bundesländern.
   methodology:
     Wie Open Data in die Anwendung kommen, hängt von vielen Faktoren ab. Dazu gehören auch die Rahmenbedingungen –
     gibt es Unterstützungsangebote für Behörden, gesetzlich verpflichtende Open-Data-Beauftragte bei Behörden und einen Austausch mit Ehrenamtlichen oder weiteren Datennutzenden?
@@ -62,5 +62,5 @@
     Daten aus den (Landes-)Parlamenten machen die politische Willensbildung im jeweiligen Land sichtbar - deshalb werden auch hier die Aktualität, Maschinenlesbarkeit und der einfache Zugang bewertet.
   methodology:
     Ein Unterthema ist die Dokumentation der einzelnen Landesparlamente, die die politische Willensbildung sichtbar machen.
-    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität, automatisiertes Abrufen und Bereitstellen steht. Die zugrundeliegende
-    Erhebung lässt sich [hier](https://www.datawrapper.de/_/9CgBo/) finden; eine inhaltliche Einordnung zum Stand der Parlamentsdokumentationen gibt es in diesem Artikel bei [netzpolitik](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/).
+    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität und automatisiertes Abrufen und Bereitstellen steht. Dieser 
+    Erhebung liegen [Daten mit Stand Februar 2024](https://www.datawrapper.de/_/9CgBo/) zugrunde, die inhaltlich in einem [Artikel bei netzpolitik.org zum Stand der Parlamentsdokumentationen](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/) eingeordnet wurden.

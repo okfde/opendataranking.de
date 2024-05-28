@@ -131,11 +131,11 @@ criteria:
       - text: 'keine maschinenlesbare Protokolle'
         link: https://www.datawrapper.de/_/9CgBo/
   - title: Aktualität von Plenarprotokollen
-    points: 0
+    points: 1
     citations:
       - text: 'Veröffentlichung dauert unter einer Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 6 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 6 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:

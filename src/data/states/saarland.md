@@ -35,7 +35,7 @@ criteria:
     citations:
       - text: '§17 Abs. 1 E-GovG SL'
         link: https://recht.saarland.de/bssl/document/jlr-EGovGSLpP17
-    text: Falls öffentlich verfügbar dann auch maschinenlesbar, besonders falls es ein Weiterverwendungsinteresse gibt (DNG)
+    text: Stellen Behörden über öffentlich zugängliche Netze Daten zur Verfügung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Informationsweiterverwendungsgesetzes, zu erwarten ist, so sind im Regelfall maschinenlesbare Formate zu verwenden.
   - title: Aktualität
     points: 0
   - title: Dauerhaftigkeit
@@ -87,7 +87,7 @@ criteria:
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 19 Tage zwischen Sitzung und Veröffentlichung
+    text: In der letzten Legislaturperiode lagen im Median 19 Tage zwischen Sitzung und Veröffentlichung.
 stats:
   lastUpdate: 2024-03-15
   items:
