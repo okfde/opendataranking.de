@@ -119,7 +119,7 @@ criteria:
       - text: 'Schnittstellenbeschreibung'
         link: https://opendata.schleswig-holstein.de/infos/
   - title: API mit Dokumentation
-    points: 0
+    points: 3
     citations:
       - text: 'API-Dokumentation'
         link: https://opendata.schleswig-holstein.de/entwickler/

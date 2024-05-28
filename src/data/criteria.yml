@@ -47,8 +47,8 @@
 - title: Pauschale Ausschlusskriterien
   description:
     Pauschale Ausschlusskriterien, die gegen eine Veröffentlichung von Daten sprechen, sollten
-    möglichst begrenzt auftreten. Einen Punkt Abzug gibt es, wenn nur personenbezogene Daten & Urheberrecht
-    pauschal ausgeschlossen werden. Zwei Punkte Abzug gibt es, wenn es darüber hinaus weitere Kriterien gibt.
+    möglichst begrenzt auftreten. Einen Punkt Abzug, wenn nur personenbezogene Daten und Urheberrecht
+    pauschal ausgeschlossen werden, zwei Punkte Abzug, wenn es darüber hinaus weitere Kriterien gibt.
   maxPoints: 3
   category: rechtsrahmen
 - title: Datenkatalog
@@ -212,8 +212,8 @@
 - title: Aktualität von Plenarprotokollen
   description:
     Aktuelle Analysen und die Auseinandersetzungen mit Inhalten aus den Plenardebatten können nur gelingen, wenn
-    die Protokolle auch zeitnah nach dem Sitzungstermin veröffentlicht werden. Volle Punktzahl wenn eine Version des Plenarprotokolls, unabhängig davon, ob
-    es sich um ein vorläufiges oder endgültiges Dokument handelt, innerhalb einer Woche nach der Sitzung. Die Daten dazu stammen aus einer [Erhebung für die
-    Plenarprotokolle der letzten Legislaturperiode](https://www.datawrapper.de/_/9CgBo/)
+    die Protokolle auch zeitnah nach dem Sitzungstermin veröffentlicht werden. Volle Punktzahl, wenn eine Version des Plenarprotokolls, unabhängig davon, ob
+    es sich um ein vorläufiges oder endgültiges Dokument handelt, innerhalb einer Woche nach der Sitzung veröffentlicht wird. Die Daten dazu stammen aus einer [Erhebung für die
+    Plenarprotokolle der letzten Legislaturperiode](https://www.datawrapper.de/_/9CgBo/).
   maxPoints: 1
   category: parlamentsdokumentation
