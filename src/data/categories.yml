@@ -1,6 +1,6 @@
 - title: Gesamt
   slug: gesamt
-  color: '#6949df'
+  color: '#43398C'
 - title: Rechts&shy;anspruch auf Open Data
   slug: rechtsanspruch
   color: '#CD04CA'
@@ -57,7 +57,7 @@
     gibt es Unterstützungsangebote für Behörden, gesetzlich verpflichtende Open-Data-Beauftragte bei Behörden und einen Austausch mit Ehrenamtlichen oder weiteren Datennutzenden?
 - title: Parlaments&shy;dokumentation
   slug: parlamentsdokumentation
-  color: '#6979d1'
+  color: '#6949df'
   description:
     Daten aus den (Landes-)Parlamenten machen die politische Willensbildung im jeweiligen Land sichtbar - deshalb werden auch hier die Aktualität, Maschinenlesbarkeit und der einfache Zugang bewertet.
   methodology:
