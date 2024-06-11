@@ -1,9 +1,9 @@
 - title: Gesamt
   slug: gesamt
-  color: '#43388c'
+  color: '#6949df'
 - title: Rechts&shy;anspruch auf Open Data
   slug: rechtsanspruch
-  color: '#ffa6d0'
+  color: '#CD04CA'
   description:
     Ein Rechtsanspruch darauf, dass die bei staatlichen Einrichtungen vorhandenen Daten so umfassend wie möglich verfügbar und nutzbar gemacht werden, ist unabdingbar.
   methodology:
@@ -48,7 +48,7 @@
     Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf GovData, so dass die Abfrage der Daten gut nachvollzogen werden kann.
 - title: Ausstattung
   slug: ausstattung
-  color: '#9be6f2'
+  color: '#0075db'
   description:
     Damit Daten von der Verwaltung bereitgestellt und im besten Falle selbst genutzt werden, braucht es angepasste Arbeitsweisen und Strukturen, die dies befördern. 
     In dieser Kategorie geht es um die Unterstützung und die institutionalisierte Open-Data-Kultur in den Bundesländern.
