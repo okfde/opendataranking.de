@@ -3,15 +3,19 @@ name: Bremen
 short: HB
 criteria:
   - title: Rechtsanspruch auf Open Data
-    points: 0
+    points: 5
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§11 Abs. 1 BremIFG'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
+    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen
   - title: Gesetzeslage
     points: 0
     citations:
       - text: 'EGovG BR (2018)'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-zur-foerderung-der-elektronischen-verwaltung-in-bremen-vom-20-maerz-2018-112242
-    text: E-Government-Gesetz ohne Open Data
+      - text: 'BremIFG (2019[2006])'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977     
+    text: E-Government-Gesetz ohne Open Data; Kein Transparenzgesetz aber IFG mit bestimmten veröffentlichungspflichtigen Informationen 
   - title: Evaluation
     points: 0
     citations:
