@@ -7,7 +7,7 @@ criteria:
     citations:
       - text: '§2 SächsTranspG'
         link: https://www.revosax.sachsen.de/vorschrift/19699-Saechsisches-Transparenzgesetz
-    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen - in der Praxis scheint dieser Anspruch jedoch nur begrenzt umgesetzt zu werden: (https://fragdenstaat.de/blog/2024/06/11/schwarze-balken-und-horrende-rechnungen/)
+    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen - in der Praxis scheint dieser Anspruch jedoch nur begrenzt umgesetzt zu werden: [siehe FragdenStaat](https://fragdenstaat.de/blog/2024/06/11/schwarze-balken-und-horrende-rechnungen/)
   - title: Gesetzeslage
     points: 2
     citations:
