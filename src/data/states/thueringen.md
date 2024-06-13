@@ -3,11 +3,11 @@ name: Thüringen
 short: TH
 criteria:
   - title: Rechtsanspruch auf Open Data
-    points: 5
+    points: 0
     citations:
       - text: '§4 Abs. 1 ThürTG'
         link: https://landesrecht.thueringen.de/bsth/document/jlr-TranspGTHpP4
-    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen
+    text: Kein expliziter Anspruch auf die Veröffentlichung bestimmter Informationen
   - title: Gesetzeslage
     points: 2
     citations:
