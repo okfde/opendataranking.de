@@ -7,7 +7,7 @@ criteria:
     citations:
       - text: '§2 Abs. 1 LTranspG'
         link: https://landesrecht.rlp.de/bsrp/document/jlr-TranspGRPpP2
-    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen
+    text: Nur Anspruch auf die Veröffentlichung und Bereitstellung der in §7 LTranspG genannten Informationen
   - title: Gesetzeslage
     points: 2
     citations:
