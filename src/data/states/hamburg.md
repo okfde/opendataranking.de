@@ -7,7 +7,7 @@ criteria:
     citations:
       - text: '§1 Abs. 2 HmbTG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P1
-    text: Kein Rechtsanspruch auf Open Data, aber Anspruch auf unverzüglichen Zugang zu allen amtlichen Informationen der auskunftspflichtigen Stellen.
+    text: Nur Anspruch auf Zugang und Veröffentlichung der in §3 Abs. 1 HmbTG genannten Informationen
   - title: Gesetzeslage
     points: 1
     citations:
