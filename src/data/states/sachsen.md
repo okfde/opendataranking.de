@@ -5,9 +5,9 @@ criteria:
   - title: Rechtsanspruch auf Open Data
     points: 5
     citations:
-      - text: '§2 SächsTranspG'
-        link: https://www.revosax.sachsen.de/vorschrift/19699-Saechsisches-Transparenzgesetz
-    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen - in der Praxis scheint dieser Anspruch jedoch nur begrenzt umgesetzt zu werden [siehe FragdenStaat](https://fragdenstaat.de/blog/2024/06/11/schwarze-balken-und-horrende-rechnungen/)
+      - text: '§1 SächsTranspG'
+        link: https://www.revosax.sachsen.de/vorschrift/19699-Saechsisches-Transparenzgesetz#p1
+    text: Nur Anspruch auf Zugang und Veröffentlichung der in §8 SächsTranspG genannten Informationen - in der Praxis scheint dieser Anspruch jedoch nur begrenzt umgesetzt zu werden 
   - title: Gesetzeslage
     points: 2
     citations:
