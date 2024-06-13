@@ -11,7 +11,7 @@ criteria:
   - title: Gesetzeslage
     points: 2
     citations:
-      - text: 'SächsTranspG (2020[2015])'
+      - text: 'SächsTranspG (2023)'
         link: https://www.revosax.sachsen.de/vorschrift/19699-Saechsisches-Transparenzgesetz
       - text: 'SächsEGovG (2021)[2019]'
         link: https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz
