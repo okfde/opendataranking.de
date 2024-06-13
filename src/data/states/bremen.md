@@ -5,9 +5,9 @@ criteria:
   - title: Rechtsanspruch auf Open Data
     points: 5
     citations:
-      - text: '§11 Abs. 1 BremIFG'
-        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
-    text: Nur Anspruch auf die Bereitstellung bestimmter veröffentlichungspflichtiger Informationen
+      - text: '§1 Abs. 1 BremIFG'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P1
+    text: Nur Anspruch auf Zugang und Veröffentlichung der in §11 BremIFG genannten Informationen
   - title: Gesetzeslage
     points: 0
     citations:
