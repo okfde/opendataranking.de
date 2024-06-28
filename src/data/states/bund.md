@@ -107,7 +107,7 @@ criteria:
     citations:
       - text: 'GovData (2013)'
         link: https://www.govdata.de/
-    text: Es gibt kein eigenes Datenportal bzw. aktuell keine einheitliche Pipeline, über die alle Daten aus der Bundesverwaltung an das von der FITKO betriebene Datenportal für Deutschland GovData geliefert werden. Die Angaben beziehen sich daher auf Funktionen von GovData, sind aber vorerst aus Gründen der leichteren Vergleichbarkeit von der Bewertung ausgenommen.
+    text: Es gibt kein eigenes Datenportal bzw. aktuell keine einheitliche Pipeline, über die alle Daten aus der Bundesverwaltung an das von der FITKO betriebene Datenportal für Deutschland GovData geliefert werden. Die Angaben beziehen sich daher auf Funktionen von GovData, sind aber vorerst aus Gründen der Vergleichbarkeit von der Bewertung ausgenommen.
   - title: Portal-Schnittstellen
     points: 0
     citations:
