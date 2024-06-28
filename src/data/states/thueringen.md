@@ -143,6 +143,8 @@ stats:
       value: 0
     - text: Datensätze 2023 aktualisiert gesamt
       value: 0
+    - text: Datensätze 2023 neu erstellt gesamt
+      value: 0
     - text: Datensätze 2023 aktualisiert in Formaten CSV/XML/JSON
       value: 0
     - text: Datensätze 2023 in Linked-Data-Formaten bereitgestellt
