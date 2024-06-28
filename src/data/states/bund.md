@@ -22,7 +22,7 @@ criteria:
         link: https://www.gesetze-im-internet.de/egovg/__12a.html
     text: Evaluierung des Open-Data-Gesetzes nach vier Jahren sowie alle zwei Jahre Fortschrittsberichte zu Open Data durch die Bundesregierung - aber aktuell letzter Bericht 2019
   - title: Behördendefinition
-    points: 1
+    points: 3
     citations:
       - text: '§12a Abs. 1 EGovG'
         link: https://www.gesetze-im-internet.de/egovg/__12a.html
@@ -30,7 +30,9 @@ criteria:
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§12a Abs. 1 EGovG'
+        link: https://www.gesetze-im-internet.de/egovg/__12a.html
+    text: Selbstverwaltungskörperschaften explizit ausgenommen
   - title: Forschungsdaten
     points: 2
     citations:
