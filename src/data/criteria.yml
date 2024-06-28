@@ -22,7 +22,7 @@
 - title: Behördendefinition
   description:
     Die Definition der bereitstellenden Behörden soll möglichst breit gewählt sein. Drei Punkte gibt es, wenn alle Behörden des Landes
-    inkl. Kommunen und Gemeinden (Bezirke oder äquivalent auf Stadtstaatebene) einbezogen werden.
+    inkl. Kommunen und Gemeinden (Bezirke oder äquivalent auf Stadtstaatebene bzw. die gesamte Bundesverwaltung auf Bundesebene) einbezogen werden.
   maxPoints: 3
   category: rechtsrahmen
 - title: Anstalten, Körperschaften, Unternehmen
