@@ -112,7 +112,7 @@
 - title: Portal für Open Data
   description:
     Es gibt ein Open-Data-Portal für das Bundesland. Abzüge, wenn es nur ein Transparenzportal gibt, bei vornehmlich Dokumente oder nicht maschinenlesbare Informationen
-    veröffentlicht werden.
+    veröffentlicht werden. Auf Bundesebene wird berücksichtigt, ob eine zentrale datenliefernde Pipeline vorhanden ist.
   maxPoints: 6
   category: datenportal
 - title: Portal-Schnittstellen
