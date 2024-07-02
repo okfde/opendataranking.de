@@ -7,7 +7,7 @@ criteria:
       - text: '§12a Abs. 1 EGovG'
         link: https://www.gesetze-im-internet.de/egovg/__12a.html
     text: Es gibt explizit keinen Anspruch auf die Bereitstellung der Daten
-  - title: Rechtsrahmen
+  - title: Gesetzeslage
     points: 2
     citations:
       - text: 'EGovG (2021[2013] Einführung §12a Open Data 2018)'
