@@ -168,7 +168,10 @@ criteria:
         link: https://opendata.schleswig-holstein.de/leitfaden/
   - title: Öffentlichkeitsarbeit
     points: 2
-    text: Präsenz und gemeinsame Workshops mit der Community
+    citations:
+      - text: 'exemplarisch Digitale Woche Kiel'
+        link: https://digitalewochekiel.de/programm/01hqqgv2p917ahfchjpgwe84w7
+    text: Teilnahme an Barcamps und gemeinsame Workshops mit der Community
   - title: API/Schnittstelle
     points: 0
     citations:
