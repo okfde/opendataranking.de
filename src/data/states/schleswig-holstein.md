@@ -147,6 +147,8 @@ criteria:
     text: Für den Vergleichszeitraum 2023 wurden 97,41% der aktualisierten oder neuen Datensätze mit Zero oder BY-Lizenz versehen (10110 von 10379)
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Open-Data-Beratungsstelle
     points: 2
     citations:
