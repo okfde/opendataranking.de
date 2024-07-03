@@ -151,7 +151,7 @@ criteria:
     citations:
       - text: '§12a Abs. 10 EGovG'
         link: https://www.gesetze-im-internet.de/egovg/__12a.html
-      - text: Kompetenzzentrum Open Data (CCOD) im Bundesverwaltungsamt
+      - text: 'Kompetenzzentrum Open Data (CCOD) im Bundesverwaltungsamt'
         link: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html
   - title: Open-Data-Labore
     points: 1
