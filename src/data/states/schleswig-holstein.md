@@ -30,6 +30,8 @@ criteria:
     text: Träger der öffentlichen Verwaltung können, Landesbehörden sollen veröffentlichen
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
     text: nicht explizit
   - title: Forschungsdaten
     points: 2
