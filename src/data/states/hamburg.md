@@ -16,6 +16,8 @@ criteria:
     text: Transparenzgesetz mit Open-Data-Einsprengseln
   - title: Evaluation
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Behördendefinition
     points: 3
     citations:
@@ -30,6 +32,8 @@ criteria:
     text: Körperschaften und Stiftungen die Daseinsvorsorge oder öffentliche Dienstleistungen anbieten, Unternehmen unter Kontrolle der Freien und Hansestadt Hamburg
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Ausnahmen
     points: 1
     citations:
@@ -50,6 +54,8 @@ criteria:
     text: Aufzählung von auskunftspflichtigen Informationen
   - title: Rohdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
     points: 0
   - title: Offenheit
@@ -69,6 +75,8 @@ criteria:
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P10
   - title: Dauerhaftigkeit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Lizenz
     points: 1
     citations:
@@ -77,8 +85,12 @@ criteria:
     text: Keine Lizenz genannt aber freie Nutzung
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Kostenfreiheit
     points: 1
     citations:
@@ -91,6 +103,8 @@ criteria:
         link: https://transparenz.hamburg.de/
   - title: Portal-Schnittstellen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API mit Dokumentation
     points: 3
     citations:
@@ -98,6 +112,8 @@ criteria:
        link: https://transparenz.hamburg.de/api-796358
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 2
     citations:
@@ -118,14 +134,24 @@ criteria:
     text: Für den Vergleichszeitraum 2023 wurden 99,97% der aktualisierten oder neuen Datensätze mit Zero oder BY-Lizenz versehen (3794 von 3795)
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 1
+    citations:
+      - text: 'Teilnahme an Events'
     text: Teilnahme an Barcamps und Konferenzen
   - title: API/Schnittstelle
     points: 0
