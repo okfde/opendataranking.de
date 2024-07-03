@@ -7,55 +7,93 @@ criteria:
   - title: Gesetzeslage
     points: 0
     citations:
-      - text: NDIG (2019)
+      - text: 'NDIG (2019)'
         link: https://voris.wolterskluwer-online.de/browse/document/a8cf0d53-edeb-3d90-8bf4-a42dbb4e8799
     text: Gesetz über digitale Verwaltung ohne Open Data
   - title: Evaluation
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Behördendefinition
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Ausnahmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Pauschale Ausschlusskriterien
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Datenkatalog
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Rohdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Offenheit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Maschinenlesbarkeit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Aktualität
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Lizenz
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Kostenfreiheit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Portal für Open Data
     points: 0
-    citation: 'nicht vorhanden'
+    citations:
+      - text: 'nicht vorhanden'
   - title: Portal-Schnittstellen
     points: 0
-    citation: 'nicht vorhanden'
+    citations:
+      - text: 'nicht vorhanden'
   - title: API mit Dokumentation
     points: 0
-    citation: 'nicht vorhanden'
+    citations:
+      - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
     points: 0
-    citation: 'nicht vorhanden'
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 5
     citations:
@@ -76,14 +114,24 @@ criteria:
     text: Für den Vergleichszeitraum 2023 wurden 99,61% der aktualisierten oder neuen Datensätze mit Zero oder BY-Lizenz versehen (257 von 258)
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
@@ -93,7 +141,7 @@ criteria:
     points: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
-        likn: https://www.datawrapper.de/_/9CgBo/
+        link: https://www.datawrapper.de/_/9CgBo/
   - title: Aktualität von Plenarprotokollen
     points: 0
     citations:
