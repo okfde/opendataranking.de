@@ -30,6 +30,8 @@ criteria:
     text: Behörden des Landes. Gemeinden, Gemeindeverbände und Landkreise sind nicht verpflichtet
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Forschungsdaten
     points: 0
     citations:
@@ -50,6 +52,8 @@ criteria:
     text: Mehr als ein Dutzend Ausnahmen, darunter Datenschutz, das Urheberrecht, das Wettbewerbsrecht, Geschäftsgeheimnisse und nationale Sicherheit
   - title: Datenkatalog
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Rohdaten
     points: 1
     citations:
@@ -68,8 +72,12 @@ criteria:
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP4
   - title: Maschinenlesbarkeit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Aktualität
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
     points: 1
     citations:
@@ -82,6 +90,8 @@ criteria:
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP4
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 1
     citations:
@@ -94,20 +104,36 @@ criteria:
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP3
   - title: Portal für Open Data
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Portal-Schnittstellen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API mit Dokumentation
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Linked Data
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Freie Lizenzen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 1
     citations:
@@ -116,10 +142,16 @@ criteria:
     text: Ja, laut Gesetz, aber aktuell noch nicht umgesetzt
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
