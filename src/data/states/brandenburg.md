@@ -96,7 +96,7 @@ criteria:
   - title: SPARQL-Abfragen
     points: 0
     citations:
-      - text: 'Nicht vorhanden'
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 0
     citations:
@@ -117,23 +117,23 @@ criteria:
   - title: Open-Data-Beauftragte
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
