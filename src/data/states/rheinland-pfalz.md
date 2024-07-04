@@ -36,13 +36,15 @@ criteria:
     text: Für Körperschaften und Unternehmen der umweltbezogenen Daseinsvorsorge, die dem Land unterstehen
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
     text: nicht explizit
   - title: Ausnahmen
     points: 1
     citations:
       - text: '§3 Abs. 4 LTranspG'
         link: https://landesrecht.rlp.de/bsrp/document/jlr-TranspGRPpP3
-    text: Ausnahmen bei Justiz, Landtag, Rechnungshof, Rundfunkanstalten, öffentlich-rechtliche Kreditinstitute
+    text: Ausnahmen bei Justiz, Landtag, Rechnungshof, Rundfunkanstalten, öffentlich-rechtlichen Kreditinstituten
   - title: Pauschale Ausschlusskriterien
     points: 1
     citations:
@@ -57,8 +59,12 @@ criteria:
     text: Lange Aufzählung inklusive Geodaten, Umweltinformationen und Unternehmensdaten
   - title: Rohdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Offenheit
     points: 1
     citations:
@@ -91,6 +97,8 @@ criteria:
     text: Frei. Behörden sollen sich diese Nutzungsrechte im Umgang mit Dritten garantieren lassen.
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 1
     citations:
@@ -114,8 +122,12 @@ criteria:
         link: https://daten.rlp.de/pages/faq
   - title: API mit Dokumentation
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 5
     citations:
@@ -136,14 +148,24 @@ criteria:
     text: Für den Vergleichszeitraum 2023 wurden 99,75% der aktualisierten oder neuen Datensätze mit Zero oder BY-Lizenz versehen (4323 von 4434)
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
