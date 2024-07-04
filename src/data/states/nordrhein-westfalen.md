@@ -30,9 +30,13 @@ criteria:
     text: Behörden des Landes. Kommunen sind nicht verpflichtet.
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
     text: nicht explizit
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
     text: nicht explizit
   - title: Ausnahmen
     points: 2
@@ -48,6 +52,8 @@ criteria:
     text: Einschränkungen aus dem IFG, Urheberrecht, Personenbezogene Daten
   - title: Datenkatalog
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Rohdaten
     points: 1
     citations:
@@ -59,7 +65,7 @@ criteria:
     citations:
       - text: '§16a Abs. 1 EGovG NRW'
         link: https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=34925&anw_nr=2&aufgehoben=N&det_id=552085
-    text: Elektronische Daten, die [Behörden] zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen.
+    text: Elektronische Daten, die [Behörden] zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen
   - title: Offenheit
     points: 1
     citations:
@@ -157,6 +163,8 @@ criteria:
         link: https://open.nrw/unterstuetzung
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 1
     citations:
