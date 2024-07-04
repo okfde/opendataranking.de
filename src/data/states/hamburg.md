@@ -21,13 +21,13 @@ criteria:
   - title: Behördendefinition
     points: 3
     citations:
-      - text: '§2 Abs. 3-4 HmbTG  '
+      - text: '§2 Abs. 3-4 HmbTG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P2
     text: Behörden der Freien und Hansestadt Hamburg
   - title: Anstalten, Körperschaften, Unternehmen
     points: 2
     citations:
-      - text: '§2 Abs. 3-4 HmbTG  '
+      - text: '§2 Abs. 3-4 HmbTG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P2
     text: Körperschaften und Stiftungen die Daseinsvorsorge oder öffentliche Dienstleistungen anbieten, Unternehmen unter Kontrolle der Freien und Hansestadt Hamburg
   - title: Forschungsdaten
@@ -58,6 +58,8 @@ criteria:
       - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Offenheit
     points: 1
     citations:
