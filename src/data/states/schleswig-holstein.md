@@ -7,7 +7,7 @@ criteria:
     citations:
       - text: '§2 Abs. 2 ODaG'
         link: https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-OpenDataGSHpP2
-    text: Ein Anspruch auf Bereitstellung unbearbeiteter Daten wird durch das Gesetz nicht begründet.
+    text: Ein Anspruch auf Bereitstellung unbearbeiteter Daten wird durch das Gesetz nicht begründet
   - title: Gesetzeslage
     points: 2
     citations:
@@ -127,6 +127,8 @@ criteria:
         link: https://opendata.schleswig-holstein.de/entwickler/
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 5
     citations:
@@ -148,7 +150,7 @@ criteria:
   - title: Open-Data-Beauftragte
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 2
     citations:
