@@ -15,7 +15,7 @@ criteria:
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-zur-foerderung-der-elektronischen-verwaltung-in-bremen-vom-20-maerz-2018-112242
       - text: 'BremIFG (2019[2006])'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977     
-    text: E-Government-Gesetz ohne Open Data; Kein Transparenzgesetz aber IFG mit bestimmten veröffentlichungspflichtigen Informationen 
+    text: E-Government-Gesetz ohne Open Data; kein Transparenzgesetz aber IFG mit bestimmten veröffentlichungspflichtigen Informationen 
   - title: Evaluation
     points: 0
     citations:
@@ -123,23 +123,23 @@ criteria:
   - title: Open-Data-Beauftragte
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
     citations:
-      - text: 'keine Erwähnung'
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
