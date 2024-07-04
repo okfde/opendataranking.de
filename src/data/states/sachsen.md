@@ -38,6 +38,8 @@ criteria:
     text: Körperschaften, Anstalten und rechtsfähigen Stiftungen des öffentlichen Rechts (Träger der Selbstverwaltung)
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
     text: nicht explizit
   - title: Ausnahmen
     points: 1
@@ -53,6 +55,8 @@ criteria:
     text: Einschränkungen für Daten an denen kein oder nur ein eingeschränktes Zugangsrecht besteht oder ein Zugangsrecht erst nach der Beteiligung Dritter bestünde
   - title: Datenkatalog
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Rohdaten
     points: 1
     citations:
@@ -66,6 +70,8 @@ criteria:
         link: https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz#p8
   - title: Offenheit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Maschinenlesbarkeit
     points: 1
     citations:
@@ -74,8 +80,12 @@ criteria:
     text: Ja, wenn ein Verarbeitungsinteresse und Weiterverwendungsinteresse nach Informationsweiterverwendungsgesetz (seit Juli 2021 in Datennutzungsgesetz umbenannt) vorliegt.
   - title: Aktualität
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Lizenz
     points: 1
     citations:
@@ -84,6 +94,8 @@ criteria:
     text: Keine Lizenz genannt aber Abruf zur "möglichst uneingeschränkten Weiterverwendung der Daten durch jedermann"
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 1
     citations:
@@ -102,10 +114,16 @@ criteria:
         link: https://www.opendata.sachsen.de/
   - title: Portal-Schnittstellen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API mit Dokumentation
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 2
     citations:
@@ -126,14 +144,24 @@ criteria:
     text: Für den Vergleichszeitraum 2023 wurden 99,56% der aktualisierten oder neuen Datensätze mit Zero oder BY-Lizenz versehen (902 von 907)
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
