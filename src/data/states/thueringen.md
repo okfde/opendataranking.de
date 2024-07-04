@@ -30,8 +30,12 @@ criteria:
     text: Gilt nur für ThürTG - Öffentliche Stellen inklusive Gemeinde, sowie andere die öffentlich-rechtliche Aufgaben wahrnehmen.
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Forschungsdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Ausnahmen
     points: 1
     citations:
@@ -52,8 +56,12 @@ criteria:
     text: Aufzählung von auskunftspflichtigen Informationen
   - title: Rohdaten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Offenheit
     points: 1
     citations:
@@ -68,6 +76,8 @@ criteria:
     text: Wenn Behörden Daten bereitstellen, dann grundsätzlich in maschinenlesbaren Formaten
   - title: Aktualität
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
     points: 1
     citations:
@@ -82,6 +92,8 @@ criteria:
     text: Keine Lizenz genannt aber Nutzung und Weiterverwendung frei
   - title: Schnittstellen
     points: 0
+    citations:
+      - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
     points: 1
     citations:
@@ -100,26 +112,48 @@ criteria:
         link: https://verwaltung.thueringen.de/ttp
   - title: Portal-Schnittstellen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API mit Dokumentation
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Aktualität der Daten
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Linked Data
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Freie Lizenzen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Labore
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
     points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: API/Schnittstelle
     points: 0
     citations:
