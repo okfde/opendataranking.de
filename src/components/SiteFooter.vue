@@ -53,9 +53,9 @@
             </a>
           </p>-->
           <p class="mb-1">
-            <a href="/public/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
+            <a href="./OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
               <i-mdi-code-json class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Datensatz im JSON-Format</span>
+              <span class="underline underline-offset-4 hover:decoration-transparent">Datensatz als JSON</span>
             </a>
           </p>
           <p>
