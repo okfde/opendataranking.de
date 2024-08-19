@@ -9,13 +9,13 @@
   methodology:
     Aus den Open-Data-Gesetzen in Deutschland ergibt sich bislang kein Anspruch
     auf die Bereitstellung von Open Data, teilweise wird dieser sogar explizit
-    ausgeschlossen. Ein subjektiv-öffentliches Recht auf Bereitstellung von
-    Daten kann jedoch als Umsetzungsmotor dienen, um die notwendige IT- und
+    ausgeschlossen. Ein subjektiv einklagbarer Rechtsanspruch 
+    kann jedoch als Umsetzungsmotor dienen, um die notwendige IT- und
     Dateninfrastruktur für eine automatisierte Bereitstellung von Open Data zu
     schaffen – daher wird dieser Kategorie ein hoher Wert zuteil. Einige
     Bundesländer haben bereits Ansprüche auf die Veröffentlichung von
     Informationen in Transparenzgesetzen verankert, die aber hinter einem
-    allgemeingültigen Anspruch auf Open Data zurückbleiben.
+    umfassenden Anspruch auf Open Data zurückbleiben.
 - title: Rechts&shy;rahmen
   slug: rechtsrahmen
   color: '#ffb700'
@@ -24,7 +24,8 @@
   methodology:
     Bundesländer regeln die Veröffentlichung von Open Data unterschiedlich – teilweise finden E-Government-Gesetze, eigene Open-Data-Gesetze, Verordnungen oder Abschnitte in Transparenzgesetzen Anwendung.
     Dabei wird der Umfang von Ausnahmen und Bereitstellungspflichten sowie die angewendeten Definitionen für die bereitzustellenden Informationen bewertet. Als Grundlage dienen die
-    gängigen [10 Kriterien der Sunlight Foundation](https://www.govdata.de/documents/10156/18448/GovData_Open-Data-Kriterien_der_Sunlight_Foundation.pdf/dca8fea0-8e04-4de0-8531-2bc3e8d4abc0) und die [Open Definition der Open Knowledge Foundation](https://opendefinition.org/od/2.1/de/).
+    gängigen [10 Kriterien der Sunlight Foundation](https://www.govdata.de/documents/10156/18448/GovData_Open-Data-Kriterien_der_Sunlight_Foundation.pdf/dca8fea0-8e04-4de0-8531-2bc3e8d4abc0) und die [Open Definition der Open Knowledge Foundation](https://opendefinition.org/od/2.1/de/). 
+    Für das Ranking 2024 wurden alle Änderungen am Rechtsrahmen bis zum 31. Dezember 2023 berücksichtigt.
 - title: Daten&shy;portal
   slug: datenportal
   color: '#007264'
@@ -43,9 +44,9 @@
     Stattdessen werden die Ergebnisse bei GovData ins Verhältnis zu Aktualität, Freiheit und Qualität gesetzt.
   methodology:
     Die bloße Anzahl an offenen Datensätzen in einem Bundesland hat nur eine geringe Aussagekraft. Stattdessen wird in dieser Kategorie danach bewertet, wie aktuell, wie frei nutzbar und
-    wie verlinkt die Daten der jeweiligen Bundesländer sind. Als Grundlage dienen dabei die Distributionen der Daten aus dem Jahr 2023 (Stichtag für die Betrachtung ist Datenbestand vom 15. März 2024 bei GovData),
-    die über SPARQL beim Portal GovData abgerufen werden können.
-    Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf GovData, so dass die Abfrage der Daten gut nachvollzogen werden kann.
+    wie verlinkt die Daten der jeweiligen Bundesländer sind. Als Grundlage dienen dabei die Distributionen der Daten aus dem Kalenderjahr 2023, die beim Portal GovData am Stichtag 15. März 2024 abrufbar waren. 
+    Ein Klick auf die jeweilige Kategorie führt direkt zu SPARQL-Presets auf GovData, so dass die Abfrage der Daten nachvollzogen werden kann. Der Datenbestand von GovData ist dynamisch. Je nach Betrachtungszeitpunkt kann sich die Anzahl der im Kalenderjahr aktualisierten/erstellten Datensätze ändern.
+    Einschränkend ist zu bemerken, dass die Aussagekraft dieser Kategorie von der Qualität der Metadaten abhängig ist – wird etwa die Aktualisierung von Distributionen nicht korrekt angegeben oder nicht alle relevanten Felder bei neuen Datensätzen ausgefüllt, fallen diese Datenpunkte aus dem Vergleich.
 - title: Ausstattung
   slug: ausstattung
   color: '#0075db'
@@ -62,5 +63,5 @@
     Daten aus den (Landes-)Parlamenten machen die politische Willensbildung im jeweiligen Land sichtbar - deshalb werden auch hier die Aktualität, Maschinenlesbarkeit und der einfache Zugang bewertet.
   methodology:
     Ein Unterthema ist die Dokumentation der einzelnen Landesparlamente, die die politische Willensbildung sichtbar machen.
-    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität und automatisiertes Abrufen und Bereitstellen steht. Dieser 
-    Erhebung liegen [Daten mit Stand Februar 2024](https://www.datawrapper.de/_/9CgBo/) zugrunde, die inhaltlich in einem [Artikel bei netzpolitik.org zum Stand der Parlamentsdokumentationen](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/) eingeordnet wurden.
+    Analog zu den anderen Kategorien wird hier darauf geschaut, wie es um Maschinenlesbarkeit, Aktualität sowie automatisiertes Abrufen und Bereitstellen parlamentarischer Informationen steht.  In einer Erhebung (Datenstand Februar 2024) wurden die Parlamentsdokumentationen angefragt und die veröffentlichten Dokumente analysiert. Eine inhaltliche Einordnung zum Stand der Parlamentsdokumentationen der Länder findet sich in einem Artikel bei netzpolitik.org.
+    Dieser Erhebung liegen [Daten mit Stand Februar 2024](https://www.datawrapper.de/_/9CgBo/) zugrunde, die inhaltlich in einem [Artikel bei netzpolitik.org zum Stand der Parlamentsdokumentationen](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/) eingeordnet wurden.
