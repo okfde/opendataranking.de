@@ -17,9 +17,9 @@
       eigenes Gesetz, einen Paragraphen im E-Government-Gesetz oder eine
       Verrechtlichung von Open Data in einem Transparenzgesetz sollte möglichst
       wenig pauschale Ausnahmebestände enthalten und gegen Unterlaufen und
-      Aufweichung geschützt formuliert sein. Der Status quo von verfügbaren Open
-      Data wird mit insgesamt 30% bewertet - hier gilt der Fokus der möglichst
-      automatisierten Datenbereitstellung und einem aktuellen, offenem und
+      Aufweichung geschützt formuliert sein. Der Status quo von verfügbaren offenen
+      Daten wird mit insgesamt 30% bewertet - hier gilt der Fokus der möglichst
+      automatisierten Datenbereitstellung und einem aktuellen, offenen und
       qualitativ hochwertigen Datenstand. Unter Ausstattung wird vor allem auf
       die vorhandene institutionalisierte Datenkultur geblickt, so dass Daten
       nicht nur händisch für Dritte bereitgestellt werden, sondern auch der
