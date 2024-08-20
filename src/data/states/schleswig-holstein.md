@@ -49,7 +49,7 @@ criteria:
     points: 1
     citations:
       - text: '§2 Abs. 3 Sätze 1-11 ODaG'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP5
+        link: https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-OpenDataGSHpP2
     text: Einschränkungen aus IFG; Betriebsgeheimnise; Informationen über gentechnische Anlagen; Informationen über den Schutz kerntechnischer Anlagen
   - title: Datenkatalog
     points: 2
@@ -98,7 +98,7 @@ criteria:
     points: 1
     citations:
       - text: '§4 Abs. 2 ODaG'
-        link: https://gesetze.berlin.de/bsbe/document/jlr-OpenDataBerVBEpP6
+        link: https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-OpenDataGSHpP4
     text: Das Open-Data-Portal soll mit anderen Portalen, die offene Daten bereitstellen, verknüpft werden und eine offene Schnittstelle enthalten
   - title: Diskriminierungsfreiheit
     points: 1
