@@ -164,3 +164,5 @@ stats:
     - text: Datensätze 2023 aktualisiert mit BY-Lizenz
       value: 0
 ---
+Das Saarland ist als letztes der 16 Bundesländer der Verwaltungsvereinbarung GovData beigetreten – und hat auch gleich den Vorsitz der für das Portal zuständigen Bund-Länder-Fachgruppe für 2024 übernommen.
+Viel mehr gibt es in Sachen Open Data aus dem Bundesland derzeit nicht zu berichten.
