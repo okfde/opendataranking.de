@@ -186,3 +186,6 @@ stats:
     - text: Datensätze 2023 aktualisiert mit BY-Lizenz
       value: 0
 ---
+Hessen hat 2023 ein Open-Data-Gesetz verabschiedet – aus unserer Sicht aber verpasst, aus den zahlreichen Beispielen bereits existierender Gesetzesvorlagen die richtigen Schlüsse zu ziehen.
+Viel mehr als diesen neuen Rechtsrahmen gibt es aus dem Bundesland zum Thema Open Data nicht zu berichten. Das Land ist zwar seit 2023 Teil der Verwaltungsvereinbarung zu GovData, bisher wurden aber keine Daten geliefert;
+ebenso fehlt ein bewertbares Portal und die angekündigte zentrale Stelle, die laut Gesetz die Landesregierung „in Fragen der offenen Daten“ unterstützen soll.
