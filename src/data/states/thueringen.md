@@ -188,3 +188,5 @@ stats:
     - text: Datensätze 2023 aktualisiert mit BY-Lizenz
       value: 0
 ---
+Der Freistaat Thüringen stellt derzeit keine Daten zentral bei GovData bereit. Im rechtlichen Rahmen finden sich zumindest einzelne Open-Data-Einsprengsel; Veröffentlichungspflichten aus dem Transparenzgesetz unterliegen jedoch lediglich einer Soll-Regelung, 
+aus der sich kein Anspruch ableiten lässt. Förderinstitutionen für die Bereitstellung, Weiterverwendung und Veröffentlichung von Open Data fehlen derzeit in Thüringen. Positiv hervorzuheben ist die Existenz vorläufiger Plenarprotokolle, die von der Parlamentsdokumentation zeitnah nach den Sitzungen veröffentlicht werden.
