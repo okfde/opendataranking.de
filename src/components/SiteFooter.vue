@@ -59,14 +59,15 @@
             </a>
           </p>
           <p>
-            <a
-              href="https://github.com/okfde/opendataranking.de"
-              class="inline-flex items-center group">
+            <a href="https://github.com/okfde/opendataranking.de" class="inline-flex items-center group">
               <i-mdi-github class="mr-1" role="presentation" />
-              <span
-                class="underline underline-offset-4 hover:decoration-transparent"
-                >Quellcode</span
-              >
+              <span class="underline underline-offset-4 hover:decoration-transparent">Quellcode</span>
+            </a>
+          </p>
+          <p>
+            <a href="https://opendata.okfn.de/" class="inline-flex items-center group">
+              <i-mdi-github class="mr-1" role="presentation" />
+              <span class="underline underline-offset-4 hover:decoration-transparent">Open Data Knowledge Hub</span>
             </a>
           </p>
         </div>
