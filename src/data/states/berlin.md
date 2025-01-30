@@ -62,7 +62,7 @@ criteria:
     citations:
       - text: '§13 EGovG Bln'
         link: https://gesetze.berlin.de/perma?d=jlr-EGovGBEV4P13
-    text: Informationen, die im in Erfüllung des öffentlichen Auftrags erstellt hat und maschinenlesbar darstellbar
+    text: Informationen, die Behörden in Erfüllung des öffentlichen Auftrags erstellt haben und maschinenlesbar darstellbar sind
   - title: Daten im Auftrag von Dritten
     points: 0
     citations:
