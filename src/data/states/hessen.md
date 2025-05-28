@@ -130,6 +130,10 @@ criteria:
     points: 0
     citations:
       - text: 'nicht vorhanden'
+  - title: Hochwertige Datensätze
+    points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points: 0
     citations:
@@ -156,36 +160,35 @@ criteria:
     points: 0
     citations:
       - text: 'keine API'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://starweb.hessen.de/portal/browse.tt.html
   - title: Maschinenlesbarkeit von Plenarprotokollen
     points: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://starweb.hessen.de/portal/browse.tt.html
   - title: Aktualität von Plenarprotokollen
     points: 0
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
-        link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 16 Tage zwischen Sitzung und Veröffentlichung.
+        link: https://starweb.hessen.de/portal/browse.tt.html
 stats:
-  lastUpdate: 2024-03-15
+  lastUpdate: 2025-01-15
   items:
     - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert gesamt
+    - text: Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 neu erstellt gesamt
-      value: 0    
-    - text: Datensätze 2023 aktualisiert in Formaten CSV/XML/JSON
+    - text: Datensätze 2024 neu erstellt gesamt
       value: 0
-    - text: Datensätze 2023 in Linked-Data-Formaten bereitgestellt
+    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert mit Zero-Lizenz
+    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
       value: 0
-    - text: Datensätze 2023 aktualisiert mit BY-Lizenz
+    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
+      value: 0
+    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
+      value: 0
+    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
       value: 0
 ---
-Hessen hat 2023 ein Open-Data-Gesetz verabschiedet – aus unserer Sicht aber verpasst, aus den zahlreichen Beispielen bereits existierender Gesetzesvorlagen die richtigen Schlüsse zu ziehen.
-Viel mehr als diesen neuen Rechtsrahmen gibt es aus dem Bundesland zum Thema Open Data nicht zu berichten. Das Land ist zwar seit 2023 Teil der Verwaltungsvereinbarung zu GovData, bisher wurden aber keine Daten geliefert;
-ebenso fehlt ein bewertbares Portal und die angekündigte zentrale Stelle, die laut Gesetz die Landesregierung „in Fragen der offenen Daten“ unterstützen soll.
+Daten aus Hessen sind bei GovData für 2024 nur zu finden, wenn sie von anderen Behörden oder Städten, wie beispielsweise Frankfurt am Main, stammen. Darüber hinaus bleiben die Open-Data-Bestrebungen auf Landesebene nach der Verabschiedung des Open-Data-Gesetzes im Frühjahr 2023 weiterhin im Dunkeln. Wir warten gespannt. 

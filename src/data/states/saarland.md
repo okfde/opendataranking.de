@@ -7,47 +7,58 @@ criteria:
     citations:
       - text: 'keine Erwähnung'
   - title: Gesetzeslage
-    points: 0
+    points: 2
     citations:
-      - text: 'E-GovG SL (2021[2017])'
-        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLpP17
-    text: E-Government-Gesetz ohne Open Data
+      - text: 'E-GovG SL (2024[2017])'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLrahmen
+    text: E-Government-Gesetz mit Open-Data
   - title: Evaluation
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Behördendefinition
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 1 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Behörden des Landes, Kommunen können Daten zur Verfügung stellen
   - title: Anstalten, Körperschaften, Unternehmen
     points: 0
     citations:
       - text: 'keine Erwähnung'
+    text: nicht explizit
   - title: Forschungsdaten
     points: 0
     citations:
       - text: 'keine Erwähnung'
+    text: nicht explizit
   - title: Ausnahmen
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17 Abs. 1 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLpP1
+    text: Kirchen und ihre Einrichtungen, Saarländischer Rundfunk, Kliniken, Schulen, Banken, Versorgungswerke
   - title: Pauschale Ausschlusskriterien
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 3 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Einschränkungen aus IFG, Urheberrecht, Personenbezogene Daten
   - title: Datenkatalog
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Rohdaten
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 1 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Elektronische Daten, die Behörden zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben
   - title: Daten im Auftrag von Dritten
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 1 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
   - title: Offenheit
     points: 0
     citations:
@@ -55,33 +66,38 @@ criteria:
   - title: Maschinenlesbarkeit
     points: 1
     citations:
-      - text: '§17 Abs. 1 E-GovG SL'
-        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLpP17
-    text: Stellen Behörden über öffentlich zugängliche Netze Daten zur Verfügung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Informationsweiterverwendungsgesetzes, zu erwarten ist, so sind im Regelfall maschinenlesbare Formate zu verwenden.
+      - text: '§17a Abs. 6 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
   - title: Aktualität
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 4 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Schnellstmöglich nach Erhebung
   - title: Dauerhaftigkeit
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Lizenz
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 5 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Beliebige Weiterverwendung unter freien Lizenzen
   - title: Schnittstellen
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 5 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
   - title: Kostenfreiheit
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§17a Abs. 5 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
   - title: Portal für Open Data
     points: 0
     citations:
@@ -110,14 +126,22 @@ criteria:
     points: 0
     citations:
       - text: 'nicht vorhanden'
+  - title: Hochwertige Datensätze
+    points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
-    points: 0
+    points: 1
     citations:
-      - text: 'nicht vorhanden'
+      - text: '§17a Abs. 9 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Open-Data-Ansprechpersonen nur für Ministerien
   - title: Open-Data-Beratungsstelle
-    points: 0
+    points: 1
     citations:
-      - text: 'nicht vorhanden'
+      - text: '§17a Abs. 9 E-GovG SL'
+        link: https://recht.saarland.de/bssl/document/jlr-EGovGSLV16P17a
+    text: Ja, laut Gesetz
   - title: Open-Data-Labore
     points: 0
     citations:
@@ -134,35 +158,35 @@ criteria:
     points: 0
     citations:
       - text: 'keine API'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://www.landtag-saar.de/suche?searchValue=&OnlyTitle=false&Categories=Print,PlenaryProtocol,Law,PublicConsultation,Operations&DateFrom=&DateTo=&periods=&SortValue=Erscheinungsdatum&SortOrder=desc&tab=Doc&DocumentPage=true&Page=1&ActiveTab=2
   - title: Maschinenlesbarkeit von Plenarprotokollen
     points: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://www.landtag-saar.de/suche?searchValue=&OnlyTitle=false&Categories=Print,PlenaryProtocol,Law,PublicConsultation,Operations&DateFrom=&DateTo=&periods=&SortValue=Erscheinungsdatum&SortOrder=desc&tab=Doc&DocumentPage=true&Page=1&ActiveTab=2
   - title: Aktualität von Plenarprotokollen
     points: 0
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
-        link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 19 Tage zwischen Sitzung und Veröffentlichung.
+        link: https://www.landtag-saar.de/suche?searchValue=&OnlyTitle=false&Categories=Print,PlenaryProtocol,Law,PublicConsultation,Operations&DateFrom=&DateTo=&periods=&SortValue=Erscheinungsdatum&SortOrder=desc&tab=Doc&DocumentPage=true&Page=1&ActiveTab=2
 stats:
-  lastUpdate: 2024-03-15
+  lastUpdate: 2025-01-15
   items:
     - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert gesamt
+    - text: Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 neu erstellt gesamt
+    - text: Datensätze 2024 neu erstellt gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert in Formaten CSV/XML/JSON
+    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 in Linked-Data-Formaten bereitgestellt
+    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
       value: 0
-    - text: Datensätze 2023 aktualisiert mit Zero-Lizenz
+    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze 2023 aktualisiert mit BY-Lizenz
+    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
+      value: 0
+    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
       value: 0
 ---
-Das Saarland ist als letztes der 16 Bundesländer der Verwaltungsvereinbarung GovData beigetreten – und hat auch gleich den Vorsitz der für das Portal zuständigen Bund-Länder-Fachgruppe für 2024 übernommen.
-Viel mehr gibt es in Sachen Open Data aus dem Bundesland derzeit nicht zu berichten.
+Das Saarland hatte 2024 den Vorsitz der für GovData zuständigen Bund-Länder-Fachgruppe inne und hat passenderweise sein E-Governmentgesetz um einen Open-Data-Paragrafen ergänzt. Dabei folgt das Bundesland dem Beispiel Hessens oder Brandenburgs und kündigt die Schaffung einer zentralen Informationsstelle sowie einer zusätzlichen Open-Data-Verordnung an. Viel mehr als diese ersten Ansätze gibt es in Sachen Open Data aus dem Saarland derzeit noch nicht zu beobachten.

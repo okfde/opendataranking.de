@@ -13,7 +13,7 @@
           <p>
             Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen
             steht das Thema Open Data schon seit mehr als einer Dekade im Raum -
-            wir haben den Stand von Open Data in Bund und Ländern für das Jahr 2023 verglichen,
+            wir haben den Stand von Open Data in Bund und Ländern für das Jahr 2024 verglichen,
             um eine Diskussionsgrundlage zum Umsetzungsstand jenseits des reinen
             Zählens der verfügbaren Datensätze zu schaffen.
           </p>
@@ -49,13 +49,14 @@
           <p class="mb-1">
             <a href="/opendataranking2024.pdf" class="inline-flex items-center group">
               <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Die Broschüre zum Ranking</span>
+              <span class="underline underline-offset-4 hover:decoration-transparent">Broschüre des Vorgängerrankings
+              </span>
             </a>
           </p>
           <p class="mb-1">
             <a href="/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
               <i-mdi-code-json class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Datensatz als JSON</span>
+              <span class="underline underline-offset-4 hover:decoration-transparent">Datensatz Vorgängerranking als JSON</span>
             </a>
           </p>
           <p>

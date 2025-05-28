@@ -129,29 +129,42 @@
   category: datenportal
 - title: Aktualität der Daten
   description:
-    Die bereitgestellten Daten sollten so aktuell wie möglich sein und regelmäßig bereitgestellt werden. Volle Punktzahl, wenn im Vergleich zur Gesamtheit im vergangenen Jahr mindestens ein Drittel der Datensätze aktualisiert oder neu erstellt wurde. 
-    Zwei Punkte werden vergeben, wenn mindestens 25 Prozent erreicht werden. Für das Ranking wurde der Datenstand für das Kalenderjahr 2023 zum Stichtag 15. März 2024 abgerufen. 
-  maxPoints: 5
+    Die bereitgestellten Daten sollten so aktuell wie möglich sein und regelmäßig bereitgestellt werden. Volle Punktzahl, wenn im Vergleich zur Gesamtheit im vergangenen Jahr mindestens 25 Prozent der Datensätze aktualisiert oder neu erstellt wurden. 
+    Zwei Punkte werden vergeben, wenn überhaupt Daten erstellt oder aktualisiert worden sind. 
+    Für das Ranking wurde der Datenstand für das Kalenderjahr 2024 zum Stichtag 15. Januar 2025 abgerufen. 
+  maxPoints: 4
   category: datenrealitaet
 - title: Linked Data
   description:
     Die Qualität der Daten beeinflusst maßgeblich, inwieweit sie sinnvoll weiterverwendet werden können und wie hoch der Aufwand für ihre Nutzung ist. 
     Informationen, die als Linked Open Data bereitgestellt werden, bieten eine Vielzahl von Verknüpfungs- und Integrationsmöglichkeiten. 
     Volle Punktzahl, wenn ein Drittel der im vergangenen Jahr neu erstellten Datensätze in einem Linked-Data-Format auf GovData verfügbar sind. 
-    Zwei Punkte, wenn zumindest überhaupt Linked Data bereitgestellt wurden. Für das Ranking wurde der Datenstand für das Kalenderjahr 2023 zum Stichtag 15. März 2024 abgerufen.
-  maxPoints: 5
+    Zwei Punkte, wenn zumindest überhaupt Linked Data bereitgestellt wurden. 
+    Für das Ranking wurde der Datenstand für das Kalenderjahr 2024 zum Stichtag 15. Januar 2025 abgerufen.
+  maxPoints: 4
   category: datenrealitaet
 - title: Freie Lizenzen
   description:
     Angemessene und freie Nutzungsbedingungen sind für die Weiterverwendung von Daten unerlässlich. 
     Neben der privaten Nutzung sollte auch die kommerzielle Nutzung der Daten uneingeschränkt möglich sein, am besten über eine Creative Commons BY-Lizenz oder Zero-Lizenz bei GovData.
     Die volle Punktzahl wird erreicht, wenn im Vorjahr mindestens zwei Drittel der neu erstellten oder aktualisierten Daten unter einer dieser Lizenzen zur Verfügung gestellt wurden. 
-    Zwei Punkte werden vergeben, wenn mindestens die Hälfte der Daten unter einer Zero- oder BY-Lizenz steht. Für das Ranking wurde der Datenstand für das Kalenderjahr 2023 zum Stichtag 15. März 2024 abgerufen.
-  maxPoints: 5
+    Zwei Punkte werden vergeben, wenn mindestens die Hälfte der Daten unter einer Zero- oder BY-Lizenz steht, bzw. als lizenzfreie amtlichen Werke nach §5 Abs. 1 UrhG. 
+    Für das Ranking wurde der Datenstand für das Kalenderjahr 2024 zum Stichtag 15. Januar 2025 abgerufen.
+  maxPoints: 4
+  category: datenrealitaet
+- title: Hochwertige Datensätze
+  description:
+    Seit dem 9. Juni 2024 ist die öffentliche Verwaltung dazu verpflichtet, hochwertige Daten (High Value Datasets - HVD) unter Einhaltung bestimmter Kriterien zur Verfügung zu stellen.
+    Grundlage dafür ist eine [Durchführungsverordnung der EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU). 
+    Mehr zu den genauen Definitionen und Anforderungen an HVD gibt es zum Beispiel in diesem FAQ von [GovData](https://www.govdata.de/informationen/hochwertige-datensaetze).
+    Einen Punkt gibt es, wenn in den Metadaten als HVD deklarierte Daten bei GovData verfügbar sind. Einen weiteren Punkt gibt es, wenn Daten aus mindestens drei [HVD-Kategorien](https://data.europa.eu/en/publications/datastories/high-value-datasets-overview-through-visualisation) vorhanden sind. 
+    Die vollen drei Punkte gibt es, wenn zudem die HVD in den jeweilligen Landesportalen auch als solche deklariert auffindbar sind. 
+    Für das Ranking wurde der Datenstand für das Kalenderjahr 2024 zum Stichtag 15. Januar 2025 abgerufen.
+  maxPoints: 3
   category: datenrealitaet
 - title: Open-Data-Beauftragte
   description:
-    Open-Data-Beauftragte können ein wichtiger Faktor für die Verbreitung und Förderung von Open Data in einer Behörde sein. 
+    Open-Data-Beauftragte können ein Faktor für die Verbreitung und Förderung von Open Data in einer Behörde sein. 
     Sie sind die ersten Ansprechpartner:innen sowohl für die Seite der Datennutzenden als auch der Datenbereitstellenden und können zu einem nachhaltigen Datenmanagement beitragen. 
     Dafür ist es wichtig, dass sie über ausreichende Ressourcen verfügen. Beauftragte, die eine Stunde pro Woche zur Verfügung haben, können dieser Aufgabe nicht gerecht werden. 
     Volle Punktzahl, wenn eine gesetzliche Verpflichtung zur Benennung von Beauftragten besteht; ein Punkt Abzug, wenn nicht alle verpflichteten Behörden Beauftragte benennen müssen.
@@ -200,7 +213,7 @@
 - title: Aktualität von Plenarprotokollen
   description:
     Aktuelle Analysen und inhaltliche Auseinandersetzungen mit den Plenardebatten können nur gelingen, wenn die Protokolle auch zeitnah nach dem Sitzungstermin veröffentlicht werden. 
-    Volle Punktzahl, wenn das Plenarprotokoll in einer vorläufigen oder endgültigen Fassung innerhalb einer Woche nach der Sitzung veröffentlicht wird. 
-    Für das Ranking wurden die Plenarprotokolle der letzten Legislaturperiode der jeweiligen Landesparlamente betrachtet. Stichtag der Erhebung hier der 8. Februar 2024.
+    Ein Punkt, wenn das Plenarprotokoll in einer vorläufigen oder endgültigen Fassung innerhalb einer Woche nach der Sitzung veröffentlicht wird. 
+    Für das Ranking wurden die jeweiligen Parlamentsdokumentationen der Bundesländer befragt und die vorhandenen Daten in ihren Portalen stichprobenhaft betrachtet. Stichtag der Erhebung war der 15. Mai 2025.
   maxPoints: 1
   category: parlamentsdokumentation

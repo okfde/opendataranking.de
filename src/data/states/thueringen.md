@@ -11,9 +11,9 @@ criteria:
   - title: Gesetzeslage
     points: 2
     citations:
-      - text: 'ThürTG (2019)'
+      - text: 'ThürTG (2024[2019)'
         link: https://landesrecht.thueringen.de/perma?j=TranspG_TH
-      - text: 'ThürEGovG (2023[2018])'
+      - text: 'ThürEGovG (2024[2018])'
         link: https://landesrecht.thueringen.de/perma?j=EGovG_TH
     text: E-Government-Gesetz und Landestransparenzgesetz mit Open-Data-Einsprengseln
   - title: Evaluation
@@ -134,6 +134,10 @@ criteria:
     points: 0
     citations:
       - text: 'nicht vorhanden'
+  - title: Hochwertige Datensätze
+    points: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points: 0
     citations:
@@ -158,35 +162,35 @@ criteria:
     points: 0
     citations:
       - text: 'keine API'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://parldok.thueringer-landtag.de/ParlDok/neuedokumente
   - title: Maschinenlesbarkeit von Plenarprotokollen
     points: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
-        link: https://www.datawrapper.de/_/9CgBo/
+        link: https://parldok.thueringer-landtag.de/ParlDok/neuedokumente
   - title: Aktualität von Plenarprotokollen
     points: 1
     citations:
       - text: 'Veröffentlichung dauert unter einer Woche'
-        link: https://www.datawrapper.de/_/6tNWF/
-    text: In der letzten Legislaturperiode lagen im Median 6 Tage zwischen Sitzung und Veröffentlichung.
+        link: https://parldok.thueringer-landtag.de/ParlDok/neuedokumente
 stats:
-  lastUpdate: 2024-03-15
+  lastUpdate: 2025-01-15
   items:
     - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert gesamt
+    - text: Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 neu erstellt gesamt
+    - text: Datensätze 2024 neu erstellt gesamt
       value: 0
-    - text: Datensätze 2023 aktualisiert in Formaten CSV/XML/JSON
+    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2023 in Linked-Data-Formaten bereitgestellt
+    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
       value: 0
-    - text: Datensätze 2023 aktualisiert mit Zero-Lizenz
+    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze 2023 aktualisiert mit BY-Lizenz
+    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
+      value: 0
+    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
       value: 0
 ---
-Der Freistaat Thüringen stellt derzeit keine Daten zentral bei GovData bereit. Im rechtlichen Rahmen finden sich zumindest einzelne Open-Data-Einsprengsel; Veröffentlichungspflichten aus dem Transparenzgesetz unterliegen jedoch lediglich einer Soll-Regelung, 
-aus der sich kein Anspruch ableiten lässt. Förderinstitutionen für die Bereitstellung, Weiterverwendung und Veröffentlichung von Open Data fehlen derzeit in Thüringen. Positiv hervorzuheben ist die Existenz vorläufiger Plenarprotokolle, die von der Parlamentsdokumentation zeitnah nach den Sitzungen veröffentlicht werden.
+Thüringen liefert nach wie vor keine Daten an GovData. Auch beim E-Government- und Transparenzgesetz sowie den Rahmenbedingungen verharrt der Freistaat auf der Stelle, obwohl es einige spannende Projekte im Land gibt, beispielsweise in der Stadt Jena oder bei der Projektgruppe „Semantische Interoperabilität” des IT-Planungsrates, die ebenfalls in Thüringen ansässig ist.
