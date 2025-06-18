@@ -84,7 +84,7 @@ criteria:
   - title: Lizenz
     points: 1
     citations:
-      - text: '§10 Abs. 3, HODaG'
+      - text: '§10 Abs. 3, HmbTG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P10
     text: Keine Lizenz genannt aber freie Nutzung
   - title: Schnittstellen
@@ -92,13 +92,15 @@ criteria:
     citations:
       - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§10 Abs. 4, HmbTG'
+        link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P10
+    text: Zugang zum Informationsregister ist kostenlos und anonym
   - title: Kostenfreiheit
     points: 1
     citations:
-      - text: '§10 Abs. 4, HODaG'
+      - text: '§10 Abs. 4, HmbTG'
         link: https://www.landesrecht-hamburg.de/bsha/document/jlr-TranspGHAV2P10
   - title: Portal für Open Data
     points: 3
