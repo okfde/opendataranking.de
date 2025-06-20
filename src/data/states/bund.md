@@ -12,7 +12,7 @@ criteria:
     citations:
       - text: 'EGovG (2021[2013] Einführung §12a Open Data 2018)'
         link: https://www.gesetze-im-internet.de/egovg/
-      - text: 'DNG (2021)(Umsetzung PSI-Richtlinie der EU )'
+      - text: 'DNG (2021)(Umsetzung PSI-Richtlinie der EU)'
         link: https://www.gesetze-im-internet.de/dng/
     text: E-Government-Gesetz mit Open-Data-Paragraph; Datennutzungsgesetz als Umsetzung der PSI-Richtlinie der Europäischen Union
   - title: Evaluation
@@ -163,19 +163,19 @@ criteria:
     points: 1
     citations:
       - text: 'Datenlabore der Bundesministerien'
-        link: https://netzpolitik.org/2023/transparenz-die-verborgene-digitalpolitik-deutscher-ministerien/
-    text: In den Bundesministerien wurden Datenlabore in der aktuellen Legislaturperiode eingerichtet, konkrete Umsetzungen sind noch unklar.
+        link: https://cdn0.scrvt.com/fokus/4ad8c37e20223a26/7af2c64f5fc1/Auf-dem-Weg-zur-evidenzbasierten-Politik---Eine-Analyse-der-Datenlabore-der-Deutschen-Bundesregierung.pdf
+    text: In den Bundesministerien wurden Datenlabore eingerichtet, es gibt mittlerweile erste öffentliche Anwendungsfälle aus BMWE,BMLEH und BMI
   - title: Unterstützungsangebote für Kommunen
     points: 1
     citations:
       - text: 'Unterstützungsangebote für Behörden der gesamten Bundesverwaltung - und damit auch den nachgeordneten Behörden'
         link: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html
   - title: Öffentlichkeitsarbeit
-    points: 1
+    points: 2
     citations:
-      - text: 'CCOD'
-        link: https://www.bva.bund.de/SharedDocs/Kurzmeldungen/DE/Behoerden/Beratung/OpenData/Aktuelles/2023/081123_KickOff_ODF.html
-    text: Beteiligungsformate bei Messen/Barcamps
+      - text: 'Open Data Forum'
+        link: https://discourse.opencode.de/c/opendata/755
+    text: Beteiligungsformate bei Messen/Fachforum und Launch Open Data Forum bei OpenCoDe
   - title: API/Schnittstelle
     points: 1
     citations:
