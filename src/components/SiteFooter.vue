@@ -59,7 +59,7 @@
           </div>
           <div>
             <p class="mb-1">
-              <a href="/opendataranking2025.pdf" class="inline-flex items-center group">
+              <a href="/opendataranking2024.pdf" class="inline-flex items-center group">
                 <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
                 <span class="underline underline-offset-4 hover:decoration-transparent">
                   Broschüre Ranking 2024
@@ -81,7 +81,7 @@
           </div>
           <div>
             <p class="mb-1">
-              <a href="/OpenDataRanking2025_Dataset.zip" class="inline-flex items-center group">
+              <a href="/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
                 <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
                 <span class="underline underline-offset-4 hover:decoration-transparent">
                   JSON-Datensatz 2024
