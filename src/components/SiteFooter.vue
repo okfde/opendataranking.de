@@ -46,19 +46,50 @@
 
         <div>
           <h3 class="text-xl font-semibold mb-3">Downloads</h3>
-          <p class="mb-1">
-            <a href="/opendataranking2024.pdf" class="inline-flex items-center group">
-              <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Broschüre des Vorgängerrankings
-              </span>
-            </a>
-          </p>
-          <p class="mb-1">
-            <a href="/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
-              <i-mdi-code-json class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Datensatz Vorgängerranking als JSON</span>
-            </a>
-          </p>
+          <div class="grid grid-cols-2 gap-4">
+          <div>
+            <p class="mb-1">
+              <a href="/opendataranking2025.pdf" class="inline-flex items-center group">
+                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <span class="underline underline-offset-4 hover:decoration-transparent">
+                  Broschüre Ranking 2025
+                </span>
+              </a>
+            </p>
+          </div>
+          <div>
+            <p class="mb-1">
+              <a href="/opendataranking2025.pdf" class="inline-flex items-center group">
+                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <span class="underline underline-offset-4 hover:decoration-transparent">
+                  Broschüre Ranking 2024
+                </span>
+              </a>
+            </p>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4">
+          <div>
+            <p class="mb-1">
+              <a href="/OpenDataRanking2025_Dataset.zip" class="inline-flex items-center group">
+                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <span class="underline underline-offset-4 hover:decoration-transparent">
+                  JSON-Datensatz 2025
+                </span>
+              </a>
+            </p>
+          </div>
+          <div>
+            <p class="mb-1">
+              <a href="/OpenDataRanking2025_Dataset.zip" class="inline-flex items-center group">
+                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <span class="underline underline-offset-4 hover:decoration-transparent">
+                  JSON-Datensatz 2024
+                </span>
+              </a>
+            </p>
+          </div>
+        </div>
           <p>
             <a href="https://github.com/okfde/opendataranking.de" class="inline-flex items-center group">
               <i-mdi-github class="mr-1" role="presentation" />
