@@ -13,7 +13,7 @@
   "\u0000/home/runner/work/opendataranking.de/opendataranking.de/node_modules/core-js/internals/well-known-symbol-wrapped.js?commonjs-exports": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -37,7 +37,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -63,7 +63,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "\u0000vite/dynamic-import-helper.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -87,7 +87,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -114,7 +114,7 @@
   ],
   "\u0000vite/legacy-polyfills": [],
   "\u0000vite/modulepreload-polyfill.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -138,7 +138,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -164,7 +164,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "\u0000vite/preload-helper.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -188,7 +188,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -214,7 +214,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "@data/categories": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -238,7 +238,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -264,7 +264,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "@data/map?component": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -288,7 +288,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -314,7 +314,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "@data/overview": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -338,7 +338,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -364,7 +364,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "@data/states": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -388,7 +388,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -414,7 +414,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "index.html": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -438,7 +438,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -464,7 +464,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@fontsource/hanken-grotesk/latin-400.css": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -488,7 +488,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -514,7 +514,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@fontsource/hanken-grotesk/latin-600.css": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -538,7 +538,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -564,7 +564,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@fontsource/hanken-grotesk/latin-700.css": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -588,7 +588,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -614,7 +614,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@unhead/dom/dist/index.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -638,7 +638,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -664,7 +664,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@unhead/shared/dist/index.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -688,7 +688,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -714,7 +714,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -738,7 +738,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -764,7 +764,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -788,7 +788,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -814,7 +814,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -838,7 +838,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -864,7 +864,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -888,7 +888,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -914,7 +914,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -938,7 +938,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -964,7 +964,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -988,7 +988,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1334,7 +1334,7 @@
   "node_modules/core-js/modules/web.url.constructor.js": [],
   "node_modules/core-js/modules/web.url.to-json.js": [],
   "node_modules/hookable/dist/index.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1358,7 +1358,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1385,7 +1385,7 @@
   ],
   "node_modules/systemjs/dist/s.min.js": [],
   "node_modules/unhead/dist/index.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1409,7 +1409,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1435,7 +1435,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1459,7 +1459,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1485,7 +1485,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1509,7 +1509,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1535,7 +1535,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1559,7 +1559,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1585,7 +1585,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1609,7 +1609,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1635,7 +1635,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/App.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1659,7 +1659,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1685,7 +1685,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/assets/img/favicon.png": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1709,7 +1709,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1735,7 +1735,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/assets/img/logo.svg": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1759,7 +1759,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1785,7 +1785,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/assets/img/okfde.svg": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1809,7 +1809,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1835,7 +1835,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/assets/img/open-data.svg": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1859,7 +1859,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1885,7 +1885,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/assets/img/social-preview.png": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1909,7 +1909,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1941,7 +1941,7 @@
     "/assets/baden-wuerttemberg-D0g83hCD.svg"
   ],
   "src/assets/img/wappen/baden-wuerttemberg.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1965,7 +1965,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -1997,7 +1997,7 @@
     "/assets/bayern-DSLokv5J.svg"
   ],
   "src/assets/img/wappen/bayern.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2021,7 +2021,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2053,7 +2053,7 @@
     "/assets/berlin-CsdqAJZm.svg"
   ],
   "src/assets/img/wappen/berlin-entwurf.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2077,7 +2077,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2109,7 +2109,7 @@
     "/assets/berlin-CsdqAJZm.svg"
   ],
   "src/assets/img/wappen/berlin.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2133,7 +2133,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2165,7 +2165,7 @@
     "/assets/brandenburg-Ctrv6f2k.svg"
   ],
   "src/assets/img/wappen/brandenburg.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2189,7 +2189,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2221,7 +2221,7 @@
     "/assets/bremen-B5ZZn7SW.svg"
   ],
   "src/assets/img/wappen/bremen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2245,7 +2245,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2275,7 +2275,7 @@
     "/assets/bund-BTM8YXsv.js"
   ],
   "src/assets/img/wappen/bund.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2299,7 +2299,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2329,7 +2329,7 @@
     "/assets/hamburg-yu_h_7_E.js"
   ],
   "src/assets/img/wappen/hamburg.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2353,7 +2353,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2385,7 +2385,7 @@
     "/assets/hessen-_jUTq3YJ.svg"
   ],
   "src/assets/img/wappen/hessen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2409,7 +2409,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2441,7 +2441,7 @@
     "/assets/mecklenburg-vorpommern--qQVOgWF.svg"
   ],
   "src/assets/img/wappen/mecklenburg-vorpommern.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2465,7 +2465,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2497,7 +2497,7 @@
     "/assets/niedersachsen-DhMRatJ0.svg"
   ],
   "src/assets/img/wappen/niedersachsen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2521,7 +2521,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2553,7 +2553,7 @@
     "/assets/nordrhein-westfalen-CDiJVs29.svg"
   ],
   "src/assets/img/wappen/nordrhein-westfalen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2577,7 +2577,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2609,7 +2609,7 @@
     "/assets/rheinland-pfalz-DrHhVLul.svg"
   ],
   "src/assets/img/wappen/rheinland-pfalz.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2633,7 +2633,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2665,7 +2665,7 @@
     "/assets/saarland-vzISWr4z.svg"
   ],
   "src/assets/img/wappen/saarland.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2689,7 +2689,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2721,7 +2721,7 @@
     "/assets/sachsen-anhalt-BF6Sf1Ay.svg"
   ],
   "src/assets/img/wappen/sachsen-anhalt.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2745,7 +2745,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2777,7 +2777,7 @@
     "/assets/sachsen-BSMf6E69.svg"
   ],
   "src/assets/img/wappen/sachsen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2801,7 +2801,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2833,7 +2833,7 @@
     "/assets/schleswig-holstein-CcLlBRoo.svg"
   ],
   "src/assets/img/wappen/schleswig-holstein.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2857,7 +2857,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2889,7 +2889,7 @@
     "/assets/thueringen-DvkohXe_.svg"
   ],
   "src/assets/img/wappen/thueringen.svg?url": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2913,7 +2913,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2939,7 +2939,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/RankingBar.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2963,7 +2963,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -2989,7 +2989,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/RankingMap.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3013,7 +3013,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3039,7 +3039,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/RankingMap.vue?vue&type=style&index=0&scoped=8d18ca7f&lang.postcss": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3063,7 +3063,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3089,7 +3089,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/RankingOverview.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3113,7 +3113,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3139,7 +3139,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/SiteFooter.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3163,7 +3163,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3189,7 +3189,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/SiteHeader.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3213,7 +3213,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3239,7 +3239,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/StateDetails.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3263,7 +3263,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3289,7 +3289,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/components/StateStats.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3313,7 +3313,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3339,7 +3339,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/main.css": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3363,7 +3363,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3389,7 +3389,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/main.mjs": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3413,7 +3413,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3439,7 +3439,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/pages/index-page.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3463,7 +3463,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3489,7 +3489,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/pages/methodology-page.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3513,7 +3513,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3539,7 +3539,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/pages/not-found-page.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3563,7 +3563,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3589,7 +3589,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/pages/state-page.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3613,7 +3613,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3639,7 +3639,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "src/pages/states-page.vue": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3663,7 +3663,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3689,7 +3689,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/arrow-right": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3713,7 +3713,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3739,7 +3739,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/chevron-down": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3763,7 +3763,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3789,7 +3789,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/file-pdf-outline": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3813,7 +3813,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3839,7 +3839,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/github": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3863,7 +3863,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3889,7 +3889,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/information-outline": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3913,7 +3913,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3939,7 +3939,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/lightbulb-on-outline": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3963,7 +3963,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -3989,7 +3989,7 @@
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff"
   ],
   "~icons/mdi/menu": [
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
@@ -4013,7 +4013,7 @@
     "/assets/hanken-grotesk-latin-600-normal-DdwR8jjJ.woff",
     "/assets/hanken-grotesk-latin-700-normal-DsFx5EPK.woff2",
     "/assets/hanken-grotesk-latin-700-normal-BUEQF7Ap.woff",
-    "/assets/okfde-C6RwW-Zz.svg",
+    "/assets/okfde-BdsmGqJi.svg",
     "/assets/open-data-C5Ir7Dpu.svg",
     "/assets/social-preview-B_jD82-H.png",
     "/assets/baden-wuerttemberg-D0g83hCD.svg",
