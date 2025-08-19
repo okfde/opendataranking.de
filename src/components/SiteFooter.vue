@@ -72,7 +72,7 @@
           <div>
             <p class="mb-1">
               <a href="/OpenDataRanking2025_Dataset.zip" class="inline-flex items-center group">
-                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <i-mdi-code-json class="mr-1" role="presentation" />
                 <span class="underline underline-offset-4 hover:decoration-transparent">
                   JSON-Datensatz 2025
                 </span>
@@ -82,7 +82,7 @@
           <div>
             <p class="mb-1">
               <a href="/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
-                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
+                <i-mdi-code-json class="mr-1" role="presentation" />
                 <span class="underline underline-offset-4 hover:decoration-transparent">
                   JSON-Datensatz 2024
                 </span>
