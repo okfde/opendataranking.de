@@ -42,19 +42,19 @@ criteria:
     points: 2
     citations:
       - text: '§3 BremIFG'
-    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
-    text: Ausnahmen bei Landesamt für Verfassungsschutz und Rundfunk
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
+    text: Ausnahmen beim Landesamt für Verfassungsschutz und Rundfunk
   - title: Pauschale Ausschlusskriterien
     points: 1
     citations:
       - text: '§3-6 BremIFG'
-    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
     text: Personenbezogene Daten, behördlicher Entscheidungsprozess, Schutz geistigen Eigentums, Betriebs- und Geschäftsgeheimnisse, bestimmte Gutachten & Verträge
   - title: Datenkatalog
     points: 1
     citations:
       - text: '§11 Abs. 4 BremIFG'
-    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
     text: Auflistung geeigneter Informationen v.a. mit Transparenzbezug im Rahmen des BremIFG
   - title: Rohdaten
     points: 0
