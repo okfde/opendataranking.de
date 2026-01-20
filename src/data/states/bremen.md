@@ -5,45 +5,57 @@ criteria:
   - title: Rechtsanspruch auf Open Data
     points: 5
     citations:
-      - text: '§1 Abs. 1 BremIFG'
+      - text: '§1 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P1
-    text: Nur Anspruch auf Zugang und Veröffentlichung der in §11 BremIFG genannten Informationen
+    text: Anspruch auf Zugang und Veröffentlichung amtlicher Informationen ohne dezidierten Open-Data-Bezug
   - title: Gesetzeslage
-    points: 0
+    points: 1
     citations:
       - text: 'EGovG BR (2018)'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-zur-foerderung-der-elektronischen-verwaltung-in-bremen-vom-20-maerz-2018-112242
       - text: 'BremIFG (2019[2006])'
-        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977     
-    text: E-Government-Gesetz ohne Open Data; kein Transparenzgesetz aber IFG mit bestimmten veröffentlichungspflichtigen Informationen 
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977
+      - text: 'BremIFVO (2016)'
+        link: https://www.transparenz.bremen.de/metainformationen/verordnung-ueber-die-veroeffentlichungspflichten-und-die-berichtspflicht-nach-dem-bremer-informationsfreiheitsgesetz-vom-22-maerz-2016-83480?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d    
+    text: E-Government-Gesetz ohne Open Data; Transparenzgesetz(BremIFG) mit Open-Data-Einsprengseln
   - title: Evaluation
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Behördendefinition
-    points: 0
+    points: 3
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§1 Abs. 1 BremIFG'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P1
+    text: Behörden des Landes und der Gemeinden
   - title: Anstalten, Körperschaften, Unternehmen
-    points: 0
+    points: 2
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§11 Abs. 4(13) BremIFG'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
+    text: Sonstige der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts und deren Vereinigungen; Unternehmensdaten städtischer Beteiligungen
   - title: Forschungsdaten
     points: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Ausnahmen
-    points: 0
+    points: 2
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§3 BremIFG'
+    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
+    text: Ausnahmen bei Landesamt für Verfassungsschutz und Rundfunk
   - title: Pauschale Ausschlusskriterien
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§3-6 BremIFG'
+    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
+    text: Personenbezogene Daten, behördlicher Entscheidungsprozess, Schutz geistigen Eigentums, Betriebs- und Geschäftsgeheimnisse, bestimmte Gutachten & Verträge
   - title: Datenkatalog
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§11 Abs. 4 BremIFG'
+    link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
+    text: Auflistung geeigneter Informationen v.a. mit Transparenzbezug im Rahmen des BremIFG
   - title: Rohdaten
     points: 0
     citations:
@@ -83,9 +95,11 @@ criteria:
     citations:
       - text: 'keine Erwähnung'
   - title: Kostenfreiheit
-    points: 0
+    points: 1
     citations:
-      - text: 'keine Erwähnung'
+      - text: '§11a BremIFG'
+        link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11a
+    text: Die Nutzung der allgemein zugänglichen Informationen ist frei
   - title: Portal für Open Data
     points: 3
     citations:
