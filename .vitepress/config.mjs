@@ -10,6 +10,7 @@ import States from '../src/data/states.mjs';
 import Categories from '../src/data/categories.mjs';
 import Criteria from '../src/data/criteria.mjs';
 import RankingMap from '../src/data/map.mjs';
+import WatchData from '../src/utils/watchData.mjs';
 
 const root = path.resolve(import.meta.dirname, '..');
 
@@ -82,6 +83,7 @@ export default defineConfig({
       Categories(),
       Criteria(),
       RankingMap(),
+      WatchData(),
     ],
   },
 });

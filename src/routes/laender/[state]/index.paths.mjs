@@ -1,6 +1,7 @@
 import { getStates } from '../../../data/states.mjs';
 
 export default {
+  watch: ['../../../data/**/*.{md,yml}'],
   async paths() {
     const states = await getStates();
 

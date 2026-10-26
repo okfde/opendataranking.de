@@ -53,12 +53,11 @@ export default function () {
         return id;
       }
     },
-    async configureServer(server) {
-      const svg = await renderSvg();
-      server.middlewares.use((req, res, next) => {
+    configureServer(server) {
+      server.middlewares.use(async (req, res, next) => {
         if (req.url === `/${virtualFileId}`) {
           res.setHeader('Content-Type', 'image/svg+xml');
-          return res.end(svg, 'utf-8');
+          return res.end(await renderSvg(), 'utf-8');
         }
         next();
       });
