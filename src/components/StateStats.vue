@@ -13,21 +13,17 @@
           v-if="item.link"
           :href="item.link"
           target="_blank"
-          class="flex border border-blue text-blue rounded p-4 shadow-sm items-center group hover:bg-blue-50 gap-8">
+          class="flex border border-blue text-blue rounded p-5 shadow-sm items-center group hover:bg-blue-50 gap-8">
           <h3
-            class="text-lg flex-1 group-hover:underline underline-offset-4"
+            class="text-xl flex-1 group-hover:underline underline-offset-4"
             v-text="item.text" />
-          <span
-            class="pl-2 text-2xl font-serif font-semibold"
-            v-text="item.value" />
+          <span class="pl-3 text-3xl font-semibold" v-text="item.value" />
         </a>
         <div
           v-else
-          class="flex border border-blue text-blue rounded p-4 shadow-sm items-center gap-8">
-          <h3 class="text-lg flex-1" v-text="item.text" />
-          <span
-            class="pl-2 text-2xl font-serif font-semibold"
-            v-text="item.value" />
+          class="flex border border-blue text-blue rounded p-5 shadow-sm items-center gap-8">
+          <h3 class="text-xl flex-1" v-text="item.text" />
+          <span class="pl-3 text-3xl font-semibold" v-text="item.value" />
         </div>
       </template>
     </div>

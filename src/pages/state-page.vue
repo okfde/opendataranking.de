@@ -4,7 +4,7 @@
       <img
         :src="getImage(state.slug)"
         :alt="`Wappen von ${state.name}`"
-        class="w-10 h-auto flex-shrink-0" />
+        class="w-10 h-auto shrink-0" />
       <h2 class="text-3xl md:text-5xl text-blue font-bold">
         {{ state.name }}
       </h2>
@@ -21,7 +21,7 @@
             scope="row">
             <th role="cell" class="font-normal">
               <span
-                class="text-sm text-gray-700 text-right md:whitespace-nowrap pb-2 md:py-0 md:pr-4 flex md:min-h-8 md:items-center md:justify-end"
+                class="text-base text-gray-700 text-right md:whitespace-nowrap pb-2 md:py-0 md:pr-4 flex md:min-h-8 md:items-center md:justify-end"
                 :class="{ 'font-bold md:mb-4': i === 0, 'pt-4': i > 0 }">
                 <router-link
                   v-if="i !== 0"
@@ -68,7 +68,7 @@
 
     <div
       v-if="state.description"
-      class="mt-8 md:mt-16 max-w-screen-md w-full mx-auto text-base md:text-lg flex flex-col gap-4"
+      class="mt-8 md:mt-16 max-w-3xl w-full mx-auto text-base md:text-xl flex flex-col gap-4"
       v-html="state.description" />
 
     <div class="mt-8 md:mt-16">

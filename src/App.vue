@@ -1,8 +1,8 @@
 <template>
   <site-header />
 
-  <div class="mx-4 md:mx-8 my-8 md:my-12 lg:my-16">
-    <div class="max-w-screen-lg mx-auto">
+  <div class="text-lg mx-4 md:mx-8 my-8 md:my-12 lg:my-16">
+    <div class="max-w-5xl mx-auto">
       <router-view :key="$route.path" />
     </div>
   </div>

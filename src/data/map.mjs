@@ -1,4 +1,5 @@
-import { XMLParser, XMLBuilder } from 'fast-xml-parser';
+import { XMLParser } from 'fast-xml-parser';
+import XMLBuilder from 'fast-xml-builder';
 import chroma from 'chroma-js';
 import { optimize } from 'svgo';
 import fs from 'fs/promises';
@@ -6,7 +7,7 @@ import path from 'path';
 import { getStates } from './states.mjs';
 import { compileTemplate } from '@vue/compiler-sfc';
 
-const MAP = path.join(__dirname, 'map.svg');
+const MAP = path.join(import.meta.dirname, 'map.svg');
 let handle;
 
 const scale = chroma.scale(['#99afac', '#335f59', '#07423a']).domain([0, 100]);
@@ -31,7 +32,6 @@ async function renderSvg() {
         name: 'preset-default',
         params: {
           overrides: {
-            removeViewBox: false,
             cleanupIds: false,
           },
         },

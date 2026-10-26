@@ -17,7 +17,7 @@
           </transition>
         </div>
         <span
-          class="text-gray-500 text-sm group-hover:underline underline-offset-4"
+          class="text-gray-500 text-base group-hover:underline underline-offset-4"
           >{{ state.name }}</span
         >
       </router-link>

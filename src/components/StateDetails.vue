@@ -7,12 +7,12 @@
       :id="category.slug"
       class="border border-blue rounded p-3 md:p-6 shadow-sm"
       :class="{ 'mt-8': i > 0 }">
-      <h3 class="flex flex-col mb-3 text-l md:text-xl gap-x-3 md:flex-row">
+      <h3 class="flex flex-col mb-3 text-xl md:text-2xl gap-x-3 md:flex-row">
         <span class="font-semibold text-blue">
           {{ category.title }}
         </span>
 
-        <span class="text-gray-500">
+        <span class="text-gray-500 whitespace-nowrap">
           {{ achievedPoints }} von {{ category.maxPoints }} Punkten
         </span>
       </h3>
@@ -23,21 +23,21 @@
         :class="{ 'mb-1': ii + 1 < details.length }">
         <div class="flex gap-x-10 flex-col md:flex-row">
           <button
-            class="flex group flex-shrink-0 w-100 gap-x-2 content-start text-left text-blue hover:text-gray-900"
+            class="cursor-pointer flex group shrink-0 w-100 gap-x-2 content-start text-left text-blue hover:text-gray-900"
             @click="toggle(detail)">
             <i-mdi-chevron-down
-              class="transform transition-transform duration-150 ease text-xl flex-shrink-0"
+              class="transform transition-transform duration-150 ease text-xl shrink-0"
               :class="{ '-rotate-180': visible(detail) }"
               role="presentation" />
 
             <div class="flex flex-col gap-x-2 md:flex-row">
               <span
-                class="underline underline-offset-4 group-hover:decoration-transparent flex-shrink-0"
+                class="underline underline-offset-4 group-hover:decoration-transparent shrink-0"
                 :class="{ 'font-bold': visible(detail) }">
                 {{ detail.title }}
               </span>
 
-              <span class="text-gray-500">
+              <span class="text-gray-500 whitespace-nowrap">
                 {{ detail.points }} von {{ detail.maxPoints }}
                 <span class="sr-only">Punkten</span>
               </span>
@@ -61,7 +61,7 @@
         </div>
 
         <div
-          class="ps-2 pt-2 pb-4 text-sm"
+          class="ps-2 pt-2 pb-4 text-base"
           :class="{ block: visible(detail), hidden: !visible(detail) }">
           <div class="border-s-8 ps-4">
             <p

@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-screen-md w-full mx-auto md:text-lg text-gray-900">
+  <div class="max-w-3xl w-full mx-auto md:text-xl text-gray-900">
     <p>
       Behörden von Bundes- bis Kommunalebene produzieren jeden Tag riesige
       Mengen an Daten. Doch verhältnismäßig wenige Informationen werden unter
@@ -35,7 +35,7 @@
   <hr class="my-8 md:my-12 lg:my-16 border-blue shadow break-out" />
 
   <div
-    class="max-w-screen-md w-full mx-auto md:text-lg text-gray-900 my-8 md:my-12 lg:my-16">
+    class="max-w-3xl w-full mx-auto md:text-xl text-gray-900 my-8 md:my-12 lg:my-16">
     <p>
       Im Bereich Open Data gibt es große Unterschiede innerhalb Deutschlands.
       Einige Bundesländer haben das Thema nicht einmal im Rechtsrahmen
@@ -54,5 +54,5 @@
     </p>
   </div>
 
-  <ranking-map class="max-w-screen-md mx-auto" />
+  <ranking-map class="max-w-3xl mx-auto" />
 </template>

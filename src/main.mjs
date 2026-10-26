@@ -1,6 +1,3 @@
-import '@fontsource/hanken-grotesk/latin-400.css';
-import '@fontsource/hanken-grotesk/latin-600.css';
-import '@fontsource/hanken-grotesk/latin-700.css';
 import './main.css';
 import { ViteSSG } from 'vite-ssg';
 

@@ -21,7 +21,7 @@ onMounted(() => {
 });
 </script>
 
-<style lang="postcss" scoped>
+<style lang="css" scoped>
 .map {
   @apply w-full pointer-events-auto;
 

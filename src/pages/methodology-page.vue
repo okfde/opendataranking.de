@@ -3,8 +3,8 @@
     Was braucht es für Open Data?
   </h1>
 
-  <div class="max-w-screen-md w-full mx-auto md:text-lg">
-    <h2 class="text-xl md:text-3xl mt-12 mb-4 text-blue font-bold">
+  <div class="max-w-3xl w-full mx-auto md:text-xl">
+    <h2 class="text-2xl md:text-3xl mt-12 mb-4 text-blue font-bold">
       Unsere Kriterien
     </h2>
 
@@ -17,13 +17,13 @@
       eigenes Gesetz, einen Paragraphen im E-Government-Gesetz oder eine
       Verrechtlichung von Open Data in einem Transparenzgesetz sollte möglichst
       wenig pauschale Ausnahmebestände enthalten und gegen Unterlaufen und
-      Aufweichung geschützt formuliert sein. Der Status quo von verfügbaren offenen
-      Daten wird mit insgesamt 30% bewertet - hier gilt der Fokus der möglichst
-      automatisierten Datenbereitstellung und einem aktuellen, offenen und
-      qualitativ hochwertigen Datenstand. Unter Ausstattung wird vor allem auf
-      die vorhandene institutionalisierte Datenkultur geblickt, so dass Daten
-      nicht nur händisch für Dritte bereitgestellt werden, sondern auch der
-      eigene Nutzen offener Daten erfasst wird. Die Dokumentation des
+      Aufweichung geschützt formuliert sein. Der Status quo von verfügbaren
+      offenen Daten wird mit insgesamt 30% bewertet - hier gilt der Fokus der
+      möglichst automatisierten Datenbereitstellung und einem aktuellen, offenen
+      und qualitativ hochwertigen Datenstand. Unter Ausstattung wird vor allem
+      auf die vorhandene institutionalisierte Datenkultur geblickt, so dass
+      Daten nicht nur händisch für Dritte bereitgestellt werden, sondern auch
+      der eigene Nutzen offener Daten erfasst wird. Die Dokumentation des
       parlamentarischen Geschehens in den Bundesländern wird in der letzten
       Kategorie explizit untersucht, weil die Veröffentlichung diese wichtigen
       Daten teilweise zu wünschen übrig lässt.
@@ -38,7 +38,7 @@
       <template v-if="category.methodology">
         <h2
           :id="category.slug"
-          class="text-xl md:text-3xl mt-12 mb-4 text-blue font-bold">
+          class="text-2xl md:text-4xl mt-12 mb-4 text-blue font-bold">
           <span v-html="category.title" /> ({{ category.maxPoints }}
           Punkte)
         </h2>
