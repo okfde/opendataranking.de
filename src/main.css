@@ -29,6 +29,11 @@
   @apply outline-blue-800 outline-8 outline-offset-2 ring;
 }
 
+/* Anchor targets get focused by the VitePress router, but aren't controls. */
+[tabindex='-1']:focus {
+  @apply outline-none ring-0;
+}
+
 .break-out {
   margin-inline: calc((100vw - 100%) / -2);
 }

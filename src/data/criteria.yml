@@ -1,106 +1,127 @@
 - title: Rechtsanspruch auf Open Data
+  slug: rechtsanspruch-auf-open-data
   description:
     Es gibt einen Rechtsanspruch auf Open Data. Ein subjektiv einklagbarer Rechtsanspruch kann dazu beitragen, die notwendige IT- und Dateninfrastruktur für eine automatisierte Bereitstellung von Open Data zu schaffen – und damit Transparenz zu fördern und Verwaltungsdigitalisierung voranbringen.
     In der Kategorie gibt es fünf Punkte, falls sich zumindest ein Anspruch auf die Veröffentlichung von Informationen in bestimmten Dateiformaten aus dem Rechtsrahmen (z.B. Transparenzgesetz) ergibt.
   maxPoints: 25
   category: rechtsanspruch
 - title: Gesetzeslage
+  slug: gesetzeslage
   description:
     Es gibt eine gesetzliche Regelung für Open Data oder ein Transparenzgesetz mit einem umfassenden Informationsanspruch, der auch Open Data beinhaltet.
     Ein Punkt, wenn zumindest einzelne Aspekte offener Daten erwähnt werden. Null Punkte gibt es, falls Open Data nicht im Rechtsrahmen verankert ist.
   maxPoints: 2
   category: rechtsrahmen
 - title: Evaluation
+  slug: evaluation
   description:
     Es gibt mindestens alle zwei Jahre Evaluationen über den Fortschritt von Open Data bzw. über die Umsetzung eines Open-Data-Gesetzes im Land.
     Bei größeren zeitlichen Abständen wird ein Punkt abgezogen.
   maxPoints: 2
   category: rechtsrahmen
 - title: Behördendefinition
+  slug: behoerdendefinition
   description:
     Die Definition der bereitstellenden Behörden sollte so weit wie möglich gefasst werden.
     Es gibt drei Punkte, wenn alle Behörden des Landes einschließlich der Kommunen und Gemeinden (Bezirke oder Äquivalent in Stadtstaaten bzw. die gesamte Bundesverwaltung auf Bundesebene) einbezogen werden.
   maxPoints: 3
   category: rechtsrahmen
 - title: Anstalten, Körperschaften, Unternehmen
+  slug: anstalten-koerperschaften-unternehmen
   description:
     Sind Anstalten, Körperschaften, Stiftungen und Unternehmen der öffentlichen Hand explizit zur Veröffentlichung verpflichtet?
     Es gibt Abzüge, wenn Institutionen fehlen oder nur bestimmte Anstalten enthalten sind.
   maxPoints: 3
   category: rechtsrahmen
 - title: Forschungsdaten
+  slug: forschungsdaten
   description:
     Daten aus Forschung und Wissenschaft, die an öffentlichen Einrichtungen erhoben werden, sollten ebenfalls veröffentlicht werden.
     Zwei Punkte gibt es, wenn Forschungsdaten erwähnt sind oder nicht explizit ausgenommen werden. Abzüge für Einschränkungen.
   maxPoints: 2
   category: rechtsrahmen
 - title: Ausnahmen
+  slug: ausnahmen
   description:
     Es sollte keine spezifischen Ausnahmen für bereitstellende Behörden geben.
     Für bis zu drei Ausnahmen wird ein Punkt abgezogen, für mehr Ausnahmen werden zwei Punkte abgezogen.
   maxPoints: 3
   category: rechtsrahmen
 - title: Pauschale Ausschlusskriterien
+  slug: pauschale-ausschlusskriterien
   description:
     Pauschale Ausschlusskriterien, die gegen eine Veröffentlichung von Daten sprechen, sollten so gering wie möglich gehalten werden.
     Ein Punkt Abzug, wenn nur personenbezogene Daten und Urheberrechte pauschal ausgeschlossen werden; zwei Punkte Abzug, wenn darüber hinaus weitere Kriterien vorliegen.
   maxPoints: 3
   category: rechtsrahmen
 - title: Datenkatalog
+  slug: datenkatalog
   description:
     Ein Katalog der in maschinenlesbarer Form zu veröffentlichenden Informationen zeigt besonders relevante Themenfelder auf und bietet Behörden Orientierung, welche Daten unbedingt zur Verfügung gestellt werden müssen.
     Ein Punkt Abzug für Einschränkungen oder wenn die Regelung sich nur auf Informationen bezieht, die unter ein Transparenzgesetz fallen.
   maxPoints: 2
   category: rechtsrahmen
 - title: Rohdaten
+  slug: rohdaten
   description:
     Die Definition der bereitzustellenden Informationen umfasst alle Informationen, die sich aus der Erfüllung öffentlich-rechtlicher Aufgaben ergeben
     oder Rohdaten aus der Verwaltungstätigkeit darstellen.
   maxPoints: 1
   category: rechtsrahmen
 - title: Daten im Auftrag von Dritten
+  slug: daten-im-auftrag-von-dritten
   description: Die Definition der bereitzustellenden Informationen umfasst auch Daten, die im Auftrag Dritter erhoben wurden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Offenheit
+  slug: offenheit
   description: Die Informationen müssen in einem offenen Format oder in einem offenen Standard veröffentlicht werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Maschinenlesbarkeit
+  slug: maschinenlesbarkeit
   description: Die Informationen müssen in einem maschinenlesbaren Format veröffentlicht werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Aktualität
+  slug: aktualitaet
   description: Die Informationen sollen unverzüglich aktuell gehalten werden, nachvollziehbar durch Metadaten.
   maxPoints: 1
   category: rechtsrahmen
 - title: Dauerhaftigkeit
+  slug: dauerhaftigkeit
   description: Die Informationen sollen dauerhaft bereitgestellt werden.
   maxPoints: 1
   category: rechtsrahmen
 - title: Lizenz
+  slug: lizenz
   description: Die Informationen sind gemeinfrei oder werden unter freien Lizenzen zur Verfügung gestellt.
   maxPoints: 1
   category: rechtsrahmen
 - title: Schnittstellen
+  slug: schnittstellen
   description: Die Informationen sind über eine offene, dokumentierte Schnittstelle (API) zugänglich.
   maxPoints: 1
   category: rechtsrahmen
 - title: Diskriminierungsfreiheit
+  slug: diskriminierungsfreiheit
   description: Der Zugang zu den Informationen erfolgt ohne Login oder Registrierungspflicht.
   maxPoints: 1
   category: rechtsrahmen
 - title: Kostenfreiheit
+  slug: kostenfreiheit
   description: Für den Zugang fallen keine Nutzungsgebühren an – sowohl die private als auch die kommerzielle Nutzung ist kostenlos.
   maxPoints: 1
   category: rechtsrahmen
 - title: Portal für Open Data
+  slug: portal-fuer-open-data
   description:
     Es gibt ein zentrales Open-Data-Portal für das Bundesland. Abzüge, wenn es nur ein Transparenzportal gibt, auf dem überwiegend Dokumente oder nicht maschinenlesbare Informationen veröffentlicht werden.
     Auf Bundesebene wird berücksichtigt, ob es eine zentrale datenliefernde Stelle gibt.
   maxPoints: 6
   category: datenportal
 - title: Portal-Schnittstellen
+  slug: portal-schnittstellen
   description:
     Das Portal verfügt über Schnittstellen für zuliefernde Stellen im Land.
     Die Seitenbetreibenden machen die Schnittstellen explizit bekannt und bieten umfassende Informationen auf dem Portal über Wege der Bereitstellung an.
@@ -108,16 +129,19 @@
   maxPoints: 3
   category: datenportal
 - title: API mit Dokumentation
+  slug: api-mit-dokumentation
   description: Es gibt eine diskriminierungsfreie Schnittstelle (API) mit umfassender Dokumentation. Abzüge für Registrierungspflicht oder fehlende Dokumentation.
   maxPoints: 3
   category: datenportal
 - title: SPARQL-Abfragen
+  slug: sparql-abfragen
   description:
     Linked Open Data erleichtert die Weiterverwendung von Daten und ihre Verknüpfung mit anderen Informationen.
     Bietet das Portal die Möglichkeit, Metadaten über eine SPARQL-Schnittstelle abzufragen?
   maxPoints: 3
   category: datenportal
 - title: Aktualität der Daten
+  slug: aktualitaet-der-daten
   description:
     Die bereitgestellten Daten sollten so aktuell wie möglich sein und regelmäßig bereitgestellt werden. Volle Punktzahl, wenn im Vergleich zur Gesamtheit im vergangenen Jahr mindestens 25 Prozent der Datensätze aktualisiert oder neu erstellt wurden.
     Zwei Punkte werden vergeben, wenn überhaupt Daten erstellt oder aktualisiert worden sind.
@@ -125,6 +149,7 @@
   maxPoints: 4
   category: datenrealitaet
 - title: Linked Data
+  slug: linked-data
   description:
     Die Qualität der Daten beeinflusst maßgeblich, inwieweit sie sinnvoll weiterverwendet werden können und wie hoch der Aufwand für ihre Nutzung ist.
     Informationen, die als Linked Open Data bereitgestellt werden, bieten eine Vielzahl von Verknüpfungs- und Integrationsmöglichkeiten.
@@ -134,6 +159,7 @@
   maxPoints: 4
   category: datenrealitaet
 - title: Freie Lizenzen
+  slug: freie-lizenzen
   description:
     Angemessene und freie Nutzungsbedingungen sind für die Weiterverwendung von Daten unerlässlich.
     Neben der privaten Nutzung sollte auch die kommerzielle Nutzung der Daten uneingeschränkt möglich sein, am besten über eine Creative Commons BY-Lizenz oder Zero-Lizenz bei GovData.
@@ -143,6 +169,7 @@
   maxPoints: 4
   category: datenrealitaet
 - title: Hochwertige Datensätze
+  slug: hochwertige-datensaetze
   description:
     Seit dem 9. Juni 2024 ist die öffentliche Verwaltung dazu verpflichtet, hochwertige Daten (High Value Datasets - HVD) unter Einhaltung bestimmter Kriterien zur Verfügung zu stellen.
     Grundlage dafür ist eine [Durchführungsverordnung der EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU).
@@ -153,6 +180,7 @@
   maxPoints: 3
   category: datenrealitaet
 - title: Open-Data-Beauftragte
+  slug: open-data-beauftragte
   description:
     Open-Data-Beauftragte können ein Faktor für die Verbreitung und Förderung von Open Data in einer Behörde sein.
     Sie sind die ersten Ansprechpartner:innen sowohl für die Seite der Datennutzenden als auch der Datenbereitstellenden und können zu einem nachhaltigen Datenmanagement beitragen.
@@ -161,6 +189,7 @@
   maxPoints: 2
   category: ausstattung
 - title: Open-Data-Beratungsstelle
+  slug: open-data-beratungsstelle
   description:
     Eine zentrale Beratungs- oder Informationsstelle für Open Data kann eine wichtige Anlaufstelle insbesondere für Fachabteilungen sein, die bisher wenig mit Open Data in Berührung gekommen sind.
     Voraussetzung dafür ist, dass ausreichend personelle Ressourcen zur Verfügung stehen und die Hürden für die Zusammenarbeit mit den Fachabteilungen möglichst niedrig sind.
@@ -168,6 +197,7 @@
   maxPoints: 2
   category: ausstattung
 - title: Open-Data-Labore
+  slug: open-data-labore
   description:
     Neben Beauftragten und einer Beratungsstelle sollte es Raum für Datenprojekte innerhalb der Verwaltung oder in enger Anbindung an bestehende Strukturen geben.
     Um einen nachhaltigen Strukturwandel zu unterstützen, könnte sich eine solche Stelle für die automatisierte Datenbereitstellung einsetzen und Möglichkeiten aufzeigen,
@@ -175,6 +205,7 @@
   maxPoints: 2
   category: ausstattung
 - title: Unterstützungsangebote für Kommunen
+  slug: unterstuetzungsangebote-fuer-kommunen
   description:
     Bei Kommunen und nachgeordneten Behörden liegt oft ein großer Teil des öffentlichen Datenschatzes.
     Bislang sind aber gerade diese Institutionen häufig von Bereitstellungspflichten ausgenommen. In dieser Kategorie werden daher Unterstützungsangebote bewertet, die sich konkret an Kommunen oder Behörden richten, die nicht unmittelbar gesetzlich zur Bereitstellung von Daten verpflichtet sind.
@@ -182,6 +213,7 @@
   maxPoints: 2
   category: ausstattung
 - title: Öffentlichkeitsarbeit
+  slug: oeffentlichkeitsarbeit
   description:
     Der Austausch zwischen der datenbereitstellenden und datennutzenden Seite ist Teil des Open-Data-Ökosystems.
     In dieser Kategorie wird berücksichtigt, ob es Formate gibt, in denen der Dialog aktiv angeboten wird, z.B. über Veranstaltungen zum Open Data Day, Newsletter oder die Möglichkeit, Anwendungsfälle zu präsentieren.
@@ -189,18 +221,21 @@
   maxPoints: 2
   category: ausstattung
 - title: API/Schnittstelle
+  slug: api-schnittstelle
   description:
     Für den automatisierten Datenabruf und für Anwendungen, die auf Parlamentsdaten basieren, sind offene Programmierschnittstellen erforderlich.
     Dies ist in vielen anderen Bereichen bereits Standard und sollte auch für Parlamentsdaten gelten. Für Barrieren wie API-Keys gibt es einen Punkt Abzug.
   maxPoints: 2
   category: parlamentsdokumentation
 - title: Maschinenlesbarkeit von Plenarprotokollen
+  slug: maschinenlesbarkeit-von-plenarprotokollen
   description:
     Die Protokolle sind das Dokument, in dem sich die politische Willensbildung im Parlament zeigt.
     Sie sollten in maschinenlesbarer Form veröffentlicht werden, damit sie leichter durchsucht und analysiert werden können.
   maxPoints: 2
   category: parlamentsdokumentation
 - title: Aktualität von Plenarprotokollen
+  slug: aktualitaet-von-plenarprotokollen
   description:
     Aktuelle Analysen und inhaltliche Auseinandersetzungen mit den Plenardebatten können nur gelingen, wenn die Protokolle auch zeitnah nach dem Sitzungstermin veröffentlicht werden.
     Ein Punkt, wenn das Plenarprotokoll in einer vorläufigen oder endgültigen Fassung innerhalb einer Woche nach der Sitzung veröffentlicht wird.

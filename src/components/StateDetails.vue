@@ -21,7 +21,7 @@
         v-for="(detail, ii) in details"
         :key="ii"
         :class="{ 'mb-1': ii + 1 < details.length }">
-        <div class="flex gap-x-10 flex-col md:flex-row">
+        <div :id="detail.slug" class="flex gap-x-10 flex-col md:flex-row">
           <button
             class="cursor-pointer flex group shrink-0 w-100 gap-x-2 content-start text-left text-blue hover:text-gray-900"
             @click="toggle(detail)">
@@ -116,10 +116,10 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted, onBeforeUnmount } from 'vue';
 import criteria from '@data/criteria';
 
-defineProps({
+const props = defineProps({
   performance: {
     type: Array,
     default() {
@@ -155,4 +155,25 @@ function toggle({ id }) {
     visibleDetails.value.splice(index, 1);
   }
 }
+
+function openFromHash() {
+  const slug = decodeURIComponent(window.location.hash.slice(1));
+  const detail = props.performance
+    .filter(({ category }) => category.slug !== 'gesamt')
+    .flatMap(({ details }) => details ?? [])
+    .find((d) => d.slug === slug);
+
+  if (detail && !visible(detail)) {
+    visibleDetails.value.push(detail.id);
+  }
+}
+
+onMounted(() => {
+  openFromHash();
+  window.addEventListener('hashchange', openFromHash);
+});
+
+onBeforeUnmount(() => {
+  window.removeEventListener('hashchange', openFromHash);
+});
 </script>
