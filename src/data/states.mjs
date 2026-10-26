@@ -11,6 +11,7 @@ import markdown from '../utils/markdown.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const statesDir = path.join(__dirname, 'states');
 const criteriaFile = path.join(__dirname, 'criteria.yml');
+const years = [2026, 2025];
 
 let idCounter = 0;
 
@@ -47,12 +48,17 @@ export async function getStates() {
 
         const achievedPoints = getPoints(attributes, category.criteriaTitles);
         const percentage = pointPercentage(achievedPoints, category.maxPoints);
+        const previousPercentage = pointPercentage(
+          getPoints(attributes, category.criteriaTitles, '2025'),
+          category.maxPoints,
+        );
 
         return {
           categorySlug: category.slug,
           details,
           achievedPoints,
           percentage,
+          previousPercentage,
         };
       });
 
@@ -69,7 +75,7 @@ export async function getStates() {
   return states;
 }
 
-export function getPoints(state, criteriaTitles) {
+export function getPoints(state, criteriaTitles, year = '2026') {
   let achievedPoints = 0;
 
   if (state.criteria) {
@@ -77,7 +83,10 @@ export function getPoints(state, criteriaTitles) {
       criteriaTitles.includes(c.title),
     );
 
-    achievedPoints = stateCriteria.reduce((a, c) => a + (c.points ?? 0), 0);
+    achievedPoints = stateCriteria.reduce(
+      (a, c) => a + (c.points[year] ?? 0),
+      0,
+    );
   }
 
   return achievedPoints;

@@ -38,11 +38,16 @@
               </span>
 
               <span class="text-gray-500 whitespace-nowrap">
-                {{ detail.points }} von {{ detail.maxPoints }}
+                {{ detail.points[2026] }} von {{ detail.maxPoints }}
                 <span class="sr-only">Punkten</span>
               </span>
 
-              <span class="bg-red-200 text-red-900 text-sm whitespace-nowrap self-start py-1 px-2 rounded-sm" v-if="detail.updated ?? false">Update in 2026</span>
+              <trend-indicator
+                class="self-start mt-0.5"
+                :current="detail.points[2026]"
+                :previous="detail.points[2025]"
+                :title="`2025: ${detail.points[2025]} von ${detail.maxPoints}`"
+                :label="trendLabel(detail)" />
             </div>
           </button>
 
@@ -56,7 +61,7 @@
                 class="inline-block bg-gray-400 h-4 w-4 rounded mr-1 md:mr-0 md:ml-1"
                 :style="{
                   backgroundColor:
-                    iii < detail.points ? category.color : undefined,
+                    iii < detail.points[2026] ? category.color : undefined,
                 }" />
             </div>
           </div>
@@ -94,9 +99,14 @@
               <span v-html="detail.text" />
             </p>
 
-            <p>
+            <p class="mb-2">
               <strong>Kriterienbeschreibung: </strong>
               <span v-html="criteria[detail.title]" />
+            </p>
+
+            <p>
+              <strong>Trend: </strong>
+              <span v-html="trendLabel(detail)" />
             </p>
           </div>
         </div>
@@ -122,6 +132,18 @@ const visibleDetails = ref([]);
 
 function visible({ id }) {
   return visibleDetails.value.includes(id);
+}
+
+function trendLabel({ points }) {
+  if (points[2026] > points[2025]) {
+    return `verbessert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+  }
+
+  if (points[2026] < points[2025]) {
+    return `verschlechtert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+  }
+
+  return 'unverändert gegenüber 2025';
 }
 
 function toggle({ id }) {

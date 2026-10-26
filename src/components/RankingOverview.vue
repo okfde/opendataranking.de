@@ -69,9 +69,17 @@
           </a>
         </th>
         <td class="w-full mb-2 pb-2" role="cell">
-          <ranking-bar
-            :color="selectedCategory.color"
-            :progress="bar.percentage" />
+          <div class="flex items-center gap-2">
+            <ranking-bar
+              class="grow"
+              :color="selectedCategory.color"
+              :progress="bar.percentage" />
+            <trend-indicator
+              :current="bar.percentage"
+              :previous="bar.previousPercentage"
+              :title="`2025: ${bar.previousPercentage} %`"
+              :label="trendLabel(bar)" />
+          </div>
         </td>
       </tr>
     </transition-group>
@@ -82,6 +90,7 @@
 import { ref, computed } from 'vue';
 import overview from '@data/overview';
 import categories from '@data/categories';
+import trendLabel from '../utils/percentageTrendLabel.mjs';
 
 const first = Object.values(categories)[0];
 const selected = ref(first.slug);

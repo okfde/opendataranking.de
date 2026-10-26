@@ -3,176 +3,246 @@ name: Bremen
 short: HB
 criteria:
   - title: Rechtsanspruch auf Open Data
-    points: 5
+    points:
+      2026: 5
+      2025: 5
     citations:
       - text: '§1 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P1
     text: Anspruch auf Zugang und Veröffentlichung amtlicher Informationen ohne dezidierten Open-Data-Bezug
   - title: Gesetzeslage
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: 'EGovG BR (2018)'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-zur-foerderung-der-elektronischen-verwaltung-in-bremen-vom-20-maerz-2018-112242
       - text: 'BremIFG (2019[2006])'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977
       - text: 'BremIFVO (2016)'
-        link: https://www.transparenz.bremen.de/metainformationen/verordnung-ueber-die-veroeffentlichungspflichten-und-die-berichtspflicht-nach-dem-bremer-informationsfreiheitsgesetz-vom-22-maerz-2016-83480?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d    
+        link: https://www.transparenz.bremen.de/metainformationen/verordnung-ueber-die-veroeffentlichungspflichten-und-die-berichtspflicht-nach-dem-bremer-informationsfreiheitsgesetz-vom-22-maerz-2016-83480?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d
     text: E-Government-Gesetz ohne Open Data; Transparenzgesetz(BremIFG) mit Open-Data-Einsprengseln
   - title: Evaluation
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Behördendefinition
-    points: 3
+    points:
+      2026: 3
+      2025: 3
     citations:
       - text: '§1 Abs. 1 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P1
     text: Behörden des Landes und der Gemeinden
   - title: Anstalten, Körperschaften, Unternehmen
-    points: 2
+    points:
+      2026: 2
+      2025: 2
     citations:
       - text: '§11 Abs. 4(13) BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
     text: Sonstige der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts und deren Vereinigungen; Unternehmensdaten städtischer Beteiligungen
   - title: Forschungsdaten
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Ausnahmen
-    points: 2
+    points:
+      2026: 2
+      2025: 2
     citations:
       - text: '§3 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
     text: Ausnahmen beim Landesamt für Verfassungsschutz und Rundfunk
   - title: Pauschale Ausschlusskriterien
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§3-6 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P3
     text: Personenbezogene Daten, behördlicher Entscheidungsprozess, Schutz geistigen Eigentums, Betriebs- und Geschäftsgeheimnisse, bestimmte Gutachten & Verträge
   - title: Datenkatalog
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§11 Abs. 4 BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11
     text: Auflistung geeigneter Informationen v.a. mit Transparenzbezug im Rahmen des BremIFG
   - title: Rohdaten
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Daten im Auftrag von Dritten
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Offenheit
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Maschinenlesbarkeit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§10 Abs. 1 EGovG BR'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-zur-foerderung-der-elektronischen-verwaltung-in-bremen-vom-20-maerz-2018-112242?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-EGovGBRpP10
     text: Falls öffentlich verfügbar dann auch maschinenlesbar, besonders falls es ein Weiterverwendungsinteresse gibt (DNG)
   - title: Aktualität
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Lizenz
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Schnittstellen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Kostenfreiheit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§11a BremIFG'
         link: https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-freiheit-des-zugangs-zu-informationen-fuer-das-land-bremen-bremer-informationsfreiheitsgesetz-bremifg-vom-16-mai-2006-127977?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d#jlr-IFGBRV2P11a
     text: Die Nutzung der allgemein zugänglichen Informationen ist frei
   - title: Portal für Open Data
-    points: 3
+    points:
+      2026: 3
+      2025: 3
     citations:
       - text: 'Transparenzportal Bremen'
         link: https://www.transparenz.bremen.de/
   - title: Portal-Schnittstellen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: API mit Dokumentation
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: SPARQL-Abfragen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Aktualität der Daten
-    points: 2
+    points:
+      2026: 2
+      2025: 2
     citations:
       - text: 'weniger als 25 Prozent des Datenbestands aktualisiert'
         link: https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table
     text: Für den Vergleichszeitraum 2024 wurden 9,20% der Datensätze auf das Gesamtdatenvorkommen bezogen neu erstellt oder aktualisiert (15 von 163)
   - title: Linked Data
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Linked Data'
         link: https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithLD)%20AS%20%3FdatasetsWithLD)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%0A%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20FILTER((CONTAINS(LCASE(STR(%3Fformat))%2C%20%22rdf%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22turtle%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22n3%22)%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22jsonld%22))))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithLD)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table
     text: Für den Vergleichszeitraum 2024 gab es keine Datensätze in einem Linked-Data-Format
   - title: Freie Lizenzen
-    points: 4
+    points:
+      2026: 4
+      2025: 4
     citations:
       - text: 'mehr als zwei Drittel der aktualisierten Daten steht unter freier Lizenz'
         link: https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithZeroLicense)%20AS%20%3FdatasetsWithZeroLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithByLicense)%20AS%20%3FdatasetsWithByLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithOWLicense)%20AS%20%3FdatasetsWithOWLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithClosedLicense)%20AS%20%3FdatasetsWithClosedLicense)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22zero%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithZeroLicense)%0A%20%20%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22by%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithByLicense)%0A%20%20%20%20%7D%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution%20.%0A%20%20%20%20%3Fdistribution%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2FofficialWork%3E%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithOWLicense)%0A%20%20%7D%0A%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22closed%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithClosedLicense)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table
     text: Für den Vergleichszeitraum 2024 wurden 100% der aktualisierten oder neuen Datensätze mit Zero bzw. BY-Lizenz versehen oder waren lizenzfrei (15 von 15)
   - title: Hochwertige Datensätze
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine HVD'
         link: https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0APREFIX%20dcatap%3A%20%3Chttp%3A%2F%2Fdata.europa.eu%2Fr5r%2F%3E%0A%0ASELECT%20%0A%20%20%3Fcategory%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FdatasetCount)%0A%20%20(%3FtotalCount%20AS%20%3FtotalDatasetCount)%0AWHERE%20%7B%0A%20%20%23%20Main%20query%20for%20per-category%20counts%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%0A%20%20%23%20Subquery%20for%20total%20count%20across%20all%20categories%0A%20%20%7B%0A%20%20%20%20SELECT%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FtotalCount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%20%20%20%20%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AGROUP%20BY%20%3Fcategory%20%3FtotalCount&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table
     text: Für den Vergleichszeitraum 2024 gab es keine Hochwertigen Datensätze
   - title: Open-Data-Beauftragte
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Open-Data-Labore
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Öffentlichkeitsarbeit
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: API/Schnittstelle
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine API'
         link: https://bürgerschaft.bremen.de/index.php?id=570
   - title: Maschinenlesbarkeit von Plenarprotokollen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
         link: https://bürgerschaft.bremen.de/index.php?id=570
   - title: Aktualität von Plenarprotokollen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://bürgerschaft.bremen.de/index.php?id=570
@@ -204,4 +274,5 @@ stats:
       value: 15
       link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithZeroLicense)%20AS%20%3FdatasetsWithZeroLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithByLicense)%20AS%20%3FdatasetsWithByLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithOWLicense)%20AS%20%3FdatasetsWithOWLicense)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithClosedLicense)%20AS%20%3FdatasetsWithClosedLicense)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AtransparenzportalBremen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202024)%20.%0A%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22zero%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithZeroLicense)%0A%20%20%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22by%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithByLicense)%0A%20%20%20%20%7D%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution%20.%0A%20%20%20%20%3Fdistribution%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2FofficialWork%3E%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithOWLicense)%0A%20%20%7D%0A%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution2%20.%0A%20%20%20%20%20%20%3Fdistribution2%20dct%3Alicense%20%3Flicense%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Flicense))%2C%20%22closed%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithClosedLicense)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
 ---
+
 Im Bremer Rechtsrahmen tauchen offene Daten weiter nicht auf – aber immerhin besteht laut Informationsfreiheitsgesetz Anspruch auf die Veröffentlichung bestimmter Informationen. Die reinen Zahlen bei GovData geben nur wenig Anknüpfungspunkte. Die leichte Verbesserung im Ranking ist daher auch eher auf kleine Änderungen im Bewertungsrahmen sowie die Aktualisierung von einigen, sehr wenigen Daten im Transparenzportal zurückzuführen. Immerhin: der Haushalt des Landes und der Stadtgemeinde Bremen sowie die quartalsweisen Zuwendungen gehören zu den an zwei Händen abzählbaren neuen Datensätzen.

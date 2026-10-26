@@ -1,23 +1,23 @@
-@import "tailwindcss";
-@import "@fontsource/hanken-grotesk/latin-400.css";
-@import "@fontsource/hanken-grotesk/latin-600.css";
-@import "@fontsource/hanken-grotesk/latin-700.css";
+@import 'tailwindcss';
+@import '@fontsource/hanken-grotesk/latin-400.css';
+@import '@fontsource/hanken-grotesk/latin-600.css';
+@import '@fontsource/hanken-grotesk/latin-700.css';
 
 @source ".";
 
 @theme {
   --font-sans: 'Hanken Grotesk', 'sans-serif';
-  --color-blue: #43388C;
-  --color-blue-50: #F6F5F9;
-  --color-blue-100: #ECEBF4;
-  --color-blue-200: #D0CDE2;
-  --color-blue-300: #B4AFD1;
-  --color-blue-400: #7B74AF;
-  --color-blue-500: #43388C;
-  --color-blue-600: #3C327E;
+  --color-blue: #43388c;
+  --color-blue-50: #f6f5f9;
+  --color-blue-100: #ecebf4;
+  --color-blue-200: #d0cde2;
+  --color-blue-300: #b4afd1;
+  --color-blue-400: #7b74af;
+  --color-blue-500: #43388c;
+  --color-blue-600: #3c327e;
   --color-blue-700: #282254;
-  --color-blue-800: #1E193F;
-  --color-blue-900: #14112A;
+  --color-blue-800: #1e193f;
+  --color-blue-900: #14112a;
   --text-xl: 1.265625rem;
   --text-2xl: 1.40625rem;
   --text-xl--line-height: calc(1.75 / 1.125);

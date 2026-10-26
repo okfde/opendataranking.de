@@ -41,11 +41,20 @@
               </th>
 
               <td class="w-full" role="cell">
-                <ranking-bar
-                  :color="bar.category.color"
-                  :progress="bar.percentage"
-                  :large="i === 0"
-                  :class="{ 'mb-2 md:mb-4': i === 0 }" />
+                <div
+                  class="flex items-center gap-2"
+                  :class="{ 'mb-2 md:mb-4': i === 0 }">
+                  <ranking-bar
+                    class="grow"
+                    :color="bar.category.color"
+                    :progress="bar.percentage"
+                    :large="i === 0" />
+                  <trend-indicator
+                    :current="bar.percentage"
+                    :previous="bar.previousPercentage"
+                    :title="`2025: ${bar.previousPercentage} %`"
+                    :label="trendLabel(bar)" />
+                </div>
               </td>
             </tr>
           </tbody>
@@ -92,6 +101,7 @@
 import { computed } from 'vue';
 
 import _categories from '@data/categories';
+import trendLabel from '../utils/percentageTrendLabel.mjs';
 
 const categories = Object.values(_categories);
 
