@@ -4,7 +4,7 @@
 
 <script setup>
 import { onMounted, ref } from 'vue';
-import { useRouter } from 'vue-router';
+import { useRouter } from 'vitepress';
 import rankingMap from '@data/map?component';
 import '@data/map';
 
@@ -15,7 +15,7 @@ onMounted(() => {
   for (const node of map.value.querySelectorAll('path[id]')) {
     const slug = node.id;
     node.addEventListener('click', () =>
-      router.push(slug === 'bund' ? '/bund/' : `/laender/${slug}/`),
+      router.go(slug === 'bund' ? '/bund/' : `/laender/${slug}/`),
     );
   }
 });

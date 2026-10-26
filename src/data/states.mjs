@@ -34,14 +34,13 @@ export async function getStates() {
         const details = attributes.criteria
           ?.filter((c) => category.criteriaTitles.includes(c.title))
           .map((criterium) => {
-            const { maxPoints, description } = criteria.find(
+            const { maxPoints } = criteria.find(
               (c) => c.title === criterium.title,
             );
 
             return {
               ...criterium,
               maxPoints,
-              description: markdown(description, true),
               id: idCounter++,
             };
           });
@@ -84,4 +83,11 @@ export function getPoints(state, criteriaTitles) {
   return achievedPoints;
 }
 
-export default serveVirtualFile('states', getStates);
+export default serveVirtualFile('states', async () =>
+  (await getStates()).map(({ slug, name, short, type }) => ({
+    slug,
+    name,
+    short,
+    type,
+  })),
+);

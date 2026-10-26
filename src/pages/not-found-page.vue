@@ -7,11 +7,11 @@
     <div class="text-2xl text-center">
       <p class="mb-1">Diese Seite existiert nicht.</p>
 
-      <router-link
-        to="/"
+      <a
+        href="/"
         class="underline underline-offset-4 hover:decoration-transparent">
         Zurück zur Startseite
-      </router-link>
+      </a>
     </div>
   </div>
 </template>

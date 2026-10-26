@@ -19,10 +19,10 @@
 
     <p class="mt-4">
       Die Kriterien für die Erstellung des Rankings können
-      <router-link
-        to="/methodik/"
+      <a
+        href="/methodik/"
         class="underline underline-offset-4 hover:decoration-transparent text-blue hover:text-gray-900"
-        >hier</router-link
+        >hier</a
       >
       eingesehen werden.
     </p>

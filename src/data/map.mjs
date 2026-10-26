@@ -27,6 +27,7 @@ async function renderSvg() {
   }
 
   const { data } = optimize(builder.build(map), {
+    floatPrecision: 1,
     plugins: [
       {
         name: 'preset-default',

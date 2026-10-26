@@ -3,6 +3,8 @@
 @import "@fontsource/hanken-grotesk/latin-600.css";
 @import "@fontsource/hanken-grotesk/latin-700.css";
 
+@source ".";
+
 @theme {
   --font-sans: 'Hanken Grotesk', 'sans-serif';
   --color-blue: #43388C;
@@ -29,4 +31,9 @@
 
 .break-out {
   margin-inline: calc((100vw - 100%) / -2);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 1.5rem;
 }

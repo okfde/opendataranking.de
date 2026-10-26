@@ -45,6 +45,9 @@ defineProps({
 
 function formatDate(dateString) {
   const date = new Date(dateString);
-  return new Intl.DateTimeFormat('de-DE', { dateStyle: 'long' }).format(date);
+  return new Intl.DateTimeFormat('de-DE', {
+    dateStyle: 'long',
+    timeZone: 'UTC',
+  }).format(date);
 }
 </script>

@@ -20,14 +20,14 @@
     <div class="grid gap-2" v-html="selectedCategory.description" />
 
     <p v-if="selectedCategory.slug !== 'gesamt'" class="mt-3">
-      <router-link
-        :to="`/methodik/#${selectedCategory.slug}`"
+      <a
+        :href="`/methodik/#${selectedCategory.slug}`"
         class="inline-flex text-base text-blue gap-1 group items-center">
         <span class="group-hover:underline underline-offset-4"
           >Mehr Informationen</span
         >
         <i-mdi-arrow-right role="presentation" />
-      </router-link>
+      </a>
     </p>
   </div>
 
@@ -44,8 +44,8 @@
         <th
           class="text-base text-gray-700 flex items-center pr-4 font-normal pb-2"
           role="cell">
-          <router-link
-            :to="
+          <a
+            :href="
               bar.state.slug === 'bund'
                 ? '/bund/'
                 : `/laender/${bar.state.slug}/`
@@ -66,7 +66,7 @@
             </span>
 
             <i-mdi-information-outline role="presentation" />
-          </router-link>
+          </a>
         </th>
         <td class="w-full mb-2 pb-2" role="cell">
           <ranking-bar

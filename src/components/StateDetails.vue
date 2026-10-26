@@ -94,7 +94,7 @@
 
             <p>
               <strong>Kriterienbeschreibung: </strong>
-              <span v-html="detail.description" />
+              <span v-html="criteria[detail.title]" />
             </p>
           </div>
         </div>
@@ -105,6 +105,7 @@
 
 <script setup>
 import { ref } from 'vue';
+import criteria from '@data/criteria';
 
 defineProps({
   performance: {

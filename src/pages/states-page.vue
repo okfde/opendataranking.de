@@ -1,10 +1,10 @@
 <template>
   <div class="px-4 md:px-12 min-h-full">
     <div class="flex flex-wrap justify-center">
-      <router-link
+      <a
         v-for="state in states"
         :key="state.name"
-        :to="state.slug === 'bund' ? '/bund/' : `/laender/${state.slug}/`"
+        :href="state.slug === 'bund' ? '/bund/' : `/laender/${state.slug}/`"
         :title="state.type === false ? `${state.name} (kein IFG)` : state.name"
         class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/6 py-6 lg:py-12 flex flex-col items-center text-center group">
         <div class="h-12 md:h-16 lg:h-20 mb-4 md:mb-6">
@@ -20,7 +20,7 @@
           class="text-gray-500 text-base group-hover:underline underline-offset-4"
           >{{ state.name }}</span
         >
-      </router-link>
+      </a>
     </div>
   </div>
 </template>
