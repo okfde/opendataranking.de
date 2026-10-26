@@ -4,6 +4,7 @@ short: BE
 criteria:
   - title: Rechtsanspruch auf Open Data
     points: 0
+    updated: true
     citations:
       - text: '§2 OpenDataV'
         link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP2
@@ -88,6 +89,7 @@ criteria:
       - text: 'keine Erwähnung'
   - title: Lizenz
     points: 1
+    updated: true
     citations:
       - text: '§9 Abs. 1 OpenDataV'
         link: https://gesetze.berlin.de/perma?d=jlr-OpenDataBerVBEpP9

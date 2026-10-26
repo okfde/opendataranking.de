@@ -41,6 +41,8 @@
                 {{ detail.points }} von {{ detail.maxPoints }}
                 <span class="sr-only">Punkten</span>
               </span>
+
+              <span class="bg-red-200 text-red-900 text-sm whitespace-nowrap self-start py-1 px-2 rounded-sm" v-if="detail.updated ?? false">Update in 2026</span>
             </div>
           </button>
 
