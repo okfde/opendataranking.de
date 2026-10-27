@@ -27,18 +27,24 @@
             Deutschland e.V.
           </p>
 
-          <div class="flex items-center gap-3">
+          <div class="flex items-center gap-6">
             <a href="https://okfn.de" target="_blank">
               <img
-                class="mr-6 h-auto object-contain max-h-24"
+                class="w-auto h-20"
                 src="../assets/img/okfde.svg"
+                width="808"
+                height="354"
+                loading="lazy"
                 alt="Open Knowledge Foundation Deutschland e.V." />
             </a>
 
             <a href="https://okfn.de/projekte/opendata/" target="_blank">
               <img
-                class="object-contain max-h-24"
+                class="w-auto h-20"
                 src="../assets/img/open-data.svg"
+                width="214"
+                height="146"
+                loading="lazy"
                 alt="Offene Verwaltungsdaten" />
             </a>
           </div>

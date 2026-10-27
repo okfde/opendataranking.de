@@ -4,7 +4,11 @@
     class="p-5 md:px-9 bg-blue-50 border-b border-b-blue shadow">
     <div class="flex text-blue gap-y-5 justify-between flex-wrap">
       <a href="/" class="flex gap-5 items-center">
-        <img src="../assets/img/logo.svg" alt="Logo" class="w-12 md:w-16" />
+        <img
+          src="../assets/img/logo.svg"
+          alt=""
+          role="presentation"
+          class="w-12 md:w-16" />
         <h1 class="text-lg font-bold md:text-2xl">
           Open Data Ranking Deutschland
         </h1>
