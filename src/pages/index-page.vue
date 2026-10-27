@@ -22,6 +22,7 @@
       <a
         href="/methodik/"
         class="underline underline-offset-4 hover:decoration-transparent text-blue hover:text-gray-900"
+        title="Informationen zur Methodik"
         >hier</a
       >
       eingesehen werden.
