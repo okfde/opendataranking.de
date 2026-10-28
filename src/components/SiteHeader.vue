@@ -1,4 +1,13 @@
 <template>
+  <div
+    class="bg-yellow-100 p-4 justify-center flex flex-wrap gap-2 border-b border-b-blue top-0 sticky shadow z-50">
+    <span>Das ist das Open Data Ranking von 2024.</span>
+    <a
+      href="/"
+      class="flex items-center gap-1 underline underline-offset-4 hover:no-underline"
+      ><span>Zur aktuellen Version</span><i-mdi-arrow-right
+    /></a>
+  </div>
   <header
     id="header"
     class="p-4 md:px-8 bg-blue-50 border-b border-b-blue shadow">
