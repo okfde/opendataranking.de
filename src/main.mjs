@@ -35,6 +35,7 @@ const routes = [
 ];
 
 export const createApp = ViteSSG(App, {
+  base: '/2025',
   routes,
   scrollBehavior(to, from, savedPosition) {
     const behavior = 'smooth';

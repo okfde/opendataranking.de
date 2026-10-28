@@ -27,6 +27,7 @@ useHead({
     { property: 'og:title', content: title },
     { property: 'og:description', content: description },
     { property: 'twitter:card', content: 'summary_large_image' },
+    { name: 'robots', content: 'follow, noindex' },
   ],
   link: [
     {

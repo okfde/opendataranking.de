@@ -38,6 +38,7 @@ export default defineConfig({
     script: 'async',
     formatting: 'minify',
     entry: './src/main.mjs',
+    base: '/2025',
   },
   optimizeDeps: {
     include: ['vue', 'vue-router'],
