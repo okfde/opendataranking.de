@@ -32,6 +32,14 @@
 
             <div class="flex flex-col gap-x-2 md:flex-row">
               <span
+                v-if="detail.new"
+                class="bg-orange-100 text-orange-700 flex gap-1.5 self-baseline text-sm mt-1 pt-0.5 pb-0.5 pl-1 pr-1 leading-4.5 rounded-sm"
+                title="Neues Kriterium in 2026">
+                <i-mdi-creation role="presentation" />
+                <span>Neu</span>
+              </span>
+
+              <span
                 class="underline underline-offset-4 group-hover:decoration-transparent shrink-0"
                 :class="{ 'font-bold': visible(detail) }">
                 {{ detail.title }}

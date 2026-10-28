@@ -160,6 +160,7 @@
   category: datenrealitaet
 - title: Freie Lizenzen
   slug: freie-lizenzen
+  new: true
   description:
     Angemessene und freie Nutzungsbedingungen sind für die Weiterverwendung von Daten unerlässlich.
     Neben der privaten Nutzung sollte auch die kommerzielle Nutzung der Daten uneingeschränkt möglich sein, am besten über eine Creative Commons BY-Lizenz oder Zero-Lizenz bei GovData.

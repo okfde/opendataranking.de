@@ -35,12 +35,15 @@ export async function getStates() {
         const details = attributes.criteria
           ?.filter((c) => category.criteriaTitles.includes(c.title))
           .map((criterium) => {
-            const { maxPoints, slug } = criteria.find(
-              (c) => c.title === criterium.title,
-            );
+            const {
+              maxPoints,
+              slug,
+              new: isNew = false,
+            } = criteria.find((c) => c.title === criterium.title);
 
             return {
               ...criterium,
+              new: isNew,
               slug,
               maxPoints,
               id: idCounter++,
