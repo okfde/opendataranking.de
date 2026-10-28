@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="591.6" height="845.13" viewBox="0 0 591.6 845.13" aria-label="Karte von Deutschland eingestellt in Bundesländer eingefährt je nach Erreichen der vollen Punktzahl (Heat Map)">
   <defs>
     <linearGradient id="g">
-      <stop offset="0" stop-color="#99afac"/>
-      <stop offset=".5" stop-color="#335f59"/>
-      <stop offset="1" stop-color="#07423a"/>
+      <stop offset="0" stop-color="#c2b096"/>
+      <stop offset=".25" stop-color="#c5875c"/>
+      <stop offset=".5" stop-color="#b8544d"/>
+      <stop offset=".75" stop-color="#b0303a"/>
+      <stop offset="1" stop-color="#853b3b"/>
     </linearGradient>
   </defs>
   <g stroke="#fdfdfd" stroke-width=".5" transform="translate(.037 -.002)">

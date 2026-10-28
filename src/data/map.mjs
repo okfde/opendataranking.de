@@ -10,7 +10,9 @@ import { compileTemplate } from '@vue/compiler-sfc';
 const MAP = path.join(import.meta.dirname, 'map.svg');
 let handle;
 
-const scale = chroma.scale(['#99afac', '#335f59', '#07423a']).domain([0, 100]);
+const scale = chroma
+  .scale(['#c2b096', '#c5875c', '#b8544d', '#b0303a', '#853b3b'])
+  .domain([0, 100]);
 
 async function renderSvg() {
   const states = await getStates(false);
