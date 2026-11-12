@@ -51,6 +51,7 @@
               </span>
 
               <trend-indicator
+                v-if="detail.points[2025] !== undefined"
                 class="self-start mt-0.5"
                 :current="detail.points[2026]"
                 :previous="detail.points[2025]"
@@ -112,7 +113,7 @@
               <span v-html="criteria[detail.title]" />
             </p>
 
-            <p>
+            <p v-if="detail.points[2025] !== undefined">
               <strong>Trend: </strong>
               <span v-html="trendLabel(detail)" />
             </p>
