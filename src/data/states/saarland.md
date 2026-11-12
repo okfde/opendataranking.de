@@ -184,6 +184,11 @@ criteria:
       2025: 0
     citations:
       - text: 'nicht vorhanden'
+  - title: Bereitstellende Verwaltungseinheit
+    points:
+      2026: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points:
       2026: 1
@@ -240,24 +245,27 @@ criteria:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://www.landtag-saar.de/suche?searchValue=&OnlyTitle=false&Categories=Print,PlenaryProtocol,Law,PublicConsultation,Operations&DateFrom=&DateTo=&periods=&SortValue=Erscheinungsdatum&SortOrder=desc&tab=Doc&DocumentPage=true&Page=1&ActiveTab=2
 stats:
-  lastUpdate: 2025-01-15
+  lastUpdate: 2026-01-15
   items:
     - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze 2024 aktualisiert gesamt
+    - text: Datensätze 2025 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2024 neu erstellt gesamt
+    - text: Datensätze 2025 neu erstellt gesamt
       value: 0
-    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
+    - text: Hochwertige Datensätze 2025 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
+    - text: Datensätze 2025 aktualisiert in Formaten CSV/XML/JSON 
       value: 0
-    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
+    - text: Datensätze 2025 aktualisiert in GIS-Formaten (gml,geojson,shp,etc.)
       value: 0
-    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
+    - text: Datensätze 2025 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
+    - text: Datensätze mit dcat:politicalGeocodingURI
+      value: 0 
+    - text: Datensätze 2025 aktualisiert mit CC0-Lizenz
+      value: 0
+    - text: Datensätze 2025 aktualisiert mit CC-BY-4.0-Lizenz
       value: 0
 ---
-
-Das Saarland hatte 2024 den Vorsitz der für GovData zuständigen Bund-Länder-Fachgruppe inne und hat passenderweise sein E-Governmentgesetz um einen Open-Data-Paragrafen ergänzt. Dabei folgt das Bundesland dem Beispiel Hessens oder Brandenburgs und kündigt die Schaffung einer zentralen Informationsstelle sowie einer zusätzlichen Open-Data-Verordnung an. Viel mehr als diese ersten Ansätze gibt es in Sachen Open Data aus dem Saarland derzeit noch nicht zu beobachten.
+Seit die Open-Data-Regelung im Jahr 2024 verabschiedet wurde, hat sich im Saarland bisher wenig Sichtbares getan. Laut der Open-Data-Umfrage ist im Hintergrund jedoch einiges in Bewegung: Ein Open-Data-Portal soll planmäßig Ende 2026 produktiv werden und es soll Personal zur Verfügung gestellt werden. 

@@ -192,6 +192,11 @@ criteria:
       2025: 0
     citations:
       - text: 'nicht vorhanden'
+  - title: Bereitstellende Verwaltungseinheit
+    points:
+      2026: 0
+    citations:
+      - text: 'nicht vorhanden'
   - title: Open-Data-Beauftragte
     points:
       2026: 0
@@ -244,24 +249,27 @@ criteria:
       - text: 'Veröffentlichung dauert unter einer Woche'
         link: https://parldok.thueringer-landtag.de/ParlDok/neuedokumente
 stats:
-  lastUpdate: 2025-01-15
+  lastUpdate: 2026-01-15
   items:
     - text: Datensätze bei GovData gesamt
       value: 0
-    - text: Datensätze 2024 aktualisiert gesamt
+    - text: Datensätze 2025 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2024 neu erstellt gesamt
+    - text: Datensätze 2025 neu erstellt gesamt
       value: 0
-    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
+    - text: Hochwertige Datensätze 2025 aktualisiert gesamt
       value: 0
-    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
+    - text: Datensätze 2025 aktualisiert in Formaten CSV/XML/JSON 
       value: 0
-    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
+    - text: Datensätze 2025 aktualisiert in GIS-Formaten (gml,geojson,shp,etc.)
       value: 0
-    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
+    - text: Datensätze 2025 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
+    - text: Datensätze mit dcat:politicalGeocodingURI
+      value: 0 
+    - text: Datensätze 2025 aktualisiert mit CC0-Lizenz
+      value: 0
+    - text: Datensätze 2025 aktualisiert mit CC-BY-4.0-Lizenz
       value: 0
 ---
-
-Thüringen liefert nach wie vor keine Daten an GovData. Auch beim E-Government- und Transparenzgesetz sowie den Rahmenbedingungen verharrt der Freistaat auf der Stelle, obwohl es einige spannende Projekte im Land gibt, beispielsweise in der Stadt Jena oder bei der Projektgruppe „Semantische Interoperabilität” des IT-Planungsrates, die ebenfalls in Thüringen ansässig ist.
+Thüringen liefert nach wie vor keine Daten an GovData. Auch beim E-Government- und Transparenzgesetz sowie den Rahmenbedingungen verharrt der Freistaat auf der Stelle. Leider brachten auch die Antworten bei der Open-Data-Umfrage keine neuen Erkenntnisse, da sie sich ausschließlich auf Geodaten bezogen.
