@@ -13,7 +13,7 @@
         </span>
 
         <span class="text-gray-500 whitespace-nowrap">
-          {{ achievedPoints }} von {{ category.maxPoints }} Punkten
+          {{ achievedPoints }} von {{ category.maxPoints[2026] }} Punkten
         </span>
       </h3>
 
@@ -46,7 +46,7 @@
               </span>
 
               <span class="text-gray-500 whitespace-nowrap">
-                {{ detail.points[2026] }} von {{ detail.maxPoints }}
+                {{ detail.points[2026] }} von {{ detail.maxPoints[2026] }}
                 <span class="sr-only">Punkten</span>
               </span>
 
@@ -54,7 +54,7 @@
                 class="self-start mt-0.5"
                 :current="detail.points[2026]"
                 :previous="detail.points[2025]"
-                :title="`2025: ${detail.points[2025]} von ${detail.maxPoints}`"
+                :title="`2025: ${detail.points[2025]} von ${detail.maxPoints[2025]}`"
                 :label="trendLabel(detail)" />
             </div>
           </button>
@@ -62,7 +62,7 @@
           <div
             class="ml-8 md:ml-auto justify-end py-1 md:max-w-[50%] text-balance md:text-right">
             <div
-              v-for="(_, iii) in Array(detail.maxPoints)"
+              v-for="(_, iii) in Array(detail.maxPoints[2026])"
               :key="iii"
               class="inline">
               <div

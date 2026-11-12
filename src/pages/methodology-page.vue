@@ -39,7 +39,7 @@
         <h2
           :id="category.slug"
           class="text-2xl md:text-4xl mt-12 mb-4 text-blue font-bold">
-          <span v-html="category.title" /> ({{ category.maxPoints }}
+          <span v-html="category.title" /> ({{ category.maxPoints[2026] }}
           Punkte)
         </h2>
 

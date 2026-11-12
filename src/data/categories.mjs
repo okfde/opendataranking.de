@@ -17,16 +17,15 @@ export async function getCategories() {
       (c) => c.category === slug || title === 'Gesamt',
     );
     const criteriaTitles = correspondingCriteria.map((c) => c.title);
-    const maxPoints = correspondingCriteria.reduce(
-      (a, c) => a + c.maxPoints,
-      0,
-    );
 
     return {
       title,
       slug,
       criteriaTitles,
-      maxPoints,
+      maxPoints: {
+        2026: correspondingCriteria.reduce((a, c) => a + c.maxPoints[2026], 0),
+        2025: correspondingCriteria.reduce((a, c) => a + c.maxPoints[2025], 0),
+      },
       color,
       description: description ? markdown(description) : null,
       methodology: methodology ? markdown(methodology) : null,

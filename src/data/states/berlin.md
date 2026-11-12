@@ -4,7 +4,7 @@ short: BE
 criteria:
   - title: Rechtsanspruch auf Open Data
     points:
-      2026: 2
+      2026: 0
       2025: 0
     citations:
       - text: '§2 OpenDataV'
@@ -22,7 +22,7 @@ criteria:
     text: E-Government-Gesetz mit Open-Data-Verordnung
   - title: Evaluation
     points:
-      2026: 0
+      2026: 1
       2025: 1
     citations:
       - text: 'keine Erwähnung'

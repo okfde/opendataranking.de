@@ -19,7 +19,7 @@ async function overview() {
         ({ categorySlug }) => categorySlug === slug,
       );
 
-      const percentage = pointPercentage(achievedPoints, maxPoints);
+      const percentage = pointPercentage(achievedPoints, maxPoints[2026]);
 
       bars[slug].states.push({
         state: { slug: state.slug, name: state.name, short: state.short },
