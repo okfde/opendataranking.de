@@ -272,4 +272,4 @@ stats:
     - text: Datensätze 2025 aktualisiert mit CC-BY-4.0-Lizenz
       value: 0
 ---
-Thüringen liefert nach wie vor keine Daten an GovData. Auch beim E-Government- und Transparenzgesetz sowie den Rahmenbedingungen verharrt der Freistaat auf der Stelle. Leider brachten auch die Antworten bei der Open-Data-Umfrage keine neuen Erkenntnisse, da sie sich ausschließlich auf Geodaten bezogen.
+Thüringen liefert nach wie vor keine Daten an GovData. Auch beim E-Government- und Transparenzgesetz sowie den Rahmenbedingungen verharrt der Freistaat auf der Stelle. Leider brachten auch die Antworten auf die Open-Data-Umfrage keine neuen Erkenntnisse, da sie sich ausschließlich auf Geodaten bezogen.

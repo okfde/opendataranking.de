@@ -241,12 +241,12 @@ criteria:
         link: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html
   - title: Öffentlichkeitsarbeit
     points:
-      2026: 2
+      2026: 1
       2025: 2
     citations:
       - text: 'Open Data Forum'
         link: https://discourse.opencode.de/c/opendata/755
-    text: Beteiligungsformate bei Messen/Fachforum und Launch Open Data Forum bei OpenCoDe
+    text: Open Data Forum bei OpenCoDe, sonst weniger Aktivität
   - title: API/Schnittstelle
     points:
       2026: 1
@@ -311,5 +311,3 @@ Bislang lässt sich die im Fortschrittsbericht festgestellte geringe Priorität 
 Der aktuelle Stand von Open Government in der Bundesregierung zeigt sich auch in ihrem ausbleibenden Engagement im OGP-Netzwerk. 
 OGP steht für Open Government Partnership und ist der größte multilaterale Zusammenschluss rund um die Themen Transparenz und Verwaltungsmodernisierung, bei dem sich Länder zu Aktionsplänen verpflichten. Deutschland ist seit 2016 Mitglied, hat aber seit Regierungsantritt zumindest öffentlich keine Initiative gezeigt.
 Das Abschneiden des Bundes im Ranking in den Kategorien „Datenportal” und „Datenrealität” ist darauf zurückzuführen, dass es aktuell keine einheitliche Stelle gibt, über die Metadaten aus der Bundesverwaltung an GovData geliefert werden. Dementsprechend wurden die Kategorien Datenrealität und Datenportal im vorliegenden Ranking mit null Punkten bewertet. Pläne für einen solchen einheitlichen Übergabepunkt gibt es unter dem Namen "Open Data Editor" bereits seit 2019. Ein solches Tool wurde auch in Auftrag gegeben und die Maßnahme als abgeschlossen markiert - warum weiterhin nicht in Betrieb ist, ist für uns nicht nachvollziehbar.
-
-Das Abschneiden des Bundes im Ranking der Kategorien „Datenportal” und „Datenrealität” ist darauf zurückzuführen, dass es aktuell keine zentrale Stelle gibt, über die Metadaten aus der Bundesverwaltung an GovData übermittelt werden. Dementsprechend wurden die Kategorien „Datenrealität” und „Datenportal” im vorliegenden Ranking mit null Punkten bewertet. Pläne für einen solchen einheitlichen Übergabepunkt gibt es unter dem Namen „Open Data Editor” bereits seit 2019, ein entsprechendes Tool wurde auch in Auftrag gegeben und die Maßnahme als abgeschlossen markiert. Warum dieses Tool jedoch immer noch nicht in Betrieb ist, ist für uns nicht nachvollziehbar.
