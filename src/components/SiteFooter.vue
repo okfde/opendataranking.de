@@ -10,12 +10,35 @@
         <div>
           <h3 class="text-2xl font-semibold mb-3">Die Erhebung</h3>
 
-          <p>
+          <p class="mb-6">
             Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen
             steht das Thema Open Data schon seit mehr als einer Dekade im Raum -
             wir haben den Stand von Open Data in Bund und Ländern für das Jahr
             2026 verglichen, um eine Diskussionsgrundlage zum Umsetzungsstand
             jenseits des reinen Zählens der verfügbaren Datensätze zu schaffen.
+          </p>
+
+          <p class="text-base pb-3 mb-3 border-b border-white/25">
+            <a
+              href="/2025/"
+              class="inline-flex items-center gap-2"
+              target="_blank"
+              ><span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Zur Ausgabe von 2025</span
+              ><i-mdi-arrow-right role="presentation"
+            /></a>
+          </p>
+          <p class="text-base">
+            <a
+              href="/2024/"
+              class="inline-flex items-center gap-2"
+              target="_blank"
+              ><span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Zur Ausgabe von 2024</span
+              ><i-mdi-arrow-right role="presentation"
+            /></a>
           </p>
         </div>
 
