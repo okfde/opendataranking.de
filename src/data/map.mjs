@@ -11,7 +11,7 @@ const MAP = path.join(import.meta.dirname, 'map.svg');
 let handle;
 
 const scale = chroma
-  .scale(['#c2b096', '#c5875c', '#b8544d', '#b0303a', '#853b3b'])
+  .scale(['#e999ff', '#c900ff', '#7600c4', '#470074'])
   .domain([0, 100]);
 
 async function renderSvg() {
