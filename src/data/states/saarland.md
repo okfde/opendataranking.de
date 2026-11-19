@@ -268,4 +268,4 @@ stats:
     - text: Datensätze 2025 aktualisiert mit CC-BY-4.0-Lizenz
       value: 0
 ---
-Seit die Open-Data-Regelung im Jahr 2024 verabschiedet wurde, hat sich im Saarland bisher wenig Sichtbares getan. Laut der Open-Data-Umfrage ist im Hintergrund jedoch einiges in Bewegung. So soll planmäßig Ende 2026 ein Open-Data-Portal produktiv werden und es soll Personal zur Verfügung gestellt werden.
+Seit die Open-Data-Regelung im Jahr 2024 verabschiedet wurde, hat sich im Saarland bisher wenig Sichtbares getan. Laut der Open-Data-Umfrage ist im Hintergrund jedoch einiges in Bewegung. So soll planmäßig Ende 2026 ein Open-Data-Portal live gehen und zukünftig auch Personal für das Thema zur Verfügung stehen.
