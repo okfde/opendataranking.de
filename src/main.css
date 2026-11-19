@@ -1,12 +1,44 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@import '@fontsource/hanken-grotesk/latin-400.css';
+@import '@fontsource/hanken-grotesk/latin-600.css';
+@import '@fontsource/hanken-grotesk/latin-700.css';
+
+@source ".";
+
+@theme {
+  --font-sans: 'Hanken Grotesk', 'sans-serif';
+  --color-blue: #43388c;
+  --color-blue-50: #f6f5f9;
+  --color-blue-100: #ecebf4;
+  --color-blue-200: #d0cde2;
+  --color-blue-300: #b4afd1;
+  --color-blue-400: #7b74af;
+  --color-blue-500: #43388c;
+  --color-blue-600: #3c327e;
+  --color-blue-700: #282254;
+  --color-blue-800: #1e193f;
+  --color-blue-900: #14112a;
+  --text-xl: 1.265625rem;
+  --text-2xl: 1.40625rem;
+  --text-xl--line-height: calc(1.75 / 1.125);
+  --text-2xl--line-height: calc(1.75 / 1.125);
+}
 
 :focus-visible,
 :-moz-focusring {
   @apply outline-blue-800 outline-8 outline-offset-2 ring;
 }
 
+/* Anchor targets get focused by the VitePress router, but aren't controls. */
+[tabindex='-1']:focus {
+  @apply outline-none ring-0;
+}
+
 .break-out {
   margin-inline: calc((100vw - 100%) / -2);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 1.5rem;
 }

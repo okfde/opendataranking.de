@@ -4,7 +4,7 @@ import eslintPluginPrettierRecommended from 'eslint-plugin-prettier/recommended'
 export default [
   ...pluginVue.configs['flat/recommended'],
   {
-    ignores: ['node_modules', 'dist', '.vscode', 'public', '.vite-ssg-temp'],
+    ignores: ['node_modules', 'dist', '.vscode', 'public', '.vitepress/cache'],
   },
   {
     rules: {

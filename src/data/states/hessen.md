@@ -3,13 +3,17 @@ name: Hessen
 short: HE
 criteria:
   - title: Rechtsanspruch auf Open Data
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: '§5 Abs. 1 HODag'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP5
     text: Ein Anspruch auf die Bereitstellung von Daten besteht explizit nicht.
   - title: Gesetzeslage
-    points: 2
+    points:
+      2026: 2
+      2025: 2
     citations:
       - text: 'HODaG (2023)'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
@@ -17,178 +21,277 @@ criteria:
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-EGovGHErahmen
     text: Open-Data-Gesetz
   - title: Evaluation
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§6 Abs. 1 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP6
     text: Evaluation drei Jahre nach Erscheinen des Open-Data-Gesetzes, dann alle vier Jahre mit wissenschaftlicher Unterstützung
   - title: Behördendefinition
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§1 Abs. 1 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
     text: Behörden des Landes. Gemeinden, Gemeindeverbände und Landkreise sind nicht verpflichtet
   - title: Anstalten, Körperschaften, Unternehmen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Forschungsdaten
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: '§1 Abs. 4, Satz 4 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
     text: Forschungsdaten explizit ausgenommen
   - title: Ausnahmen
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§1 Abs. 2 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
     text: Hessischer Landtag & Fraktionen bei parlamentarischen Aufgaben (inkl. Rechtsgutachten); Einschränkungen bei Justiz; Schulen; Beauftragte für Datenschutz und Beauftragte für Menschen mit Behinderungen; Polizeibehörden und Landesamt für Verfassungsschutz
   - title: Pauschale Ausschlusskriterien
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§1 Abs. 4 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
     text: Mehr als ein Dutzend Ausnahmen, darunter Datenschutz, das Urheberrecht, das Wettbewerbsrecht, Geschäftsgeheimnisse und nationale Sicherheit
   - title: Datenkatalog
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Rohdaten
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§1 Abs. 1, 3 HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
     text: Maschinenlesbare unbearbeitete Daten, die sie selbst zur Erfüllung ihrer Aufgaben erhoben haben
   - title: Daten im Auftrag von Dritten
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§1 Abs. 1, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP1
   - title: Offenheit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§4 Abs. 1, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP4
   - title: Maschinenlesbarkeit
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Aktualität
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Dauerhaftigkeit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§4 Abs. 3, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP4
   - title: Lizenz
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§4 Abs. 3, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP4
   - title: Schnittstellen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine Erwähnung'
   - title: Diskriminierungsfreiheit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§5 Abs. 1, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP5
   - title: Kostenfreiheit
-    points: 1
+    points:
+      2026: 1
+      2025: 1
     citations:
       - text: '§3 Abs. 1, HODaG'
         link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP3
   - title: Portal für Open Data
-    points: 0
+    points:
+      2026: 6
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'Hessen Open Data (2025)'
+        link: 'https://opendata.hessen.de/'
   - title: Portal-Schnittstellen
-    points: 0
+    points:
+      2026: 3
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'Schnittstellen mit Hilfestellung'
+        link: 'https://opendata.hessen.de/pages/offene-daten-bereitstellen'
   - title: API mit Dokumentation
-    points: 0
+    points:
+      2026: 3
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'APIs mit Beschreibung'
+        link: 'https://opendata.hessen.de/pages/schnittstellen-lesend'
   - title: SPARQL-Abfragen
-    points: 0
+    points:
+      2026: 3
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'SPARQL-Abfragen möglich'
+        link: 'https://opendata.hessen.de/sparql'
   - title: Aktualität der Daten
-    points: 0
+    points:
+      2026: 1
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'weniger als ein Viertel des Datenbestands aktualisiert'
+        link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    text: Für den Vergleichszeitraum 2025 wurden 23,42% auf das Gesamtdatenvorkommen bezogen neu erstellt oder aktualisiert (266 von 1136)
   - title: Linked Data
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'es wurden keine Linked Data veröffentlicht'
+        link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithLD)%20AS%20%3FdatasetsWithLD)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%0A%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20FILTER((CONTAINS(LCASE(STR(%3Fformat))%2C%20%22rdf%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22turtle%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22n3%22)%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22jsonld%22))))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithLD)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    text: Für den Vergleichszeitraum 2025 gab es keine Datensätze in einem Linked-Data-Format
   - title: Freie Lizenzen
-    points: 0
+    points:
+      2026: 4
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'mehr als zwei Drittel der aktualisierten Daten steht unter CC-BY-4.0/CC0-Lizenz'
+        link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%0ASELECT%20%3Flabel%20%3Fcount%0AWHERE%20%7B%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(STR(%3FlicenseURI)%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%20%20GROUP%20BY%20%3FlicenseURI%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_BY%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%20%20%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22http%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_ZERO%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22TOTAL_MODIFIED_DATASETS%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AORDER%20BY%20%3Flabel%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    text: Für den Vergleichszeitraum 2025 wurden 89,10% der aktualisierten Datensätze mindestens mit CC-BY-4.0 versehen (237 von 266); der Anteil an CC0 beträgt 57,89% (154 von 266)
   - title: Hochwertige Datensätze
-    points: 0
+    points:
+      2026: 2
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'es wurden HVD veröffentlicht'
+        link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0APREFIX%20dcatap%3A%20%3Chttp%3A%2F%2Fdata.europa.eu%2Fr5r%2F%3E%0A%0ASELECT%20%0A%20%20%3Fcategory%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FdatasetCount)%0A%20%20(%3FtotalCount%20AS%20%3FtotalDatasetCount)%0AWHERE%20%7B%0A%20%20%23%20Main%20query%20for%20per-category%20counts%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%0A%20%20%23%20Subquery%20for%20total%20count%20across%20all%20categories%0A%20%20%7B%0A%20%20%20%20SELECT%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FtotalCount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%20%20%20%20%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AGROUP%20BY%20%3Fcategory%20%3FtotalCount&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    text: Für den Vergleichszeitraum 2025 gab es 100 Hochwertige Datensätze aus 2 verschiedenen Kategorien, auf dem Landesportal werden HVD extra deklariert
+  - title: Bereitstellende Verwaltungseinheit
+    points:
+      2026: 2
+    citations:
+      - text: 'Information bei mehr als einem Viertel der Datensätze vorhanden'
+        link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20dcatde%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fdcatde%2F%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0ASELECT%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FtotalDatasets)%0A%20%20(COUNT(DISTINCT%20%3FhasGeoURI)%20AS%20%3FwithPoliticalGeocodingURI)%0A%20%20(COUNT(DISTINCT%20%3FhasGeoLevel)%20AS%20%3FwithPoliticalGeocodingLevelURI)%0A%0AWHERE%20%7B%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcatde%3ApoliticalGeocodingURI%20%3FgeoURI%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FhasGeoURI)%0A%20%20%7D%0A%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcatde%3ApoliticalGeocodingLevelURI%20%3FgeoLevelURI%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FhasGeoLevel)%0A%20%20%7D%0A%7D%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    text: Am Stichtag war bei 68,66% der Datensätze das Feld dcat:politicalGeocodingURI ausgefüllt (780 von 1136)
   - title: Open-Data-Beauftragte
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Open-Data-Beratungsstelle
-    points: 1
+    points:
+      2026: 2
+      2025: 1
     citations:
-      - text: '§3 Abs. 1, HODaG'
-        link: https://www.rv.hessenrecht.hessen.de/perma?d=jlr-OpenDataGHEpP3
-    text: Ja, laut Gesetz, aber aktuell noch nicht umgesetzt
+      - text: 'Zentrale Stelle Open Data Hessen/Servicestelle Open Data'
+        link: 'https://opendata.hessen.de/pages/infos-zur-datenveroeffentlichung'
+    text: Ja, mit Gesetzesgrundlage
   - title: Open-Data-Labore
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'nicht vorhanden'
   - title: Unterstützungsangebote für Kommunen
-    points: 0
+    points:
+      2026: 1
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'Webinare; Möglichkeit für kommunale Präsenz'
   - title: Öffentlichkeitsarbeit
-    points: 0
+    points:
+      2026: 1
+      2025: 0
     citations:
-      - text: 'nicht vorhanden'
+      - text: 'Teilnahme bei Fachveranstaltungen, aktiver Blog & Austausch mit Nutzenden'
   - title: API/Schnittstelle
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine API'
         link: https://starweb.hessen.de/portal/browse.tt.html
   - title: Maschinenlesbarkeit von Plenarprotokollen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'keine maschinenlesbare Protokolle'
         link: https://starweb.hessen.de/portal/browse.tt.html
   - title: Aktualität von Plenarprotokollen
-    points: 0
+    points:
+      2026: 0
+      2025: 0
     citations:
       - text: 'Veröffentlichung dauert länger als eine Woche'
         link: https://starweb.hessen.de/portal/browse.tt.html
 stats:
-  lastUpdate: 2025-01-15
+  lastUpdate: 2026-01-15
   items:
     - text: Datensätze bei GovData gesamt
+      value: 1136
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20foaf%3A%20%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0ASELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3Fname)%20AS%20%3Ftotal_unique_publishers)%0AWHERE%20%7B%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%3Fdataset%20dct%3Apublisher%20%3Fpublisher%20.%0A%20%20%3Fpublisher%20foaf%3Aname%20%3Fname%20.%0A%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%7D%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 aktualisiert
+      value: 266
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Aissued%20%3Fissued%20.%0A%20%20%20%20FILTER(YEAR(%3Fissued)%20%3D%202025)%20.%0A%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 neu erstellt 
+      value: 266
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Aissued%20%3Fissued%20.%0A%20%20%20%20FILTER(YEAR(%3Fissued)%20%3D%202025)%20.%0A%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Hochwertige Datensätze 2025 aktualisiert 
+      value: 100
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0APREFIX%20dcatap%3A%20%3Chttp%3A%2F%2Fdata.europa.eu%2Fr5r%2F%3E%0A%0ASELECT%20%0A%20%20%3Fcategory%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FdatasetCount)%0A%20%20(%3FtotalCount%20AS%20%3FtotalDatasetCount)%0AWHERE%20%7B%0A%20%20%23%20Main%20query%20for%20per-category%20counts%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%0A%20%20%23%20Subquery%20for%20total%20count%20across%20all%20categories%0A%20%20%7B%0A%20%20%20%20SELECT%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FtotalCount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%20%20%20%20%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AGROUP%20BY%20%3Fcategory%20%3FtotalCount&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 aktualisiert in Formaten CSV/XML/JSON
+      value: 9
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithPDF)%20AS%20%3FdatasetsWithPDF)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithXLS)%20AS%20%3FdatasetsWithXLS)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithCSVXMLJSON)%20AS%20%3FdatasetsWithCSVXMLJSON)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22pdf%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithPDF)%0A%20%20%20%20%7D%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22xls%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithXLS)%0A%20%20%20%20%7D%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20%20%20FILTER(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22csv%22)%7C%7C%20CONTAINS(LCASE(STR(%3Fformat))%2C%20%22xml%22)%20%7C%7C%20CONTAINS(LCASE(STR(%3Fformat))%2C%20%22json%22))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithCSVXMLJSON)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 aktualisiert in GIS-Formaten (gml,geojson,shp,etc.)
+      value: 257
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithGisdata)%20AS%20%3FdatasetsWithGisdata)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%0A%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20FILTER((CONTAINS(LCASE(STR(%3Fformat))%2C%20%22geo%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22gml%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22gpx%22)%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22kml%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22gpkg%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22shp%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22shape%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22tiff%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22wfs%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22wms%22))%20))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithGisdata)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 in Linked-Data-Formaten bereitgestellt
       value: 0
-    - text: Datensätze 2024 aktualisiert gesamt
-      value: 0
-    - text: Datensätze 2024 neu erstellt gesamt
-      value: 0
-    - text: Hochwertige Datensätze 2024 aktualisiert gesamt
-      value: 0
-    - text: Datensätze 2024 aktualisiert in Formaten CSV/XML/JSON
-      value: 0
-    - text: Datensätze 2024 in Linked-Data-Formaten bereitgestellt
-      value: 0
-    - text: Datensätze 2024 aktualisiert mit Zero-Lizenz oder lizenzfrei
-      value: 0
-    - text: Datensätze 2024 aktualisiert mit BY-Lizenz
-      value: 0
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%20SELECT%20%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Ftotal_datasets)%0A%20%20(COUNT(DISTINCT%20%3FdatasetWithLD)%20AS%20%3FdatasetsWithLD)%0A%0A%0A%20%20WHERE%20%7B%0A%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%20.%0A%0A%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdistribution1%20.%0A%20%20%20%20%20%20%3Fdistribution1%20dct%3Aformat%20%3Fformat%20.%0A%20%20%20%20FILTER((CONTAINS(LCASE(STR(%3Fformat))%2C%20%22rdf%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22turtle%22))%20%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22n3%22)%7C%7C%20(CONTAINS(LCASE(STR(%3Fformat))%2C%20%22jsonld%22))))%0A%20%20%20%20%20%20BIND(%3Fdataset%20AS%20%3FdatasetWithLD)%0A%20%20%20%20%7D%0A%20%7D&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze mit dcat:politicalGeocodingURI 
+      value: 780
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20dcatde%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fdcatde%2F%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0ASELECT%0A%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3FtotalDatasets)%0A%20%20(COUNT(DISTINCT%20%3FhasGeoURI)%20AS%20%3FwithPoliticalGeocodingURI)%0A%20%20(COUNT(DISTINCT%20%3FhasGeoLevel)%20AS%20%3FwithPoliticalGeocodingLevelURI)%0A%0AWHERE%20%7B%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcatde%3ApoliticalGeocodingURI%20%3FgeoURI%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FhasGeoURI)%0A%20%20%7D%0A%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fdataset%20dcatde%3ApoliticalGeocodingLevelURI%20%3FgeoLevelURI%20.%0A%20%20%20%20BIND(%3Fdataset%20AS%20%3FhasGeoLevel)%0A%20%20%7D%0A%7D%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 aktualisiert mit CC0-Lizenz
+      value: 154
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%0ASELECT%20%3Flabel%20%3Fcount%0AWHERE%20%7B%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(STR(%3FlicenseURI)%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AmecklenburgVorpommern%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%20%20GROUP%20BY%20%3FlicenseURI%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_BY%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AmecklenburgVorpommern%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%20%20%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22http%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AmecklenburgVorpommern%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_ZERO%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AmecklenburgVorpommern%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22TOTAL_MODIFIED_DATASETS%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AmecklenburgVorpommern%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AORDER%20BY%20%3Flabel%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'
+    - text: Datensätze 2025 aktualisiert mit CC-BY-4.0-Lizenz
+      value: 83
+      link: 'https://www.govdata.de/sparql-assistent#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20dct%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0APREFIX%20contributor%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2F%3E%0A%0A%0ASELECT%20%3Flabel%20%3Fcount%0AWHERE%20%7B%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(STR(%3FlicenseURI)%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%20%20GROUP%20BY%20%3FlicenseURI%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_BY%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%0A%20%20%20%20%20%20VALUES%20%3FlicenseURI%20%7B%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-sa%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nd%2F4.0%3E%0A%20%20%20%20%20%20%20%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-by-nc%2F4.0%3E%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3FlicenseURI%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%20%20%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22http%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22SUM_CC_ZERO%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%0A%20%20%20%20%20%20%3Fdataset%20dcat%3Adistribution%20%3Fdist%20.%0A%20%20%20%20%20%20%3Fdist%20dct%3Alicense%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Flicenses%2Fcc-zero%3E%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20UNION%0A%0A%20%20%7B%0A%20%20%20%20SELECT%0A%20%20%20%20%20%20(%22TOTAL_MODIFIED_DATASETS%22%20AS%20%3Flabel)%0A%20%20%20%20%20%20(COUNT(DISTINCT%20%3Fdataset)%20AS%20%3Fcount)%0A%20%20%20%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%20%20%20%20%3Fdataset%20%3FcontributorIDpredicate%20contributor%3AopenDataHessen%20.%0A%20%20%20%20%20%20%3Fdataset%20dct%3Amodified%20%3Fmodified%20.%0A%20%20%20%20%20%20FILTER(YEAR(%3Fmodified)%20%3D%202025)%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0AORDER%20BY%20%3Flabel%0A&endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&requestMethod=GET&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table'  
 ---
-Daten aus Hessen sind bei GovData für 2024 nur zu finden, wenn sie von anderen Behörden oder Städten, wie beispielsweise Frankfurt am Main, stammen. Darüber hinaus bleiben die Open-Data-Bestrebungen auf Landesebene nach der Verabschiedung des Open-Data-Gesetzes im Frühjahr 2023 weiterhin im Dunkeln. Wir warten gespannt. 
+Hessen hat im Jahr 2025 den größten Sprung im Ranking gemacht. Es gibt ein neu entwickeltes Datenportal, das dem Stand der Technik entspricht. Zudem macht die neu entstandene Zentrale Stelle für Open Data Hoffnung, dass das Thema in Hessen ganzheitlich als Teil der Verwaltungsmodernisierung betrachtet wird. So wird Wert auf die automatisierte Anbindung von Prozessen gelegt und es finden Austauschformate und Workshops für Behörden statt.

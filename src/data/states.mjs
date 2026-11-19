@@ -34,26 +34,38 @@ export async function getStates() {
         const details = attributes.criteria
           ?.filter((c) => category.criteriaTitles.includes(c.title))
           .map((criterium) => {
-            const { maxPoints, description } = criteria.find(
-              (c) => c.title === criterium.title,
-            );
+            const {
+              maxPoints,
+              slug,
+              new: isNew = false,
+            } = criteria.find((c) => c.title === criterium.title);
 
             return {
               ...criterium,
+              new: isNew,
+              slug,
               maxPoints,
-              description: markdown(description, true),
               id: idCounter++,
             };
           });
 
         const achievedPoints = getPoints(attributes, category.criteriaTitles);
-        const percentage = pointPercentage(achievedPoints, category.maxPoints);
+        const percentage = pointPercentage(
+          achievedPoints,
+          category.maxPoints[2026],
+        );
+
+        const previousPercentage = pointPercentage(
+          getPoints(attributes, category.criteriaTitles, '2025'),
+          category.maxPoints[2025],
+        );
 
         return {
           categorySlug: category.slug,
           details,
           achievedPoints,
           percentage,
+          previousPercentage,
         };
       });
 
@@ -70,7 +82,7 @@ export async function getStates() {
   return states;
 }
 
-export function getPoints(state, criteriaTitles) {
+export function getPoints(state, criteriaTitles, year = '2026') {
   let achievedPoints = 0;
 
   if (state.criteria) {
@@ -78,10 +90,20 @@ export function getPoints(state, criteriaTitles) {
       criteriaTitles.includes(c.title),
     );
 
-    achievedPoints = stateCriteria.reduce((a, c) => a + (c.points ?? 0), 0);
+    achievedPoints = stateCriteria.reduce(
+      (a, c) => a + (c.points[year] ?? 0),
+      0,
+    );
   }
 
   return achievedPoints;
 }
 
-export default serveVirtualFile('states', getStates);
+export default serveVirtualFile('states', async () =>
+  (await getStates()).map(({ slug, name, short, type }) => ({
+    slug,
+    name,
+    short,
+    type,
+  })),
+);
