@@ -15,15 +15,16 @@ async function overview() {
     bars[slug].description = description;
 
     for (const state of states) {
-      const { achievedPoints } = state.performance.find(
+      const { achievedPoints, previousPercentage } = state.performance.find(
         ({ categorySlug }) => categorySlug === slug,
       );
 
-      const percentage = pointPercentage(achievedPoints, maxPoints);
+      const percentage = pointPercentage(achievedPoints, maxPoints[2026]);
 
       bars[slug].states.push({
         state: { slug: state.slug, name: state.name, short: state.short },
         percentage,
+        previousPercentage,
       });
     }
 

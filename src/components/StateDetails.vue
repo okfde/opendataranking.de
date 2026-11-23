@@ -7,13 +7,13 @@
       :id="category.slug"
       class="border border-blue rounded p-3 md:p-6 shadow-sm"
       :class="{ 'mt-8': i > 0 }">
-      <h3 class="flex flex-col mb-3 text-l md:text-xl gap-x-3 md:flex-row">
+      <h3 class="flex flex-col mb-3 text-xl md:text-2xl gap-x-3 md:flex-row">
         <span class="font-semibold text-blue">
           {{ category.title }}
         </span>
 
-        <span class="text-gray-500">
-          {{ achievedPoints }} von {{ category.maxPoints }} Punkten
+        <span class="text-gray-500 whitespace-nowrap">
+          {{ achievedPoints }} von {{ category.maxPoints[2026] }} Punkten
         </span>
       </h3>
 
@@ -21,47 +21,63 @@
         v-for="(detail, ii) in details"
         :key="ii"
         :class="{ 'mb-1': ii + 1 < details.length }">
-        <div class="flex gap-x-10 flex-col md:flex-row">
+        <div :id="detail.slug" class="flex gap-x-10 flex-col md:flex-row">
           <button
-            class="flex group flex-shrink-0 w-100 gap-x-2 content-start text-left text-blue hover:text-gray-900"
+            class="cursor-pointer flex group shrink-0 w-100 gap-x-2 content-start text-left text-blue hover:text-gray-900"
             @click="toggle(detail)">
             <i-mdi-chevron-down
-              class="transform transition-transform duration-150 ease text-xl flex-shrink-0"
+              class="transform transition-transform duration-150 ease text-xl shrink-0"
               :class="{ '-rotate-180': visible(detail) }"
               role="presentation" />
 
             <div class="flex flex-col gap-x-2 md:flex-row">
               <span
-                class="underline underline-offset-4 group-hover:decoration-transparent flex-shrink-0"
+                v-if="detail.new"
+                class="bg-orange-100 text-orange-700 flex gap-1.5 self-baseline text-sm mt-1 pt-0.5 pb-0.5 pl-1 pr-1 leading-4.5 rounded-sm"
+                title="Neues Kriterium in 2026">
+                <i-mdi-creation role="presentation" />
+                <span>Neu</span>
+              </span>
+
+              <span
+                class="underline underline-offset-4 group-hover:decoration-transparent shrink-0"
                 :class="{ 'font-bold': visible(detail) }">
                 {{ detail.title }}
               </span>
 
-              <span class="text-gray-500">
-                {{ detail.points }} von {{ detail.maxPoints }}
+              <span class="text-gray-500 whitespace-nowrap">
+                {{ detail.points[2026] }} von {{ detail.maxPoints[2026] }}
                 <span class="sr-only">Punkten</span>
               </span>
+
+              <trend-indicator
+                v-if="detail.points[2025] !== undefined"
+                class="self-start mt-0.5"
+                :current="detail.points[2026]"
+                :previous="detail.points[2025]"
+                :title="`2025: ${detail.points[2025]} von ${detail.maxPoints[2025]}`"
+                :label="trendLabel(detail)" />
             </div>
           </button>
 
           <div
             class="ml-8 md:ml-auto justify-end py-1 md:max-w-[50%] text-balance md:text-right">
             <div
-              v-for="(_, iii) in Array(detail.maxPoints)"
+              v-for="(_, iii) in Array(detail.maxPoints[2026])"
               :key="iii"
               class="inline">
               <div
                 class="inline-block bg-gray-400 h-4 w-4 rounded mr-1 md:mr-0 md:ml-1"
                 :style="{
                   backgroundColor:
-                    iii < detail.points ? category.color : undefined,
+                    iii < detail.points[2026] ? category.color : undefined,
                 }" />
             </div>
           </div>
         </div>
 
         <div
-          class="ps-2 pt-2 pb-4 text-sm"
+          class="ps-2 pt-2 pb-4 text-base"
           :class="{ block: visible(detail), hidden: !visible(detail) }">
           <div class="border-s-8 ps-4">
             <p
@@ -92,9 +108,14 @@
               <span v-html="detail.text" />
             </p>
 
-            <p>
+            <p class="mb-2">
               <strong>Kriterienbeschreibung: </strong>
-              <span v-html="detail.description" />
+              <span v-html="criteria[detail.title]" />
+            </p>
+
+            <p v-if="detail.points[2025] !== undefined">
+              <strong>Trend: </strong>
+              <span v-html="trendLabel(detail)" />
             </p>
           </div>
         </div>
@@ -104,9 +125,10 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted, onBeforeUnmount } from 'vue';
+import criteria from '@data/criteria';
 
-defineProps({
+const props = defineProps({
   performance: {
     type: Array,
     default() {
@@ -121,6 +143,18 @@ function visible({ id }) {
   return visibleDetails.value.includes(id);
 }
 
+function trendLabel({ points }) {
+  if (points[2026] > points[2025]) {
+    return `verbessert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+  }
+
+  if (points[2026] < points[2025]) {
+    return `verschlechtert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+  }
+
+  return 'unverändert gegenüber 2025';
+}
+
 function toggle({ id }) {
   const index = visibleDetails.value.indexOf(id);
 
@@ -130,4 +164,25 @@ function toggle({ id }) {
     visibleDetails.value.splice(index, 1);
   }
 }
+
+function openFromHash() {
+  const slug = decodeURIComponent(window.location.hash.slice(1));
+  const detail = props.performance
+    .filter(({ category }) => category.slug !== 'gesamt')
+    .flatMap(({ details }) => details ?? [])
+    .find((d) => d.slug === slug);
+
+  if (detail && !visible(detail)) {
+    visibleDetails.value.push(detail.id);
+  }
+}
+
+onMounted(() => {
+  openFromHash();
+  window.addEventListener('hashchange', openFromHash);
+});
+
+onBeforeUnmount(() => {
+  window.removeEventListener('hashchange', openFromHash);
+});
 </script>

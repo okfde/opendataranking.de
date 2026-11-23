@@ -9,7 +9,7 @@
         :style="{ backgroundColor: color, width: `${progress}%` }" />
     </div>
 
-    <span class="h-full text-xs w-[7ch] text-right">{{ progress }} %</span>
+    <span class="h-full text-base w-[7ch] text-right">{{ progress }} %</span>
   </div>
 </template>
 

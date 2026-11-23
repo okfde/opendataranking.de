@@ -4,10 +4,11 @@
     <button
       v-for="(category, i) in categories"
       :key="i"
-      class="text-left px-3 py-1 border border-blue border-l-8 rounded-sm bg-blue-50 text-sm shrink-0 hyphens-manual"
+      class="text-left px-3 py-1 border border-blue border-l-8 rounded-sm bg-blue-50 text-base shrink-0 hyphens-manual"
       :class="{
         'bg-blue-200 font-semibold': category.slug === selected,
-        'hover:bg-gray-200 hover:underline': category.slug !== selected,
+        'cursor-pointer hover:bg-gray-200 hover:underline':
+          category.slug !== selected,
       }"
       :style="{ borderLeftColor: category.color }"
       :disabled="category.slug === selected"
@@ -15,25 +16,23 @@
       v-html="category.title" />
   </div>
 
-  <div
-    v-if="selectedCategory.description"
-    class="max-w-screen-md mb-12 mx-auto">
+  <div v-if="selectedCategory.description" class="max-w-3xl mb-12 mx-auto">
     <div class="grid gap-2" v-html="selectedCategory.description" />
 
     <p v-if="selectedCategory.slug !== 'gesamt'" class="mt-3">
-      <router-link
-        :to="`/methodik/#${selectedCategory.slug}`"
-        class="inline-flex text-sm text-blue gap-1 group items-center">
+      <a
+        :href="`/methodik/#${selectedCategory.slug}`"
+        class="inline-flex text-base text-blue gap-1 group items-center">
         <span class="group-hover:underline underline-offset-4"
           >Mehr Informationen</span
         >
         <i-mdi-arrow-right role="presentation" />
-      </router-link>
+      </a>
     </p>
   </div>
 
   <table
-    class="max-w-screen-md mb-4 mx-auto w-full"
+    class="max-w-3xl mb-4 mx-auto w-full"
     role="table"
     :class="{ 'mt-20': !selectedCategory.description }">
     <transition-group tag="tbody" name="states">
@@ -43,10 +42,10 @@
         class="table-row transition-all duration-700 ease-in-out relative"
         role="row">
         <th
-          class="text-sm text-gray-700 flex items-center pr-4 font-normal pb-2"
+          class="text-base text-gray-700 flex items-center pr-4 font-normal pb-2"
           role="cell">
-          <router-link
-            :to="
+          <a
+            :href="
               bar.state.slug === 'bund'
                 ? '/bund/'
                 : `/laender/${bar.state.slug}/`
@@ -67,12 +66,20 @@
             </span>
 
             <i-mdi-information-outline role="presentation" />
-          </router-link>
+          </a>
         </th>
         <td class="w-full mb-2 pb-2" role="cell">
-          <ranking-bar
-            :color="selectedCategory.color"
-            :progress="bar.percentage" />
+          <div class="flex items-center gap-2">
+            <ranking-bar
+              class="grow"
+              :color="selectedCategory.color"
+              :progress="bar.percentage" />
+            <trend-indicator
+              :current="bar.percentage"
+              :previous="bar.previousPercentage"
+              :title="`2025: ${bar.previousPercentage} %`"
+              :label="trendLabel(bar)" />
+          </div>
         </td>
       </tr>
     </transition-group>
@@ -83,6 +90,7 @@
 import { ref, computed } from 'vue';
 import overview from '@data/overview';
 import categories from '@data/categories';
+import trendLabel from '../utils/percentageTrendLabel.mjs';
 
 const first = Object.values(categories)[0];
 const selected = ref(first.slug);

@@ -1,112 +1,137 @@
 <template>
   <footer
-    class="bg-blue-900 text-white text-light px-4 md:px-8 pt-12 pb-8 mx-auto shadow-[rgba(0,0,15,0.5)_10px_5px_4px_0px]">
-    <div class="max-w-screen-lg mx-auto">
+    class="bg-blue-900 text-white text-lg text-light px-4 md:px-8 pt-12 pb-8 mx-auto shadow-[rgba(0,0,15,0.5)_10px_5px_4px_0px]">
+    <div class="max-w-5xl mx-auto">
       <h2 class="w-full text-3xl mb-8 font-semibold">
         Über das Open Data Ranking
       </h2>
 
       <div class="grid md:grid-cols-2 gap-x-16 gap-y-8">
         <div>
-          <h3 class="text-xl font-semibold mb-3">Die Erhebung</h3>
+          <h3 class="text-2xl font-semibold mb-3">Die Erhebung</h3>
 
-          <p>
+          <p class="mb-6">
             Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen
             steht das Thema Open Data schon seit mehr als einer Dekade im Raum -
-            wir haben den Stand von Open Data in Bund und Ländern für das Jahr 2024 verglichen,
-            um eine Diskussionsgrundlage zum Umsetzungsstand jenseits des reinen
-            Zählens der verfügbaren Datensätze zu schaffen.
+            wir haben den Stand von Open Data in Bund und Ländern für das Jahr
+            2026 verglichen, um eine Diskussionsgrundlage zum Umsetzungsstand
+            jenseits des reinen Zählens der verfügbaren Datensätze zu schaffen.
+          </p>
+
+          <p class="text-base pb-3 mb-3 border-b border-white/25">
+            <a
+              href="/2025/"
+              class="inline-flex items-center gap-2"
+              target="_blank"
+              ><span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Zur Ausgabe von 2025</span
+              ><i-mdi-arrow-right role="presentation"
+            /></a>
+          </p>
+          <p class="text-base">
+            <a
+              href="/2024/"
+              class="inline-flex items-center gap-2"
+              target="_blank"
+              ><span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Zur Ausgabe von 2024</span
+              ><i-mdi-arrow-right role="presentation"
+            /></a>
           </p>
         </div>
 
         <div>
-          <h3 class="text-xl font-semibold mb-3">Das Projekt</h3>
+          <h3 class="text-2xl font-semibold mb-3">Das Projekt</h3>
 
           <p class="mb-6">
             Das Open Data Ranking ist ein Projekt der Open Knowledge Foundation
             Deutschland e.V.
           </p>
 
-          <div class="flex items-center gap-3">
+          <div class="flex items-center gap-6">
             <a href="https://okfn.de" target="_blank">
               <img
-                class="mr-6 h-auto object-contain max-h-24"
+                class="w-auto h-20"
                 src="../assets/img/okfde.svg"
+                width="808"
+                height="354"
+                loading="lazy"
                 alt="Open Knowledge Foundation Deutschland e.V." />
             </a>
 
             <a href="https://okfn.de/projekte/opendata/" target="_blank">
               <img
-                class="object-contain max-h-24"
+                class="w-auto h-20"
                 src="../assets/img/open-data.svg"
+                width="214"
+                height="146"
+                loading="lazy"
                 alt="Offene Verwaltungsdaten" />
             </a>
           </div>
         </div>
 
         <div>
-          <h3 class="text-xl font-semibold mb-3">Downloads</h3>
-          <div class="grid grid-cols-2 gap-4">
-          <div>
-            <p class="mb-1">
-              <a href="/opendataranking2025.pdf" class="inline-flex items-center group">
-                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
-                <span class="underline underline-offset-4 hover:decoration-transparent">
-                  Broschüre Ranking 2025
-                </span>
-              </a>
-            </p>
+          <h3 class="text-2xl font-semibold mb-3">Downloads</h3>
+          <div class="grid grid-cols-[1fr_auto_auto_auto] gap-x-6">
+            <div
+              class="grid grid-cols-subgrid col-span-4 items-center py-3 border-t border-white/25 first:border-t-0 first:pt-0">
+              <span class="flex gap-2 items-center">
+                <i-mdi-file-pdf-outline class="shrink-0" role="presentation" />
+                <span>Broschüre Ranking</span>
+              </span>
+              <a
+                href="/opendataranking2026.pdf"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="Broschüre Ranking 2026"
+                >2026</a
+              >
+              <a
+                href="/opendataranking2025.pdf"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="Broschüre Ranking 2025"
+                >2025</a
+              >
+              <a
+                href="/opendataranking2024.pdf"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="Broschüre Ranking 2024"
+                >2024</a
+              >
+            </div>
+            <div
+              class="grid grid-cols-subgrid col-span-4 items-center py-3 border-t border-white/25 first:border-t-0 first:pt-0">
+              <span class="flex gap-2 items-center">
+                <i-mdi-code-json class="shrink-0" role="presentation" />
+                <span>JSON-Datensatz</span>
+              </span>
+              <a
+                href="/OpenDataRanking2026_Dataset.zip"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="JSON-Datensatz 2026"
+                >2026</a
+              >
+              <a
+                href="/OpenDataRanking2025_Dataset.zip"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="JSON-Datensatz 2025"
+                >2025</a
+              >
+              <a
+                href="/OpenDataRanking2024_Dataset.zip"
+                class="underline underline-offset-4 hover:decoration-transparent"
+                title="JSON-Datensatz 2024"
+                >2024</a
+              >
+            </div>
           </div>
-          <div>
-            <p class="mb-1">
-              <a href="/opendataranking2024.pdf" class="inline-flex items-center group">
-                <i-mdi-file-pdf-outline class="mr-1" role="presentation" />
-                <span class="underline underline-offset-4 hover:decoration-transparent">
-                  Broschüre Ranking 2024
-                </span>
-              </a>
-            </p>
-          </div>
-        </div>
-        <div class="grid grid-cols-2 gap-4">
-          <div>
-            <p class="mb-1">
-              <a href="/OpenDataRanking2025_Dataset.zip" class="inline-flex items-center group">
-                <i-mdi-code-json class="mr-1" role="presentation" />
-                <span class="underline underline-offset-4 hover:decoration-transparent">
-                  JSON-Datensatz 2025
-                </span>
-              </a>
-            </p>
-          </div>
-          <div>
-            <p class="mb-1">
-              <a href="/OpenDataRanking2024_Dataset.zip" class="inline-flex items-center group">
-                <i-mdi-code-json class="mr-1" role="presentation" />
-                <span class="underline underline-offset-4 hover:decoration-transparent">
-                  JSON-Datensatz 2024
-                </span>
-              </a>
-            </p>
-          </div>
-        </div>
-          <p>
-            <a href="https://github.com/okfde/opendataranking.de" class="inline-flex items-center group">
-              <i-mdi-github class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Quellcode</span>
-            </a>
-          </p>
-          <p>
-            <a href="https://opendata.okfn.de/" class="inline-flex items-center group">
-              <i-mdi-LightbulbOnOutline class="mr-1" role="presentation" />
-              <span class="underline underline-offset-4 hover:decoration-transparent">Open Data Knowledge Hub</span>
-            </a>
-          </p>
         </div>
 
         <div>
-          <h3 class="text-xl font-semibold mb-3">Copyright</h3>
-          <p>
+          <h3 class="text-2xl font-semibold mb-3">Copyright</h3>
+          <p class="mb-3">
             Dieses Werk und die Daten sind lizenziert unter Creative Commons
             Namensnennung 4.0 International (<a
               href="https://creativecommons.org/licenses/by/4.0/"
@@ -115,12 +140,23 @@
               >CC BY 4.0</a
             >).
           </p>
+          <p>
+            <a
+              href="https://github.com/okfde/opendataranking.de"
+              class="inline-flex items-center group">
+              <i-mdi-github class="mr-1" role="presentation" />
+              <span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Quellcode</span
+              >
+            </a>
+          </p>
         </div>
 
         <div>
-          <h3 class="text-xl font-semibold mb-3">Kontakt</h3>
+          <h3 class="text-2xl font-semibold mb-3">Kontakt</h3>
 
-          <p>
+          <p class="mb-3">
             Wir freuen uns sehr über Feedback, Kritik und Fragen. Kontaktieren
             Sie uns bitte unter
             <a
@@ -129,10 +165,22 @@
               >opendata@okfn.de</a
             >.
           </p>
+
+          <p>
+            <a
+              href="https://opendata.okfn.de/"
+              class="inline-flex items-center group">
+              <i-mdi-LightbulbOnOutline class="mr-1" role="presentation" />
+              <span
+                class="underline underline-offset-4 hover:decoration-transparent"
+                >Open Data Knowledge Hub</span
+              >
+            </a>
+          </p>
         </div>
 
         <div>
-          <h3 class="text-xl font-semibold mb-3">Impressum</h3>
+          <h3 class="text-2xl font-semibold mb-3">Impressum</h3>
           <p class="mb-3">
             Verantwortlicher Diensteanbieter für diese Homepage ist das Projekt
             Offene Verwaltungsdaten der Open Knowledge Foundation Deutschland.

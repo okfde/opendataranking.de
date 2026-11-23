@@ -4,7 +4,7 @@
       <img
         :src="getImage(state.slug)"
         :alt="`Wappen von ${state.name}`"
-        class="w-10 h-auto flex-shrink-0" />
+        class="w-10 h-auto shrink-0" />
       <h2 class="text-3xl md:text-5xl text-blue font-bold">
         {{ state.name }}
       </h2>
@@ -13,38 +13,51 @@
     <div class="border border-blue rounded shadow-sm">
       <div class="p-3 md:p-6">
         <table class="w-full" role="table">
-          <tr
-            v-for="(bar, i) in performance"
-            :key="bar.category.slug"
-            class="flex flex-col md:table-row"
-            role="row"
-            scope="row">
-            <th role="cell" class="font-normal">
-              <span
-                class="text-sm text-gray-700 text-right md:whitespace-nowrap pb-2 md:py-0 md:pr-4 flex md:min-h-8 md:items-center md:justify-end"
-                :class="{ 'font-bold md:mb-4': i === 0, 'pt-4': i > 0 }">
-                <router-link
-                  v-if="i !== 0"
-                  :to="`#${bar.category.slug}`"
-                  :title="`Mehr Informationen zu ${bar.category.title}`"
-                  class="inline-flex items-center group">
-                  <span class="group-hover:underline underline-offset-4">{{
-                    bar.category.title
-                  }}</span>
-                  <i-mdi-information-outline class="ml-1" role="presentation" />
-                </router-link>
-                <span v-else v-text="bar.category.title" />
-              </span>
-            </th>
+          <tbody>
+            <tr
+              v-for="(bar, i) in performance"
+              :key="bar.category.slug"
+              class="flex flex-col md:table-row"
+              role="row"
+              scope="row">
+              <th role="cell" class="font-normal">
+                <span
+                  class="text-base text-gray-700 text-right md:whitespace-nowrap pb-2 md:py-0 md:pr-4 flex md:min-h-8 md:items-center md:justify-end"
+                  :class="{ 'font-bold md:mb-4': i === 0, 'pt-4': i > 0 }">
+                  <a
+                    v-if="i !== 0"
+                    :href="`#${bar.category.slug}`"
+                    :title="`Mehr Informationen zu ${bar.category.title}`"
+                    class="inline-flex items-center group">
+                    <span class="group-hover:underline underline-offset-4">{{
+                      bar.category.title
+                    }}</span>
+                    <i-mdi-information-outline
+                      class="ml-1"
+                      role="presentation" />
+                  </a>
+                  <span v-else v-text="bar.category.title" />
+                </span>
+              </th>
 
-            <td class="w-full" role="cell">
-              <ranking-bar
-                :color="bar.category.color"
-                :progress="bar.percentage"
-                :large="i === 0"
-                :class="{ 'mb-2 md:mb-4': i === 0 }" />
-            </td>
-          </tr>
+              <td class="w-full" role="cell">
+                <div
+                  class="flex items-center gap-2"
+                  :class="{ 'mb-2 md:mb-4': i === 0 }">
+                  <ranking-bar
+                    class="grow"
+                    :color="bar.category.color"
+                    :progress="bar.percentage"
+                    :large="i === 0" />
+                  <trend-indicator
+                    :current="bar.percentage"
+                    :previous="bar.previousPercentage"
+                    :title="`2025: ${bar.previousPercentage} %`"
+                    :label="trendLabel(bar)" />
+                </div>
+              </td>
+            </tr>
+          </tbody>
         </table>
       </div>
 
@@ -68,11 +81,13 @@
 
     <div
       v-if="state.description"
-      class="mt-8 md:mt-16 max-w-screen-md w-full mx-auto text-base md:text-lg flex flex-col gap-4"
+      class="mt-8 md:mt-16 max-w-3xl w-full mx-auto text-base md:text-xl flex flex-col gap-4"
       v-html="state.description" />
 
     <div class="mt-8 md:mt-16">
-      <state-details v-if="state.criteria" :performance="performance" />
+      <state-details
+        v-if="performance.some((p) => p.details)"
+        :performance="performance" />
     </div>
 
     <state-stats
@@ -84,16 +99,15 @@
 
 <script setup>
 import { computed } from 'vue';
-import { useHead } from '@unhead/vue';
 
-import states from '@data/states';
 import _categories from '@data/categories';
+import trendLabel from '../utils/percentageTrendLabel.mjs';
 
 const categories = Object.values(_categories);
 
 const props = defineProps({
   state: {
-    type: String,
+    type: Object,
     required: true,
   },
 });
@@ -107,11 +121,17 @@ function getCategory(categorySlug = 'gesamt') {
     .find((c) => c.slug === categorySlug);
 }
 
+const wappen = import.meta.glob('../assets/img/wappen/*.svg', {
+  eager: true,
+  query: '?url',
+  import: 'default',
+});
+
 function getImage(slug) {
-  return new URL(`../assets/img/wappen/${slug}.svg`, import.meta.url).href;
+  return wappen[`../assets/img/wappen/${slug}.svg`];
 }
 
-const state = computed(() => states.find((s) => s.slug === props.state));
+const state = computed(() => props.state);
 
 const performance = computed(() =>
   state.value.performance.map((p) => ({
@@ -119,9 +139,4 @@ const performance = computed(() =>
     category: getCategory(p.categorySlug),
   })),
 );
-
-const title = `Open Data ${state.value.name === 'Bund' ? 'im Bund' : `in ${state.value.name}`} - Das Open Data Ranking`;
-const description = `Wie hat ${state.value.name === 'Bund' ? 'der Bund' : state.value.name} im Open Data Ranking ab geschnitten?`;
-
-useHead({ title, description });
 </script>

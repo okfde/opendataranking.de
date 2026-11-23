@@ -1,4 +1,5 @@
-import { XMLParser, XMLBuilder } from 'fast-xml-parser';
+import { XMLParser } from 'fast-xml-parser';
+import XMLBuilder from 'fast-xml-builder';
 import chroma from 'chroma-js';
 import { optimize } from 'svgo';
 import fs from 'fs/promises';
@@ -6,10 +7,12 @@ import path from 'path';
 import { getStates } from './states.mjs';
 import { compileTemplate } from '@vue/compiler-sfc';
 
-const MAP = path.join(__dirname, 'map.svg');
+const MAP = path.join(import.meta.dirname, 'map.svg');
 let handle;
 
-const scale = chroma.scale(['#99afac', '#335f59', '#07423a']).domain([0, 100]);
+const scale = chroma
+  .scale(['#e999ff', '#c900ff', '#7600c4', '#470074'])
+  .domain([0, 100]);
 
 async function renderSvg() {
   const states = await getStates(false);
@@ -26,12 +29,12 @@ async function renderSvg() {
   }
 
   const { data } = optimize(builder.build(map), {
+    floatPrecision: 1,
     plugins: [
       {
         name: 'preset-default',
         params: {
           overrides: {
-            removeViewBox: false,
             cleanupIds: false,
           },
         },
@@ -52,12 +55,11 @@ export default function () {
         return id;
       }
     },
-    async configureServer(server) {
-      const svg = await renderSvg();
-      server.middlewares.use((req, res, next) => {
+    configureServer(server) {
+      server.middlewares.use(async (req, res, next) => {
         if (req.url === `/${virtualFileId}`) {
           res.setHeader('Content-Type', 'image/svg+xml');
-          return res.end(svg, 'utf-8');
+          return res.end(await renderSvg(), 'utf-8');
         }
         next();
       });
