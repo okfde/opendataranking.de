@@ -41,12 +41,15 @@ export async function getStates() {
               new: isNew = false,
             } = criteria.find((c) => c.title === criterium.title);
 
-            const trendIndicator = scoreTrend(
-              criterium.points[2026],
-              maxPoints[2026],
-              criterium.points[2025],
-              maxPoints[2025],
-            );
+            const trendIndicator =
+              criterium.trend !== undefined
+                ? criterium.trend
+                : scoreTrend(
+                    criterium.points[2026],
+                    maxPoints[2026],
+                    criterium.points[2025],
+                    maxPoints[2025],
+                  );
 
             return {
               ...criterium,
