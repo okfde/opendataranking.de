@@ -2,17 +2,17 @@
   <span
     class="text-base rounded-2xl p-0.5"
     :class="{
-      'bg-green-50': current > previous,
-      'bg-red-50': current < previous,
-      'bg-yellow-50': current === previous,
+      'bg-green-50': trend > 0,
+      'bg-red-50': trend < 0,
+      'bg-yellow-50': trend === 0,
     }"
     :title="title">
     <i-mdi-arrow-top-right-thick
-      v-if="current > previous"
+      v-if="trend > 0"
       class="text-green-600"
       role="presentation" />
     <i-mdi-arrow-bottom-right-thick
-      v-else-if="current < previous"
+      v-else-if="trend < 0"
       class="text-red-600"
       role="presentation" />
     <i-mdi-arrow-right-thick
@@ -25,11 +25,7 @@
 
 <script setup>
 defineProps({
-  current: {
-    type: Number,
-    required: true,
-  },
-  previous: {
+  trend: {
     type: Number,
     required: true,
   },

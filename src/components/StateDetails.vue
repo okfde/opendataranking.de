@@ -51,10 +51,9 @@
               </span>
 
               <trend-indicator
-                v-if="detail.points[2025] !== undefined"
+                v-if="detail.trendIndicator !== null"
                 class="self-start mt-0.5"
-                :current="detail.points[2026]"
-                :previous="detail.points[2025]"
+                :trend="detail.trendIndicator"
                 :title="`2025: ${detail.points[2025]} von ${detail.maxPoints[2025]}`"
                 :label="trendLabel(detail)" />
             </div>
@@ -143,13 +142,15 @@ function visible({ id }) {
   return visibleDetails.value.includes(id);
 }
 
-function trendLabel({ points }) {
-  if (points[2026] > points[2025]) {
-    return `verbessert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+function trendLabel({ points, maxPoints, trendIndicator }) {
+  const previous = `${points[2025]} von ${maxPoints[2025]} ${maxPoints[2025] === 1 ? 'Punkt' : 'Punkten'}`;
+
+  if (trendIndicator > 0) {
+    return `verbessert gegenüber 2025 (${previous})`;
   }
 
-  if (points[2026] < points[2025]) {
-    return `verschlechtert gegenüber 2025 (${points[2025]} ${points[2025] === 1 ? 'Punkt' : 'Punkte'})`;
+  if (trendIndicator < 0) {
+    return `verschlechtert gegenüber 2025 (${previous})`;
   }
 
   return 'unverändert gegenüber 2025';

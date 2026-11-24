@@ -7,6 +7,7 @@ import serveVirtualFile from '../utils/serveVirtualFile.mjs';
 import pointPercentage from '../utils/percentage.mjs';
 import { getCategories } from './categories.mjs';
 import markdown from '../utils/markdown.mjs';
+import scoreTrend from '../utils/scoreTrend.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const statesDir = path.join(__dirname, 'states');
@@ -40,11 +41,19 @@ export async function getStates() {
               new: isNew = false,
             } = criteria.find((c) => c.title === criterium.title);
 
+            const trendIndicator = scoreTrend(
+              criterium.points[2026],
+              maxPoints[2026],
+              criterium.points[2025],
+              maxPoints[2025],
+            );
+
             return {
               ...criterium,
               new: isNew,
               slug,
               maxPoints,
+              trendIndicator,
               id: idCounter++,
             };
           });
@@ -60,12 +69,17 @@ export async function getStates() {
           category.maxPoints[2025],
         );
 
+        // Compare the rounded percentages so the trend matches the
+        // displayed "2025: X %" title and percentageTrendLabel.
+        const trendIndicator = Math.sign(percentage - previousPercentage);
+
         return {
           categorySlug: category.slug,
           details,
           achievedPoints,
           percentage,
           previousPercentage,
+          trendIndicator,
         };
       });
 

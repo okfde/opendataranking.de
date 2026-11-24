@@ -50,8 +50,7 @@
                     :progress="bar.percentage"
                     :large="i === 0" />
                   <trend-indicator
-                    :current="bar.percentage"
-                    :previous="bar.previousPercentage"
+                    :trend="bar.trendIndicator"
                     :title="`2025: ${bar.previousPercentage} %`"
                     :label="trendLabel(bar)" />
                 </div>

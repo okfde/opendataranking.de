@@ -15,9 +15,8 @@ async function overview() {
     bars[slug].description = description;
 
     for (const state of states) {
-      const { achievedPoints, previousPercentage } = state.performance.find(
-        ({ categorySlug }) => categorySlug === slug,
-      );
+      const { achievedPoints, previousPercentage, trendIndicator } =
+        state.performance.find(({ categorySlug }) => categorySlug === slug);
 
       const percentage = pointPercentage(achievedPoints, maxPoints[2026]);
 
@@ -25,6 +24,7 @@ async function overview() {
         state: { slug: state.slug, name: state.name, short: state.short },
         percentage,
         previousPercentage,
+        trendIndicator,
       });
     }
 
