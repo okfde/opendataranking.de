@@ -312,6 +312,6 @@ stats:
 ---
 Schleswig-Holstein bleibt weiterhin an der Spitze des Rankings. Hervorzuheben ist insbesondere die Entwicklung eines Schema-Repositories. Dieses ermöglicht eine zentrale, versionierte Ablage zur strukturellen Beschreibung von Datensätzen. Für das Jahr 2026 ist zudem eine Weiterentwicklung des Landesportals geplant. 
 
-Ein Wermutstropfen ist der Ausschluss der Kommunen von der Bereitstellung gemäß Landesgesetz. Um die Kommunen dennoch zu unterstützen, hat die Staatskanzlei ein Programm ins Leben gerufen. Mit diesem können sich Kommunen und weitere Behörden Schnittstellen für Fachverfahren und eine Anbindung ans Landesportal zur automatisierten Datenlieferung fördern lassen. Das Programm wurde jedoch nicht abgerufen. Hier gilt es, andere Wege zu finden. 
+Ein Wermutstropfen ist die fehlende Bereitstellungspflicht für die Kommunen nach dem Landesgesetz. Um die Kommunen dennoch zu unterstützen, hat die Staatskanzlei ein Programm ins Leben gerufen. Mit diesem können sich Kommunen und weitere Behörden Schnittstellen für Fachverfahren und eine Anbindung ans Landesportal zur automatisierten Datenlieferung fördern lassen. Das Programm wurde jedoch nicht abgerufen. Hier gilt es, andere Wege zu finden.
 
 Für eine bessere Bewertung fehlt zudem ein Rechtsanspruch auf Open Data. Die Erfahrung hat gezeigt, dass selbst die besten Rahmenbedingungen wenig nützen, wenn sich einzelne Behörden folgenlos querstellen können.
